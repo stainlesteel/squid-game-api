@@ -1,0 +1,23 @@
+{
+  "Player 184": {
+    "Name": "Unknown",
+    "Aliases": "Player 184",
+    "Relationships": "Player 058 (friend)",
+    "Affiliation": "33rd Squid Game",
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "Tug of War",
+      "Cause of death": "Lost to Team 4 and fell off the platform."
+    },
+    "Physical Description": {
+      "Gender": "Male",
+      "Eye color": "Brown",
+      "Hair color": "Black"
+    },
+    "Appearances": {
+      "Portrayed by": "Unknown extra",
+      "First appearance": "Red Light, Green Light",
+      "Last appearance": "A Fair World"
+    }
+  }
+}

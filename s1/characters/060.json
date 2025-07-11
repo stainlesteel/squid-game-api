@@ -1,0 +1,21 @@
+{
+  "title": "Player 060",
+  "name": "Unknown",
+  "aliases": [
+    "Player 060"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "Tug of War",
+    "cause_of_death": "Fell off the platform"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Stick to the Team"
+  }
+}

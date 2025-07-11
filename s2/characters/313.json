@@ -1,0 +1,29 @@
+{
+  "title": "Player 313",
+  "name": "Unknown",
+  "aliases": "Player 313",
+  "relationships": [
+    "Player 146 (ally)",
+    "Player 050 † (best friend, ally)",
+    "Player 238 † (ally)"
+  ],
+  "affiliation": "Team O",
+  "fate": {
+    "status": "Deceased",
+    "died": [
+      "November 3, 2024",
+      "Mingle"
+    ],
+    "cause_of_death": "Shot by soldier after gathering the incorrect number of players in a room"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Seo Moon-ho",
+    "first_appearance": "001",
+    "last_appearance": "O X"
+  }
+}

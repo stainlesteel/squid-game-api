@@ -1,0 +1,27 @@
+{
+  "title": "Player 055",
+  "name": "Unknown",
+  "aliases": [
+    "Player 055"
+  ],
+  "relationships": [
+    "Player 105 (33rd Squid Game) (friend)",
+    "Player 273 (33rd Squid Game) (friend)"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "Tug of War",
+    "cause_of_death": "Lost to a unknown team"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "2 unknown extras",
+    "first_appearance": "Hell",
+    "last_appearance": "Stick to the Team"
+  }
+}

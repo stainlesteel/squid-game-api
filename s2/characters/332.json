@@ -1,0 +1,25 @@
+{
+  "title": "Player 332",
+  "properties": {
+    "name": "Unknown",
+    "aliases": "Player 332",
+    "relationships": "Player 134 (ally) Player 111 (ally) Player 012 (ally)",
+    "affiliation": "Team X",
+    "born": "In 1960's-1970's"
+  },
+  "fate": {
+    "status": "Deceased",
+    "died": "November 3, 2024 Mingle",
+    "cause_of_death": "He died in the second round of Mingle."
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark brown",
+    "hair_color": "Light brown"
+  },
+  "appearances": {
+    "portrayed_by": "Dae Soo-hoo",
+    "first_appearance": "001",
+    "last_appearance": "O X"
+  }
+}

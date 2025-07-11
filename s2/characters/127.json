@@ -1,0 +1,22 @@
+{
+  "title": "Player 127",
+  "name": "Unknown",
+  "aliases": "Player 127",
+  "affiliation": "Team O",
+  "born": "1980's-1990's",
+  "fate": {
+    "status": "Deceased",
+    "died": "3 November, Mingle",
+    "cause of death": "He died in round 4 or 5"
+  },
+  "physical description": {
+    "gender": "Male",
+    "eye color": "Dark brown",
+    "hair color": "Black"
+  },
+  "appearances": {
+    "portrayed by": "Lee (given name unknown)",
+    "first appearance": "001",
+    "last appearance": "O X"
+  }
+}

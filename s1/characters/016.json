@@ -1,0 +1,39 @@
+{
+  "title": "Player 016",
+  "name": "Unknown",
+  "aliases": [
+    "Player 016"
+  ],
+  "relationships": [
+    {
+      "name": "Player 018",
+      "type": "friend"
+    },
+    {
+      "name": "Player 361",
+      "type": "friend"
+    }
+  ],
+  "affiliation": [
+    "33rd Squid Game"
+  ],
+  "born": {
+    "date": "June 2001 or earlier"
+  },
+  "fate": {
+    "status": "Deceased",
+    "died": "June 28, 2020",
+    "death_location": "Marbles",
+    "cause_of_death": "Either didn’t finish in time with his partner or cheated"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "4 unknown extras",
+    "first_appearance": "Red Light, Green Light (error)",
+    "last_appearance": "Gganbu"
+  }
+}

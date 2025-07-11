@@ -1,0 +1,29 @@
+{
+  "title": "Player 078 (37th Squid Game)",
+  "details": {
+    "Name": "Unknown",
+    "Aliases": "Player 078"
+  },
+  "sections": [
+    {
+      "header": "Fate",
+      "data": {
+        "Status": "Deceased",
+        "Died": "The Six-Legged Pentathlon",
+        "Cause of death": "Failed to cross the line in time and shot dead"
+      }
+    },
+    {
+      "header": "Physical Description",
+      "data": {
+        "Gender": "Male"
+      }
+    },
+    {
+      "header": "Appearances",
+      "data": {
+        "Only appearance": "Unknown"
+      }
+    }
+  ]
+}

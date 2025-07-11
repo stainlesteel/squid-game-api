@@ -1,0 +1,34 @@
+{
+  "title": "Player 131",
+  "properties": {
+    "Name": "Unknown",
+    "Aliases": "Player 131",
+    "Relationships": [
+      "Player 008 - Friend, Ally and Teammate in Six-Legged Pentathlon",
+      "Player 116 - Friend, Ally and Teammate in Six-Legged Pentathlon",
+      "Player 154 - Friend, Ally and Teammate in Six-Legged Pentathlon",
+      "Player 177 - Ally and Teammate in Six-Legged Pentathlon"
+    ],
+    "Affiliation": [
+      "37th Squid Game",
+      "Team O",
+      "Player 131's Pentathlon team"
+    ],
+    "Born": "In 1990's",
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "November 3rd, Mingle",
+      "Cause of death": "Shot in the final round of Mingle."
+    },
+    "Physical Description": {
+      "Gender": "Female",
+      "Eye color": "Dark brown",
+      "Hair color": "Dark brown"
+    },
+    "Appearances": {
+      "Portrayed by": "Ju Ji-min",
+      "First appearance": "001",
+      "Last appearance": "O X"
+    }
+  }
+}

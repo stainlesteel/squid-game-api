@@ -1,0 +1,29 @@
+{
+  "title": "Player 241",
+  "name": "Unknown",
+  "aliases": "Player 241",
+  "relations": "Lee Myung-gi (teammate in Six-Legged Pentathlon)",
+  "affiliation": [
+    "37th Squid Game",
+    "Team O",
+    "Blue Team"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": [
+      "November 4, 2024",
+      "Hide and Seek"
+    ],
+    "cause": "Stabbed to death by Seeker"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Black",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Cha Chun-ho",
+    "first": "\"001\" (icon)",
+    "last": "\"The Starry Night\""
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Player 067",
+  "name": "Kang Sae-byeok",
+  "aliases": [
+    "Player 067",
+    "Pickpocket (소매치기 Somaechigi) (Seong Gi-hun)",
+    "(누나 Noona) (Kang Cheol)",
+    "Commie Bitch (Jang Deok-su)",
+    "Spy from the North (Ji-yeong)"
+  ],
+  "family": [
+    "Kang Cheol (younger brother)",
+    "Unnanamed mother",
+    "Unnamed father †",
+    "Unnamed older brother †",
+    "Unnamed grandparents †"
+  ],
+  "relationships": [
+    "Ji-yeong † (close friend)",
+    "Seong Gi-hun † (close friend)",
+    "Cho Sang-woo † (former ally, killer)",
+    "Ali Abdul † (ally)",
+    "Jang Deok-su † (enemy, former ally)"
+  ],
+  "affiliation": "33rd Squid Game",
+  "occupation": "Pickpocket",
+  "born": "North Hamgyong Province, North Korea",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 29–30, 2020",
+    "location": "Dormitory, The Island",
+    "cause_of_death": "Stabbed in neck by Cho Sang-woo"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Brown",
+    "hair_color": "Dark brown"
+  },
+  "appearances": {
+    "portrayed_by": "HoYeon Jung",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Humans Are... (vision)"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Player 406 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 406",
+  "affiliation": "37th Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "Special game (Error) Red Light, Green Light",
+    "cause_of_death": "Shot in the head by a sniper, Stabbed to death by Player 358. (error)"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown"
+  },
+  "appearances": {
+    "first_appearance": "001",
+    "last_appearance": "Friend or Foe (error)"
+  }
+}

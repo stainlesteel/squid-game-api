@@ -1,0 +1,19 @@
+{
+  "title": "Player 444 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 444",
+  "fate": {
+    "status": "Deceased",
+    "died": "Special Game",
+    "cause": "Killed by Player 131"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "An Unknown Extra",
+    "first": "Unknown"
+  }
+}

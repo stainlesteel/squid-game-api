@@ -1,0 +1,27 @@
+{
+  "title": "Player 312 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 312",
+  "relationships": [
+    "Player 227",
+    "Player 450"
+  ],
+  "affiliation": [
+    "33rd Squid Game",
+    "Team Six"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "June 28, 2021, Marbles",
+    "cause_of_death": "Lost with his partner"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Brown"
+  },
+  "appearances": {
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "A Fair World"
+  }
+}

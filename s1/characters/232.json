@@ -1,0 +1,21 @@
+{
+  "title": "Player 232 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 232",
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26-27, 2020 Special Game",
+    "cause": "Killed by Player 019"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eyes": "Black",
+    "hair": "Copper Blonde"
+  },
+  "appearances": {
+    "actor": "Unknown extra",
+    "first": "Red Light, Green Light",
+    "last": "Stick to the Team"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Player 330 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 330",
+  "fate": {
+    "status": "Deceased",
+    "died": "Tug of War",
+    "cause_of_death": "Pulled of the platform by an Unknown Team"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Brown",
+    "hair_color": "Brown"
+  },
+  "appearances": {
+    "portrayed_by": "An Unknown Extra",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Stick to the Team"
+  }
+}

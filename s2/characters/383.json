@@ -1,0 +1,21 @@
+{
+  "title": "Player 383",
+  "data": {
+    "name": "Unknown",
+    "aliases": "Player 383",
+    "affiliation": "37th Squid Game",
+    "Fate": {
+      "status": "Deceased",
+      "died": "November 1, 2024 Red Light, Green Light",
+      "cause": "Shot in chest by sniper after running to doors"
+    },
+    "Physical Description": {
+      "gender": "Male",
+      "eyes": "Dark Brown",
+      "hair": "Black"
+    },
+    "Appearances": {
+      "first": "\"001\""
+    }
+  }
+}

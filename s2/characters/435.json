@@ -1,0 +1,31 @@
+{
+  "title": "Player 435",
+  "details": {
+    "name": "Unknown",
+    "aliases": "Player 435",
+    "relationships": "Player 334 † (victim)",
+    "affiliation": [
+      "37th Squid Game",
+      "Team O",
+      "Seekers"
+    ]
+  },
+  "fate": {
+    "status": "Deceased",
+    "died": [
+      "November 5, 2024",
+      "Jump Rope"
+    ],
+    "cause_of_death": "Flung off rope and fell to death"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Park Jong-young",
+    "first_appearance": "001",
+    "last_appearance": "222"
+  }
+}

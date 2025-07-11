@@ -1,0 +1,35 @@
+{
+  "title": "Player 349",
+  "name": "Unknown",
+  "aliases": "Player 349",
+  "relationships": [
+    "Player 099 - Teammate in Six-Legged Pentathlon",
+    "Player 143 - Ally, Teammate in Six-Legged Pentathlon",
+    "Player 297 - Ally, Teammate in Six-Legged Pentathlon",
+    "Player 423 - Teammate in Six-Legged Pentathlon",
+    "Player 448 - Friend, Ally after Mingle",
+    "Player 232 - Victim",
+    "Player 377 - Ally, Indirect Victim",
+    "Kim Gi-min - Killer"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team X",
+    "Seekers"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "November 5, 2024, Jump Rope",
+    "cause_of_death": "Kicked by Kim Gi-min and fell to death"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Dark brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Kim Geum-sun",
+    "first_appearance": "001 (icon)",
+    "last_appearance": "\"222\""
+  }
+}

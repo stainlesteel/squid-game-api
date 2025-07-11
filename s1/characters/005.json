@@ -1,0 +1,42 @@
+{
+  "title": "Cho Su-jin",
+  "name": "Cho Su-jin",
+  "aliases": [
+    "Player 005"
+  ],
+  "relationships": [
+    {
+      "name": "Cho In-taek",
+      "type": "father"
+    }
+  ],
+  "affiliation": [
+    "Mihwa Department Store (formerly)",
+    "33rd Squid Game",
+    "Team Eight"
+  ],
+  "occupation": "Department store worker (formerly)",
+  "born": {
+    "date": "March 1, 1988",
+    "location": "Busan, South Korea"
+  },
+  "fate": {
+    "status": "Deceased",
+    "died": "June 28, 2020",
+    "death_location": "Marbles",
+    "cause_of_death": "Shot after cheating with Player 183 in Marbles"
+  },
+  "physical_description": {
+    "gender": [
+      "Female",
+      "Male (erroneous)"
+    ],
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "six unknown extras",
+    "first_appearance": "Red Light, Green Light (error)",
+    "last_appearance": "Gganbu (error)"
+  }
+}

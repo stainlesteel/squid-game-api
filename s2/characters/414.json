@@ -1,0 +1,18 @@
+{
+  "title": "Player 414",
+  "name": "Unknown",
+  "aliases": "Player 414",
+  "affiliation": "37th Squid Game",
+  "fate": {
+    "status": "Deceased panicked",
+    "died": "November 1, 2024 Red Light, Green Light"
+  },
+  "physicalDescription": {
+    "gender": "Male",
+    "eyeColor": "Dark Brown",
+    "hairColor": "Dark Brown"
+  },
+  "appearances": {
+    "firstAppearance": "001"
+  }
+}

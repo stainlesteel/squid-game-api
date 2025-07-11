@@ -1,0 +1,19 @@
+{
+  "title": "Player 273 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 273",
+  "fate": {
+    "status": "Deceased",
+    "died": "Tug of War",
+    "cause_of_death": "Lost to Team 1 and fell off the platform"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Stick to the Team"
+  }
+}

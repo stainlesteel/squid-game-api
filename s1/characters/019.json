@@ -1,0 +1,62 @@
+{
+  "title": "Player 019 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": [
+    "Player 019"
+  ],
+  "relationships": [
+    {
+      "name": "Player 194",
+      "type": "tug of war teammate"
+    },
+    {
+      "name": "Player 063",
+      "type": "tug of war teammate"
+    },
+    {
+      "name": "Player 314",
+      "type": "tug of war teammate"
+    },
+    {
+      "name": "Player 156",
+      "type": "tug of war teammate"
+    },
+    {
+      "name": "Player 184",
+      "type": "tug of war teammate"
+    },
+    {
+      "name": "Player 315",
+      "type": "tug of war teammate"
+    },
+    {
+      "name": "Player 396",
+      "type": "tug of war teammate"
+    },
+    {
+      "name": "Player 410",
+      "type": "tug of war teammate"
+    },
+    {
+      "name": "Player 447",
+      "type": "tug of war teammate"
+    }
+  ],
+  "affiliation": [
+    "Team Five"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "June 27th, 2020",
+    "death_location": "Tug of War",
+    "cause_of_death": "He lost to Team 4 and fell off the platform"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "only_appearance": "Unknown"
+  }
+}

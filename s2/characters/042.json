@@ -1,0 +1,54 @@
+{
+  "title": "Player 042 (37th Squid Game)",
+  "data": [
+    {
+      "label": "Name",
+      "value": "Unknown"
+    },
+    {
+      "label": "Affiliation",
+      "value": "37th Squid Game Team O (formerly) Team X"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Fate",
+      "data": [
+        {
+          "label": "Status",
+          "value": "Deceased"
+        },
+        {
+          "label": "Died",
+          "value": "November 3, 2024 Mingle"
+        }
+      ]
+    },
+    {
+      "title": "Physical Description",
+      "data": [
+        {
+          "label": "Gender",
+          "value": "Male"
+        },
+        {
+          "label": "Hair color",
+          "value": "Black"
+        }
+      ]
+    },
+    {
+      "title": "Appearances",
+      "data": [
+        {
+          "label": "First appearance",
+          "value": "001"
+        },
+        {
+          "label": "Last appearance",
+          "value": "O X"
+        }
+      ]
+    }
+  ]
+}

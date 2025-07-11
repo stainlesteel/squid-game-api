@@ -1,0 +1,20 @@
+{
+  "title": "Player 046",
+  "name": "Unknown",
+  "aliases": [
+    "Player 046"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "Red Light, Green Light",
+    "cause_of_death": "Moved at the Red Light"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "only_appearance": "Unknown"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Player 268",
+  "Name": "Unknown",
+  "Aliases": "Player 268",
+  "Relationships": "Player 331 (enemy)\nPlayer 067 (enemy, killer)\nPlayer 299 - friend",
+  "Affiliation": "37th Squid Game\nTeam O",
+  "Fate": {
+    "Status": "Deceased",
+    "Died": "Bathroom fight",
+    "Cause of death": "Killed by Player 067 during a bathroom fight"
+  },
+  "Physical Description": {
+    "Gender": "Male",
+    "Eye color": "Black",
+    "Hair color": "Black"
+  },
+  "Appearances": {
+    "Portrayed by": "Shim Sang-min\nUnknown extra",
+    "First appearance": "001",
+    "Last appearance": "Friend or Foe"
+  }
+}

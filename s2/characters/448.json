@@ -1,0 +1,32 @@
+{
+  "Player 448": {
+    "Name": "Unknown",
+    "Aliases": "Player 448",
+    "Relationships": [
+      "Player 310 † (ally in Hide and Seek)",
+      "Player 349 † (ally in Mingle)",
+      "Player 384 † (ally in Six-Legged Pentathlon; error)"
+    ],
+    "Affiliation": [
+      "37th Squid Game",
+      "Team X (formerly)",
+      "Team O (unwillingly)",
+      "Hiders"
+    ],
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "November 5, 2024 (Jump Rope)",
+      "Cause of death": "Flung off rope and fell to death"
+    },
+    "Physical Description": {
+      "Gender": "Female",
+      "Eye color": "Dark brown",
+      "Hair color": "Dark brown"
+    },
+    "Appearances": {
+      "Portrayed by": "Lee Ji-yu",
+      "First appearance": "001",
+      "Last appearance": "222"
+    }
+  }
+}

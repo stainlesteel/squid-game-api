@@ -1,0 +1,25 @@
+{
+  "title": "Player 307",
+  "data": {
+    "Name": "Unknown",
+    "Aliases": "Player 307",
+    "Affiliation": "33rd Squid Game",
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "June 9-10, 2020 Red Light, Green Light",
+      "Cause of death": "Shot in chest by sniper"
+    },
+    "Physical Description": {
+      "Gender": "Male",
+      "Eye color": "Black",
+      "Hair color": "Dark brown"
+    },
+    "Appearances": {
+      "Portrayed by": "Three unknown extras",
+      "Timeline": {
+        "First appearance": "Red Light, Green Light",
+        "Last appearance": "Stick to the Team (error)"
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Player 104",
+  "name": "Unknown",
+  "aliases": "Player 104",
+  "relations": [
+    "Player 011",
+    "Player 138",
+    "Player 169",
+    "Player 320"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team X"
+  ],
+  "born": "In 1980's",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 3, 2024 Mingle",
+    "cause": "She was abandoned in fifth round at Mingle."
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eyes": "Dark Brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "first": "001",
+    "last": "O X"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Player 102",
+  "data": {
+    "name": "Unknown",
+    "aliases": "Player 102",
+    "relationships": [
+      "Player 197 - (best friend)",
+      "Player 182 - (enemy and victim)",
+      "Player 158 - (enemy)",
+      "Player 296 - (enemy and killer)",
+      "Player 056 - (enemy)"
+    ],
+    "affiliation": [
+      "37th Squid Game",
+      "Team X"
+    ],
+    "fate": {
+      "status": "Deceased",
+      "died": "November 3–4, 2024\nDormitory, The Island, during Special Game",
+      "cause_of_death": "Stabbed to death with fork by Player 296"
+    },
+    "physical_description": {
+      "gender": "Male",
+      "eye_color": "Dark brown",
+      "hair_color": "Black"
+    },
+    "appearances": {
+      "portrayed_by": "Son Dae-min",
+      "first_appearance": "001",
+      "last_appearance": "Friend or Foe"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Player 080",
+  "name": "Unknown",
+  "aliases": [
+    "Player 080"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26-27, 2020, Special Game/33rd Squid Game",
+    "cause_of_death": "Killed by an unknown player"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Brown",
+    "hair_color": "Brown"
+  },
+  "appearances": {
+    "portrayed_by": "Four unknown extras",
+    "first_appearance": "Red Light, Green Light (error)",
+    "last_appearance": "Stick to the Team (error)"
+  }
+}

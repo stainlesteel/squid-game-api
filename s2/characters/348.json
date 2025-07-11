@@ -1,0 +1,38 @@
+{
+  "title": "Player 348",
+  "data": {
+    "name": "Unknown",
+    "aliases": [
+      "Player 348",
+      "Asshole"
+    ],
+    "relations": [
+      "Player 080",
+      "Player 094",
+      "Player 307",
+      "Player 418"
+    ],
+    "affiliation": [
+      "37th Squid Game",
+      "Team O"
+    ],
+    "fate": {
+      "status": "Deceased",
+      "died": [
+        "November 3, 2024",
+        "Special Game"
+      ],
+      "cause": "Killed whilst attacking X players"
+    },
+    "physical_description": {
+      "gender": "Male",
+      "eyes": "Dark brown",
+      "hair": "Black"
+    },
+    "appearances": {
+      "actor": "Kang Min-seok",
+      "first": "001 (icon)",
+      "last": "Friend or Foe"
+    }
+  }
+}

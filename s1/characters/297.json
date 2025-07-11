@@ -1,0 +1,20 @@
+{
+  "title": "Player 297",
+  "name": "Unknown",
+  "aliases": "Player 297",
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "Red Light, Green Light",
+    "cause_of_death": "Shot in Red Light, Green Light"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown extra",
+    "only_appearance": "Red Light, Green Light"
+  }
+}

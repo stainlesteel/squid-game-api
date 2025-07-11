@@ -1,0 +1,18 @@
+{
+  "title": "Player 317",
+  "name": "Unknown",
+  "aliases": "Player 317",
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Alive"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Black",
+    "hair_color": "Dark Brown"
+  },
+  "appearances": {
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Hell"
+  }
+}

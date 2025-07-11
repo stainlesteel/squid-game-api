@@ -1,0 +1,63 @@
+{
+  "display_title": "Im Jeong-dae",
+  "name": "Im Jeong-Dae",
+  "aliases": [
+    "Player 100",
+    "Old man",
+    "Sir",
+    "Rat",
+    "Brother"
+  ],
+  "family": "Unnamed children",
+  "relations": [
+    "Seong Gi-hun",
+    "Kim Yeong-sam",
+    "Kim Gi-min",
+    "Player 428",
+    "Player 023",
+    "Player 285",
+    "Lee Seung-won",
+    "Player 096",
+    "Kim Yun-tae",
+    "Player 418",
+    "Player 296",
+    "Nam-gyu",
+    "Player 394",
+    "Player 442",
+    "Seon-nyeo",
+    "Lee Myung-gi",
+    "Player 232",
+    "Kang Dae-ho",
+    "Oh Young-il",
+    "Park Jung-bae",
+    "Kim Jun-hee",
+    "Player 222",
+    "Park Min-su",
+    "Player 039"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team O",
+    "His team",
+    "Hiders"
+  ],
+  "occupation": "Businessman",
+  "fate": {
+    "status": "Deceased",
+    "died": [
+      "November 6, 2024",
+      "Sky Squid Game"
+    ],
+    "cause_of_death": "Pushed off triangle pillar by Lee Myung-gi with pole and fell to death"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Gray and black"
+  },
+  "appearances": {
+    "actor": "Song Young-chang",
+    "first_appearance": "001",
+    "last_appearance": "⭘△☐"
+  }
+}

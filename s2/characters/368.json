@@ -1,0 +1,28 @@
+{
+  "title": "Player 368",
+  "name": "Unknown",
+  "aliases": "Player 368",
+  "relations": [
+    "Player 164 † - Ally during Mingle"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team X"
+  ],
+  "born": "In 1980's-1990's",
+  "fate": {
+    "status": "Deceased",
+    "died": "Novemeber 3, Mingle",
+    "cause": "She go with with Player 164 in final round in Mingle and don't find a room."
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eyes": "Brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Kang Hye-jin",
+    "first_appearance": "001",
+    "last_appearance": "O X"
+  }
+}

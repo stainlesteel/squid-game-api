@@ -1,0 +1,21 @@
+{
+  "title": "Player 090",
+  "name": "Unknown",
+  "aliases": [
+    "Player 090"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Alive"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Grey"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown extra",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Hell"
+  }
+}

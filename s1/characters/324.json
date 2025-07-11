@@ -1,0 +1,26 @@
+{
+  "title": "Player 324",
+  "name": "Unknown",
+  "aliases": [
+    "Player 324",
+    "Dumbass (by Player 250)",
+    "Idiot (by Player 250)"
+  ],
+  "relationships": "Player 250 † (friend)",
+  "affiliation": "33rd Squid Game",
+  "born": "Unknown",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 10, 2020\nRed Light, Green Light",
+    "cause_of_death": "Shot in chest after failing to stop in time"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Blonde (dyed)\nDark brown (natural)"
+  },
+  "appearances": {
+    "portrayed_by": "Lee Han-sol",
+    "only_appearance": "Red Light, Green Light"
+  }
+}

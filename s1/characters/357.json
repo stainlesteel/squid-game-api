@@ -1,0 +1,44 @@
+{
+  "title": "Player 357",
+  "data": {
+    "Name": "Unknown",
+    "Aliases": "Player 357",
+    "Affiliation": [
+      "33rd Squid Game",
+      "Team One",
+      "Jang Deok-su's gang"
+    ]
+  },
+  "sections": [
+    {
+      "title": "Fate",
+      "data": {
+        "Status": "Deceased",
+        "Died": [
+          "June 28, 2020",
+          "Marbles"
+        ],
+        "Cause of death": "Shot along with Player 122 in Marbles"
+      }
+    },
+    {
+      "title": "Physical Description",
+      "data": {
+        "Gender": "Male",
+        "Eye color": "Brown",
+        "Hair color": "Brown"
+      }
+    },
+    {
+      "title": "Appearances",
+      "data": {
+        "Portrayed by": [
+          "Park Jong-Beom",
+          "Unknown extra (erroneous)"
+        ],
+        "First appearance": "Stick to the Team",
+        "Last appearance": "Gganbu"
+      }
+    }
+  ]
+}

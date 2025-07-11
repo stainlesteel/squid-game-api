@@ -1,0 +1,26 @@
+{
+  "title": "Player 032",
+  "name": "Unknown",
+  "aliases": [
+    "Player 032"
+  ],
+  "affiliation": [
+    "33rd Squid Game",
+    "Jang Deok-su's gang"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "June 28, 2020",
+    "cause_of_death": "Shot along with Player 083 in Marbles"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Kim Ha-young",
+    "first_appearance": "Stick to the Team",
+    "last_appearance": "Gganbu"
+  }
+}

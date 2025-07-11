@@ -1,0 +1,19 @@
+{
+  "title": "Player 290",
+  "name": "Unknown",
+  "aliases": "Player 290",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 9-10, 2020 Red Light, Green Light",
+    "cause_of_death": "Shot after running to the doors"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "An unknown Extra",
+    "only_appearance": "Red Light, Green Light"
+  }
+}

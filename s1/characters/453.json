@@ -1,0 +1,27 @@
+{
+  "title": "Player 453",
+  "data": {
+    "name": "Unknown",
+    "aliases": [
+      "Player 453",
+      "Number 05"
+    ],
+    "affiliation": "33rd Squid Game"
+  },
+  "sections": {
+    "Fate": {
+      "status": "Deceased",
+      "died": "June 29, 2020 Glass Stepping Stones",
+      "cause": "Stepped on a wrong glass tile and fell to death"
+    },
+    "Physical Description": {
+      "gender": "Female",
+      "eyes": "Brown"
+    },
+    "Appearances": {
+      "actor": "Yang Mal-bok",
+      "first_appearance": "Hell",
+      "last_appearance": "VIPS"
+    }
+  }
+}

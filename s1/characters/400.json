@@ -1,0 +1,26 @@
+{
+  "title": "Player 400",
+  "name": "Unknown",
+  "aliases": "Player 400",
+  "affiliation": "33rd Squid Game",
+  "Fate": {
+    "status": "Deceased",
+    "died": [
+      "June 9–10, 2020",
+      "Red Light, Green Light"
+    ],
+    "cause": "Shot in head by sniper after failing to stop in time during Red Light"
+  },
+  "Physical Description": {
+    "gender": [
+      "Male",
+      "Female (erroneous)"
+    ],
+    "eyes": "Black",
+    "hair": "Black"
+  },
+  "Appearances": {
+    "actor": "2 unknown extras",
+    "first": "Red Light, Green Light"
+  }
+}

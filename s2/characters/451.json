@@ -1,0 +1,23 @@
+{
+  "title": "Player 451",
+  "name": "Unknown",
+  "aliases": "Player 451",
+  "affiliation": "Team O 37th Squid Game",
+  "occupation": "Unknown",
+  "born": "1970's",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 3, 2024 Mingle, Round 5",
+    "cause": "Shot by a soldier after failing to find a room in Mingle, Round 5"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark Brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Unknown",
+    "first": "001",
+    "last": "O X"
+  }
+}

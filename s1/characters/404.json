@@ -1,0 +1,33 @@
+{
+  "title": "Player 404 (33rd Squid Game)",
+  "properties": {
+    "Name": "Unknown",
+    "Aliases": "Player 404",
+    "Born": "June 27 2001 or earlier"
+  },
+  "sections": [
+    {
+      "title": "Fate",
+      "properties": {
+        "Status": "Deceased",
+        "Died": "June 27, 2020 Tug of War",
+        "Cause of death": "Lost to Team Six"
+      }
+    },
+    {
+      "title": "Physical Description",
+      "properties": {
+        "Gender": "Female",
+        "Eye color": "Brown",
+        "Hair color": "Black"
+      }
+    },
+    {
+      "title": "Appearances",
+      "properties": {
+        "First appearance": "\"Red Light, Green Light\" (Error)",
+        "Last appearance": "\"A Fair World\""
+      }
+    }
+  ]
+}

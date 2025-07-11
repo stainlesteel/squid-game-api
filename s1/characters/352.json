@@ -1,0 +1,21 @@
+{
+  "title": "Player 352",
+  "name": "Unknown",
+  "aliases": "Player 352",
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26, 2020, Sugar Honeycombs",
+    "cause": "Failed to carve out his shape correctly."
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Black",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Unknown extra",
+    "first": "\"Red Light, Green Light\" (icon only)",
+    "last": "\"The Man with the Umbrella\" (icon only)"
+  }
+}

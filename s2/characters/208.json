@@ -1,0 +1,24 @@
+{
+  "title": "Player 208",
+  "name": "Unknown",
+  "aliases": "Player 208",
+  "affiliation": [
+    "37th Squid Game",
+    "Team X"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "November 2, 2024\nSix-Legged Pentathlon",
+    "cause_of_death": "Shot after losing Six-Legged Pentathlon"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Black",
+    "hair_color": "Dark Brown"
+  },
+  "appearances": {
+    "portrayed_by": "Son So-young",
+    "first_appearance": "001",
+    "last_appearance": "One More Game"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Player 335 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 335",
+  "affiliation": "37th Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "Mingle"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Gray"
+  },
+  "appearances": {
+    "first_appearance": "001",
+    "last_appearance": "O X"
+  }
+}

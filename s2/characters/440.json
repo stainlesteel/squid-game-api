@@ -1,0 +1,31 @@
+{
+  "title": "Player 440",
+  "name": "Unknown",
+  "aliases": "Player 440",
+  "relationships": [
+    "Player 411 † (friend and ally after Mingle)",
+    "Player 447 † (friend and ally after Mingle)",
+    "Player 009 † (friend and ally after Mingle)",
+    "Player 192 † (former ally, killer)"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team O",
+    "Blue Team"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "November 4, 2024 Hide and Seek",
+    "cause_of_death": "Stabbed repeatedly by Player 192"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Dark brown",
+    "hair_color": "Dark brown"
+  },
+  "appearances": {
+    "portrayed_by": "Kim Young-mi",
+    "first_appearance": "001",
+    "last_appearance": "The Starry Night"
+  }
+}

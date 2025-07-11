@@ -1,0 +1,27 @@
+{
+  "title": "Player 038",
+  "name": "Unknown",
+  "aliases": "Player 038",
+  "relations": [
+    "Player 059 † - Ally and Teammate in Six-Legged Pentathlon.",
+    "Player 269 † - Ally and Teammate in Six-Legged Pentathlon.",
+    "Player 345 † - Ally and Teammate in Six-Legged Pentathlon.",
+    "Player 367 † - Ally and Teammate in Six-Legged Pentathlon."
+  ],
+  "affiliation": "Team O",
+  "Fate": {
+    "status": "Deceased",
+    "died": "November 3, 2024 Mingle",
+    "cause": "Shot by soldier after failing to enter room in the third round"
+  },
+  "Physical Description": {
+    "gender": "Female",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "Appearances": {
+    "actor": "Kim Eun-jung",
+    "first": "001",
+    "last": "O X"
+  }
+}

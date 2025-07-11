@@ -1,0 +1,17 @@
+{
+  "title": "Player 084",
+  "name": "Unknown",
+  "aliases": [
+    "Player 084"
+  ],
+  "fate": {
+    "status": "Deceased"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "only_appearance": "Unknown"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Player 222": {
+    "name": "Unknown",
+    "affiliation": "33rd Squid Game",
+    "Fate": {
+      "status": "Deceased",
+      "died": "June 26-27, 2020 Special Game",
+      "cause": "Killed by another Player"
+    },
+    "Physical Description": {
+      "gender": "Female Male (error)",
+      "eyes": "Black",
+      "hair": "Black"
+    },
+    "Appearances": {
+      "first": "Red Light, Green Light",
+      "last": "Stick to the Team"
+    }
+  }
+}

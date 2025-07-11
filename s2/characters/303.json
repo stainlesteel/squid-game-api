@@ -1,0 +1,24 @@
+{
+  "title": "Player 303",
+  "name": "Unknown",
+  "aliases": "Player 303",
+  "affiliation": [
+    "37th Squid Game",
+    "Team O"
+  ],
+  "born": "In 1970's-1980's",
+  "fate": {
+    "status": "Deceased",
+    "died": "3 November, Mingle",
+    "cause": "Shot by a soldier after failing to find a room in Mingle"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eyes": "Dark Brown",
+    "hair": "Black/Dark Brown"
+  },
+  "appearances": {
+    "first": "001",
+    "last": "One More Game"
+  }
+}

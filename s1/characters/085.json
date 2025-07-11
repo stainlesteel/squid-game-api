@@ -1,0 +1,26 @@
+{
+  "title": "Player 085",
+  "name": "Unknown",
+  "aliases": [
+    "Player 085"
+  ],
+  "relationships": {
+    "ally": "Player 453"
+  },
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 28, 2020, Marbles",
+    "cause_of_death": "Shot in chest by soldier after losing to Player 453"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "1 Unknown extra, Chun kyung-chae (erroneous)",
+    "first_appearance": "Red Light, Green Light (error)",
+    "last_appearance": "Gganbu"
+  }
+}

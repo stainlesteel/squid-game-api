@@ -1,0 +1,24 @@
+{
+  "tag": "div",
+  "attributes": {
+    "class": "right-rail-wrapper WikiaRail wds-viewability-slider"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "class": "wds-viewability-slider__module",
+        "id": "rail-boxad-wrapper"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "class": "wds-viewability-slider__module",
+        "id": "WikiaRail"
+      },
+      "children": []
+    }
+  ]
+}

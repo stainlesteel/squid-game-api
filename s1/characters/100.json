@@ -1,0 +1,21 @@
+{
+  "title": "Player 100",
+  "name": "Unknown",
+  "aliases": [
+    "Player 100"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown extra",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Hell"
+  }
+}

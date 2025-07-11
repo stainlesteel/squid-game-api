@@ -1,0 +1,18 @@
+{
+  "title": "Player 166 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 166",
+  "fate": {
+    "status": "Dead",
+    "cause": "Mingle"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Kim Yong-nam",
+    "first_appearance": "001",
+    "last_appearance": "O X"
+  }
+}

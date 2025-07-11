@@ -1,0 +1,19 @@
+{
+  "title": "Player 228 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 228",
+  "affiliation": "Team O",
+  "fate": {
+    "status": "Deceased",
+    "died": "Six-Legged Pentathlon"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Dark brown"
+  },
+  "appearances": {
+    "first": "001",
+    "last": "Six Legs"
+  }
+}

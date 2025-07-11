@@ -1,0 +1,20 @@
+{
+  "title": "Player 237",
+  "name": "Unknown",
+  "aliases": "Player 237",
+  "affiliation": "37th Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 1, 2024 Red Light, Green Light",
+    "cause": "Shot in the head by Kang No-eul"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Black",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Jeon Kang-ho",
+    "first": "\"001\""
+  }
+}

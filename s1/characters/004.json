@@ -1,0 +1,35 @@
+{
+  "title": "Jang Seung-jong",
+  "name": "Jang Seung-jong",
+  "aliases": [
+    "Player 004"
+  ],
+  "affiliation": [
+    "Gyeonggi Junior College",
+    "Mukook Transportation (formerly)",
+    "33rd Squid Game"
+  ],
+  "occupation": "Bus driver (formerly)",
+  "born": {
+    "date": "February 16, 1970 (age 51)"
+  },
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26, 2020",
+    "death_location": "Sugar Honeycombs",
+    "cause_of_death": "Shot after breaking his dalgona"
+  },
+  "physical_description": {
+    "gender": [
+      "Male",
+      "Female (erroneous)"
+    ],
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "More than two unknown extras",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "A Fair World (photo)"
+  }
+}

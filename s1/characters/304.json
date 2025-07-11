@@ -1,0 +1,31 @@
+{
+  "title": "Player 304",
+  "properties": {
+    "Name": "Unknown",
+    "Aliases": "Player 304",
+    "Affiliation": "33rd Squid Game"
+  },
+  "sections": [
+    {
+      "header": "Fate",
+      "properties": {
+        "Status": "Deceased"
+      }
+    },
+    {
+      "header": "Physical Description",
+      "properties": {
+        "Gender": "Male",
+        "Hair color": "Brown"
+      }
+    },
+    {
+      "header": "Appearances",
+      "properties": {
+        "Portrayed by": "Unknown extra",
+        "First appearance": "Red Light, Green Light",
+        "Last appearance": "The Man with the Umbrella"
+      }
+    }
+  ]
+}

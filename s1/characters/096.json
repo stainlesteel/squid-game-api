@@ -1,0 +1,32 @@
+{
+  "title": "Player 096",
+  "name": "Unknown",
+  "aliases": [
+    "Player 096",
+    "Number 01",
+    "Fuckwad (Panther-masked VIP)",
+    "Motherfucker (Panther-masked VIP)",
+    "Son of a bitch (Panther-masked VIP)",
+    "Piece of shit (Panther-masked VIP)",
+    "Scumbag (Panther-masked VIP)"
+  ],
+  "relationships": {
+    "marbles_partner_good_friend": "Player 229"
+  },
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 29, 2020, Glass Stepping Stones",
+    "cause_of_death": "Stepped on wrong glass tile and fell to death"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Jung Woo-hyuk",
+    "first_appearance": "Red Light, Green Light (icon)",
+    "last_appearance": "VIPS"
+  }
+}

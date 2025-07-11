@@ -1,0 +1,81 @@
+{
+  "title": "Player 456",
+  "name": "Seong Gi-hun",
+  "aliases": [
+    "Player 456",
+    "Number 16",
+    "Mr. Seong",
+    "Ssangmun-dong",
+    "Gganbu",
+    "Hyung",
+    "Mr. Seong Gi-hun",
+    "Crazy hobo guy",
+    "Old Man; Babe",
+    "Mister",
+    "Sung Ki-hoon",
+    "Mr. 456",
+    "Mr. Gi-hun",
+    "Sir"
+  ],
+  "family": [
+    {"name": "Oh Mal-soon", "relation": "mother", "status": "deceased"},
+    {"name": "Seong Ga-yeong", "relation": "daughter"},
+    {"name": "Kang Eun-ji", "relation": "ex-wife"}
+  ],
+  "relationships": [
+    {"name": "Cho Sang-woo", "type": "childhood best friend/brief enemy", "status": "deceased"},
+    {"name": "Hwang In-ho", "type": "archenemy/brief close friend"},
+    {"name": "Park Jung-bae", "type": "best friend", "status": "deceased"},
+    {"name": "Kang Sae-byeok", "type": "close friend", "status": "deceased"},
+    {"name": "Ali Abdul", "type": "friend and savior", "status": "deceased"},
+    {"name": "Oh Il-nam", "type": "enemy; former close friend", "status": "deceased"},
+    {"name": "Jang Deok-su", "type": "enemy", "status": "deceased"},
+    {"name": "Kim Jun-hee", "type": "close friend", "status": "deceased"},
+    {"name": "Kang Dae-ho", "type": "enemy/victim, former friend", "status": "deceased"},
+    {"name": "Cho Hyun-ju", "type": "ally", "status": "deceased"},
+    {"name": "Jang Geum-ja", "type": "friend", "status": "deceased"},
+    {"name": "Park Yong-sik", "type": "ally", "status": "deceased"},
+    {"name": "Im Jeong-dae", "type": "arch-nemesis", "status": "deceased"},
+    {"name": "Seon-nyeo", "type": "enemy", "status": "deceased"},
+    {"name": "Kim Yeong-sam", "type": "enemy", "status": "deceased"},
+    {"name": "Lee Myung-gi", "type": "frenemy; savior and rival", "status": "deceased"},
+    {"name": "Kim Jun-hee's baby", "type": "protected"},
+    {"name": "Kim Jeong-rae", "type": "ally; former enemy", "status": "deceased"},
+    {"name": "Choi Woo-seok", "type": "ally"},
+    {"name": "Hwang Jun-ho", "type": "ally"},
+    {"name": "The Recruiter", "type": "enemy", "status": "deceased"}
+  ],
+  "affiliation": [
+    "Daehan Technical High School",
+    "Dragon Motors (formerly)",
+    "Ga-yeong's Chicken (formerly)",
+    "33rd Squid Game (formerly)",
+    "37th Squid Game (formerly)",
+    "Team X (leader)",
+    "His team (leader)",
+    "Seekers"
+  ],
+  "born": {
+    "date": "October 31, 1974 (age 50)",
+    "location": "Ssangmun-dong, Dobong-gu, Seoul, South Korea"
+  },
+  "fate": {
+    "status": "Deceased",
+    "died": "November 6, 2024",
+    "death_location": "Sky Squid Game",
+    "cause_of_death": "Committed suicide by jumping off circle pillar and fell to death"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": ["Black", "Red (dyed; formerly)"]
+  },
+  "appearances": {
+    "portrayed_by": [
+      {"name": "Lee Jung-jae", "role": "adult"},
+      {"name": "Kim Yeon-ung", "role": "child"}
+    ],
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Humans Are..."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Player 068",
+  "name": "Unknown",
+  "aliases": [
+    "Player 068"
+  ],
+  "relationships": [
+    "Player 151 † (Ally)"
+  ],
+  "affiliation": [
+    "33rd Squid Game",
+    "Player 062's team"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "June 28, 2020",
+    "game": "Marbles",
+    "cause_of_death": "Shot after losing to Player 151 in Marbles"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Five unknown extras",
+    "first_appearance": "Red Light, Green Light (icon)",
+    "last_appearance": "Gganbu"
+  }
+}

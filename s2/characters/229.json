@@ -1,0 +1,20 @@
+{
+  "title": "Player 229",
+  "name": "Unknown",
+  "aliases": "Player 229",
+  "affiliation": "37th Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 1, 2024 Red Light, Green Light",
+    "cause": "Shot in chest by sniper after moving on Red Light"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Lee Ji-hun",
+    "first": "001"
+  }
+}

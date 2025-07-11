@@ -1,0 +1,21 @@
+{
+  "title": "Player 203",
+  "name": "Unknown",
+  "aliases": "Player 203",
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "Special Game",
+    "cause": "Killed by a unknown player"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Brown"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown extra",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Stick to the Team"
+  }
+}

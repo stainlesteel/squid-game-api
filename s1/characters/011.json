@@ -1,0 +1,23 @@
+{
+  "title": "Player 011 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": [
+    "Player 011"
+  ],
+  "affiliation": [
+    "33rd Squid Game"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "Special Game",
+    "cause_of_death": "Killed by an unknown player"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Dark Gray"
+  },
+  "appearances": {
+    "only_appearance": "Unknown"
+  }
+}

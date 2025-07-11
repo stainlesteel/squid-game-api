@@ -1,0 +1,19 @@
+{
+  "title": "Player 207 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 207",
+  "fate": {
+    "status": "Deceased",
+    "died": "1 November, Red Light, Green Light",
+    "cause_of_death": "Caught moving during Red Light, Green Light"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Dark brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "first_appearance": "001",
+    "last_appearance": "O X (erroneous)"
+  }
+}

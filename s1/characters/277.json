@@ -1,0 +1,20 @@
+{
+  "title": "Player 277",
+  "name": "Unknown",
+  "aliases": "Player 277",
+  "affiliation": "Squid Games",
+  "Fate": {
+    "status": "Deceased",
+    "cause": "Stabbed repeatedly in the back by Player 303"
+  },
+  "Physical Description": {
+    "gender": "Male",
+    "eyes": "Brown",
+    "hair": "Black"
+  },
+  "Appearances": {
+    "actor": "Unknown extra",
+    "first": "Red Light, Green Light",
+    "last": "Stick to the Team"
+  }
+}

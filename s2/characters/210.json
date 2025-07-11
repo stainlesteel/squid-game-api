@@ -1,0 +1,24 @@
+{
+  "title": "Player 210 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 210",
+  "relations": "Player 417 (possible ally)",
+  "affiliation": "Team X (error) 37th Squid Game",
+  "occupation": "Unknown",
+  "born": "Unknown",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 1, 2024 Red Light, Green Light",
+    "cause_of_death": "shot after running towards the doors"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "unknown extra",
+    "first_appearance": "001",
+    "last_appearance": "O X (error)"
+  }
+}

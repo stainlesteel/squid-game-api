@@ -1,0 +1,44 @@
+{
+  "title": "Player 145",
+  "data": {
+    "Name": "Unknown",
+    "Aliases": "Player 145",
+    "Relationships": [
+      "Kim Gi-min † - (former ally, teammate in the Six-Legged Pentathlon)",
+      "Player 206 † - (friend, ally, teammate in the Six-Legged Pentathlon)",
+      "Player 238 † - (ally, teammate in the Six-Legged Pentathlon)",
+      "Lee Seung-won † - (former ally, teammate in the Six-Legged Pentathlon)",
+      "Cho Hyun-ju † - (ally)",
+      "Seong Gi-hun † - (ally)",
+      "Seon Han-nam † - (ally)",
+      "Thanos † - (enemy)",
+      "Park Gyeong-seok - (ally, witness)",
+      "Kwon Byeong-su † - (ally, friend)",
+      "Player 442 † - (enemy)",
+      "Player 299 † - (enemy, victim)"
+    ],
+    "Affiliation": [
+      "37th Squid Game",
+      "Team X",
+      "Team O (formerly)",
+      "Revolt team"
+    ]
+  },
+  "sections": {
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "November 4, 2024 Stairs, The Island",
+      "Cause of death": "Shot in chest by soldier"
+    },
+    "Physical Description": {
+      "Gender": "Male",
+      "Eye color": "Dark Brown",
+      "Hair color": "Black"
+    },
+    "Appearances": {
+      "Portrayed by": "Ha Soo-ho",
+      "First appearance": "001 (icon)",
+      "Last appearance": "Keys and Knives"
+    }
+  }
+}

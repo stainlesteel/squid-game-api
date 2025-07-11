@@ -1,0 +1,29 @@
+{
+  "title": "Player 312",
+  "data": {
+    "Name": "Unknown",
+    "Aliases": "Player 312",
+    "Relationships": "Player 096 (former ally, killer)",
+    "Affiliation": [
+      "37th Squid Game",
+      "Team O",
+      "Seekers",
+      "23rd place"
+    ],
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "November 5, 2024, Jump Rope",
+      "Cause of death": "Pushed off the ending of the jump rope game by Player 096 after passing the game."
+    },
+    "Physical Description": {
+      "Gender": "Male",
+      "Eye color": "Black",
+      "Hair color": "Black"
+    },
+    "Appearances": {
+      "Portrayed by": "Kim Dae-heung",
+      "First appearance": "\"001\" (icon)",
+      "Last appearance": "\"It's Not Your Fault\""
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Player 024 (37th Squid Game)",
+  "name": "Unknown",
+  "relationships": [
+    "Player 048 - Close ally",
+    "Player 370 - Victim",
+    "Player 220 - Assumed victim",
+    "Player 308 - ally",
+    "in Fifth round Mingle"
+  ],
+  "affiliation": [
+    "Team O",
+    "Team X (Formerly)",
+    "Blue Team"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "Hide and Seek"
+  },
+  "physical_description": {
+    "gender": "Male"
+  },
+  "appearances": {
+    "portrayed_by": "Jo Seong-jun",
+    "first_appearance": "001",
+    "last_appearance": "The Starry Night"
+  }
+}

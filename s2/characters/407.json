@@ -1,0 +1,25 @@
+{
+  "title": "Player 407 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 407",
+  "relations": [
+    "Player 097 - Teammate in Six-Legged Pentathlon.",
+    "Player 334 - Teammate in Six-Legged Pentathlon.",
+    "Player 352 - Teammate in Six-Legged Pentathlon.",
+    "Player 418 - Teammate in Six-Legged Pentathlon."
+  ],
+  "affiliation": "Team X",
+  "Fate": {
+    "status": "Deceased",
+    "died": "November 3, Round 4 Mingle",
+    "cause": "Failed to enter a room with a group of the correct number"
+  },
+  "Physical Description": {
+    "gender": "Male"
+  },
+  "Appearances": {
+    "actor": "Kim Chang-young",
+    "first": "001",
+    "last": "O X"
+  }
+}

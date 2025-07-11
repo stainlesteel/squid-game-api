@@ -1,0 +1,21 @@
+{
+  "title": "Player 440",
+  "name": "Unknown",
+  "aliases": "Player 440",
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 27, 2020, Tug of War",
+    "causeOfDeath": "Fell to death after losing to a opposite team"
+  },
+  "physicalDescription": {
+    "gender": "Male",
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "appearances": {
+    "portrayedBy": "Shim Sang-min, Unknown extra",
+    "firstAppearance": "Red Light, Green Light",
+    "lastAppearance": "Stick to the Team"
+  }
+}

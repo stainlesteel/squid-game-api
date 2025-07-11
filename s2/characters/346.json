@@ -1,0 +1,20 @@
+{
+  "title": "Player 346 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 346",
+  "affiliation": "Team X",
+  "fate": {
+    "status": "Deceased",
+    "died": "3 November, Mingle",
+    "cause_of_death": "Died in some round because he didn't find players or a room"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "first_appearance": "001",
+    "last_appearance": "O X"
+  }
+}

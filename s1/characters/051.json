@@ -1,0 +1,21 @@
+{
+  "title": "Player 051",
+  "name": "Unknown",
+  "affiliation": "33rd Squid Game",
+  "born": "Before 2001",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26-27, 2020",
+    "game": "Special Game",
+    "cause_of_death": "Killed by Another Player"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "first_appearance": "Red Light, Green Light (icon)",
+    "last_appearance": "Stick to the Team (icon)"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Player 073",
+  "name": "Unknown",
+  "aliases": [
+    "Player 073"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26, 2020, Special Game",
+    "cause_of_death": "Killed by another player"
+  },
+  "physical_description": {
+    "gender": "Female (erroneously Male)",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Park Jung-eon (erroneously Two unknown extras)",
+    "first_appearance": "Red Light, Green Light (error), Hell (First actual appearance)",
+    "last_appearance": "Stick to the Team (icon)"
+  }
+}

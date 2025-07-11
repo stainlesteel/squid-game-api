@@ -1,0 +1,21 @@
+{
+  "title": "Player 077",
+  "name": "Unknown",
+  "aliases": [
+    "Player 077"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "June 9-10, 2020, Red Light, Green Light",
+    "cause_of_death": "Shot after moving"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Black",
+    "hair_color": "Red with black at the top"
+  },
+  "appearances": {
+    "portrayed_by": "Chun kyung-chae (Error), Seo Yun-han",
+    "only_appearance": "Red Light, Green Light"
+  }
+}

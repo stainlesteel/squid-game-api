@@ -1,0 +1,23 @@
+{
+  "title": "Player 093",
+  "name": "Unknown",
+  "aliases": [
+    "Player 093"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 28, 2020, Marbles",
+    "cause_of_death": "Lost to her unknown partner"
+  },
+  "physical_description": {
+    "gender": "Female (erroneously Male)",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown extra",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "A Fair World (icon only)"
+  }
+}

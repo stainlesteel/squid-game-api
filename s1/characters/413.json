@@ -1,0 +1,31 @@
+{
+  "title": "Player 413",
+  "name": "Unknown",
+  "aliases": "Player 413",
+  "relations": "Do Jung-soo (marbles partner)",
+  "affiliation": [
+    "33rd Squid Game",
+    "Do Jung-soo's team"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": [
+      "June 28, 2020",
+      "Marbles"
+    ],
+    "cause": "Shot after losing Do Jung-soo in Marbles"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": [
+      "Chun kyung-chae (marbles)",
+      "And 11 unknown extras"
+    ],
+    "first_appearance": "Red Light, Green Light (error)",
+    "last_appearance": "VIPS (corpse)"
+  }
+}

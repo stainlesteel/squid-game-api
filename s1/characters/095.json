@@ -1,0 +1,27 @@
+{
+  "title": "Player 095",
+  "name": "Unknown",
+  "aliases": [
+    "Player 095"
+  ],
+  "relationships": {
+    "enemy_and_attempted_killer": "Player 329",
+    "savior": "Player 131"
+  },
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 28, 2020, Marbles",
+    "cause_of_death": "Lost to her unknown partner and shot by a guard"
+  },
+  "physical_description": {
+    "gender": "Female (erroneously Male)",
+    "eye_color": "Black",
+    "hair_color": "Brown"
+  },
+  "appearances": {
+    "portrayed_by": "Han Kyung-Hu",
+    "first_appearance": "Red Light, Green Light (error), Stick to the Team",
+    "last_appearance": "Stick to the Team"
+  }
+}

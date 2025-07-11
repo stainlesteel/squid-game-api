@@ -1,0 +1,22 @@
+{
+  "title": "Player 419 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 419",
+  "relationships": "Player 418 (Friend and ally)",
+  "affiliation": "Team O",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 3, 2024 Mingle",
+    "cause_of_death": "Died due to not finding a room in the final round of mingle"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Dark brown",
+    "hair_color": "Dark brown"
+  },
+  "appearances": {
+    "portrayed_by": "Jeong Ji-ho (정지호, credited as Jeong Da-un) and an unknown extra",
+    "first_appearance": "001",
+    "last_appearance": "O X"
+  }
+}

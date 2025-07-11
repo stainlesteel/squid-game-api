@@ -1,0 +1,30 @@
+{
+  "title": "Player 064",
+  "name": "Unknown",
+  "aliases": [
+    "Player 064"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26-27, 2020",
+    "game": "Special Game",
+    "cause_of_death": "Killed by another player"
+  },
+  "physical_description": {
+    "gender": [
+      "Female",
+      "Male (erroneous)"
+    ],
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": [
+      "Kim Sath (RLGL)",
+      "3 unknown extras"
+    ],
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Stick to the Team (erroneous)"
+  }
+}

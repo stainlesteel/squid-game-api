@@ -1,0 +1,22 @@
+{
+  "title": "Player 396",
+  "name": "Unknown",
+  "aliases": "Player 396",
+  "affiliation": "Team O",
+  "born": "In 1960's-1970's",
+  "fate": {
+    "status": "Deceased",
+    "died": "2 November, Six-Legged Pentathlon",
+    "cause_of_death": "Shot after him and his team failed to complete the mini-games in time"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark Brown",
+    "hair_color": "Gray"
+  },
+  "appearances": {
+    "portrayed_by": "Park Kyung-Jun",
+    "first_appearance": "001",
+    "last_appearance": "One More Game"
+  }
+}

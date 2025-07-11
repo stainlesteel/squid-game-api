@@ -1,0 +1,102 @@
+{
+  "title": "Do Jung-soo",
+  "name": "Do Jung-soo",
+  "aliases": [
+    "Player 017",
+    "Number 13 (The VIPs)",
+    "Do Jeong-soo"
+  ],
+  "family": [
+    {
+      "name": "Kim Eun-sook",
+      "type": "wife"
+    },
+    {
+      "name": "Do Ji-hye",
+      "type": "daughter"
+    },
+    {
+      "name": "Do Ji-yeon",
+      "type": "daughter"
+    }
+  ],
+  "relationships": [
+    {
+      "name": "Park Tae-jun",
+      "type": "teammate"
+    },
+    {
+      "name": "Player 130",
+      "type": "teammate"
+    },
+    {
+      "name": "Player 453",
+      "type": "teammate"
+    },
+    {
+      "name": "Jung Min-tae",
+      "type": "teammate"
+    },
+    {
+      "name": "Player 043",
+      "type": "teammate"
+    },
+    {
+      "name": "Player 028",
+      "type": "teammate"
+    },
+    {
+      "name": "Player 413",
+      "type": "teammate"
+    },
+    {
+      "name": "Player 096",
+      "type": "teammate"
+    },
+    {
+      "name": "Player 021",
+      "type": "teammate"
+    },
+    {
+      "name": "Cho Sang-woo",
+      "type": "killer"
+    },
+    {
+      "name": "Player 081",
+      "type": "teammate"
+    }
+  ],
+  "affiliation": [
+    "Bucheon Industrial High School",
+    "Sanoh General Construction (formerly)",
+    "Daehwa Glass Industry (formerly)",
+    "33rd Squid Game",
+    "Do Jung-soo's team"
+  ],
+  "occupation": [
+    "Glass maker (formerly)",
+    "Construction management support (formerly)"
+  ],
+  "born": {
+    "date": "June 23, 1965 (age 56)",
+    "location": "Gyeonggi Province"
+  },
+  "fate": {
+    "status": "Deceased",
+    "died": "June 29, 2020",
+    "death_location": "Glass Stepping Stones",
+    "cause_of_death": "Pushed into wrong glass tile by Cho Sang-woo and fell to death"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark brown"
+  },
+  "appearances": {
+    "portrayed_by": [
+      "Lee Sang-hee",
+      "5 unknown extras (Error)"
+    ],
+    "first_appearance": "Red Light, Green Light (Icon Only)",
+    "last_appearance": "Front Man (indirectly mentioned)"
+  }
+}

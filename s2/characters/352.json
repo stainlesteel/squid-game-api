@@ -1,0 +1,22 @@
+{
+  "Player 352 (37th Squid Game)": {
+    "name": "Won jaehyun",
+    "aliases": "Player 352",
+    "affiliation": "Team X 37th Squid Game",
+    "born": "1995s",
+    "fate": {
+      "status": "Deceased",
+      "died": "November 3, 2025 Mingle, Round 5",
+      "cause": "Didn't find a room available on the last round"
+    },
+    "physicalDescription": {
+      "gender": "Male",
+      "eyes": "Dark Brown"
+    },
+    "appearances": {
+      "actor": "Bae Joo-hyun",
+      "first": "001",
+      "last": "O X"
+    }
+  }
+}

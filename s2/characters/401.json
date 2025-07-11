@@ -1,0 +1,19 @@
+{
+  "title": "Player 401",
+  "name": "Unknown",
+  "aliases": "Player 401",
+  "affiliation": "37th Squid Game\nTeam O (formerly)\nTeam X\nKwon Byeong-su's team",
+  "fate": {
+    "status": "Deceased",
+    "cause": "Killed by one of the Players during bathroom fight"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Jung Dae-yong",
+    "first": "001",
+    "last": "Friend or Foe"
+  }
+}

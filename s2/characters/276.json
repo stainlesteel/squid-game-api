@@ -1,0 +1,33 @@
+{
+  "title": "Player 276",
+  "name": "Unknown",
+  "aliases": "Player 276",
+  "relations": [
+    "Player 400 (victim)",
+    "Player 096 (former ally, killer)"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team O",
+    "Seekers",
+    "22nd place"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": [
+      "November 5, 2024",
+      "Jump Rope"
+    ],
+    "cause_of_death": "Kicked by Player 096 and fell to death"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Kim-Choi Yong-joon",
+    "first_appearance": "\"001\" (icon)",
+    "last_appearance": "\"It's Not Your Fault\""
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Player 430",
+  "main_info": {
+    "Name": "Unknown",
+    "Aliases": "Player 430",
+    "Affiliation": "33rd Squid Game"
+  },
+  "sections": [
+    {
+      "Fate": {
+        "Status": "Deceased",
+        "Died": "June 9-10, 2020 Red Light, Green Light",
+        "Cause of death": "Shot after running towards the doors"
+      }
+    },
+    {
+      "Physical Description": {
+        "Gender": "Male",
+        "Eye color": "Brown",
+        "Hair color": "Black"
+      }
+    },
+    {
+      "Appearances": {
+        "Portrayed by": "Unknown extra",
+        "Only appearance": "Red Light, Green Light"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Player 056",
+  "name": "Unknown",
+  "aliases": [
+    "Player 056"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 9-10, 2020",
+    "game": "Red Light, Green Light",
+    "cause_of_death": "Shot in chest after failing to stop in time"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Brown",
+    "hair_color": "Dark brown"
+  },
+  "appearances": {
+    "portrayed_by": "Min Seo-han",
+    "only_appearance": "Red Light, Green Light"
+  }
+}

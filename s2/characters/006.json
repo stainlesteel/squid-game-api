@@ -1,0 +1,37 @@
+{
+  "Name": "Park Mi-hwa",
+  "Aliases": "Player 006",
+  "Relationships": [
+    "Seon-nyeo † (ally/leader; indirect killer)",
+    "Player 220 † (ally in Mingle)",
+    "Player 306 † (ally)",
+    "Player 009 † (ally)",
+    "Player 447 † (ally)",
+    "Nam-gyu † (enemy/killer)"
+  ],
+  "Affiliation": [
+    "37th Squid Game",
+    "Team X (formerly)",
+    "Seon-nyeo's group",
+    "Team O",
+    "Hiders"
+  ],
+  "Fate": {
+    "Status": "Deceased",
+    "Died": [
+      "November 4, 2024",
+      "Hide and Seek"
+    ],
+    "Cause of death": "Stabbed in neck by Nam-gyu"
+  },
+  "Physical Description": {
+    "Gender": "Female",
+    "Eye color": "Brown",
+    "Hair color": "Black"
+  },
+  "Appearances": {
+    "Portrayed by": "Jo Si-nae",
+    "First appearance": "\"001\"",
+    "Last appearance": "\"The Starry Night\""
+  }
+}

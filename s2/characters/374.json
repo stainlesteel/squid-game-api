@@ -1,0 +1,20 @@
+{
+  "title": "Player 374 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 374",
+  "affiliation": "Team O",
+  "fate": {
+    "status": "Deceased",
+    "died": "2 November, Six-Legged Pentathlon",
+    "cause_of_death": "Shot after she and her team failed to complete the mini-games in time"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Dark brown",
+    "hair_color": "Brown"
+  },
+  "appearances": {
+    "first_appearance": "001",
+    "last_appearance": "O X"
+  }
+}

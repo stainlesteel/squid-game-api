@@ -1,0 +1,18 @@
+{
+  "title": "Hell"
+  "episode_details": {
+    "Season": "1",
+    "Episode": "2",
+    "Overall": "2"
+  },
+  "episode_information": {
+    "Duration": "1h 2m",
+    "Air Date": "September 17, 2021",
+    "Writer": "Hwang Dong-hyuk",
+    "Director": "Hwang Dong-hyuk"
+  },
+  "episode_guide": {
+    "Previous": "Red Light, Green Light",
+    "Next": "The Man with the Umbrella"
+  }
+}

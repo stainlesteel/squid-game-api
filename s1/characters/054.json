@@ -1,0 +1,24 @@
+{
+  "title": "Player 054",
+  "name": "Unknown",
+  "aliases": [
+    "Player 054"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26, 2020",
+    "game": "Sugar Honeycombs",
+    "cause_of_death": "Shot after breaking his dalgona"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown extra",
+    "first_appearance": "Red Light, Green Light (error)",
+    "last_appearance": "The Man with the Umbrella"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Player 180": {
+    "Name": "Unknown",
+    "Aliases": "Player 180",
+    "Affiliation": "33rd Squid Game",
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "Red Light, Green Light",
+      "Cause of death": "Ran out of time"
+    },
+    "Physical Description": {
+      "Gender": "Male",
+      "Eye color": "Brown",
+      "Hair color": "Black"
+    },
+    "Appearances": {
+      "Only appearance": "Unknown"
+    }
+  }
+}

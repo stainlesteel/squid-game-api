@@ -1,0 +1,24 @@
+{
+  "title": "Player 084 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 084",
+  "relations": "Player 158 † (friend and ally)\nPlayer 435 † (former ally)\nPlayer 197 † (ally, friend)\nPlayer 096 † - indirect killer",
+  "affiliation": "Team O (formerly)\nTeam X\nHiders",
+  "fate": {
+    "status": "Deceased",
+    "died": "Jump Rope",
+    "cause_of_death": "Fell off the edge during Jump Rope"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Park Jae-hong",
+    "timeline": {
+      "first_appearance": "001",
+      "last_appearance": "Friend or Foe"
+    }
+  }
+}

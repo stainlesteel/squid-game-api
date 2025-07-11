@@ -1,0 +1,23 @@
+{
+  "title": "Player 139",
+  "data": {
+    "Name": "Unknown",
+    "Aliases": "Player 139",
+    "Affiliation": "Team X",
+    "Born": "In 1960's-1970's",
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "2 November, Six-Legged Pentathlon",
+      "Cause of death": "Shot after him and his team failed to complete the mini-games in time"
+    },
+    "Physical Description": {
+      "Gender": "Male",
+      "Eye color": "Dark brown",
+      "Hair color": "Black and Grey"
+    },
+    "Appearances": {
+      "First appearance": "001",
+      "Last appearance": "One More Game"
+    }
+  }
+}

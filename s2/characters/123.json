@@ -1,0 +1,22 @@
+{
+  "title": "Player 123 (37th Squid Game)",
+  "details": {
+    "Name": "Unknown",
+    "Aliases": "Player 123",
+    "Affiliation": "37th Squid Game, Team O"
+  },
+  "Fate": {
+    "Status": "Deceased",
+    "Died": "Mingle",
+    "Cause of death": "He was shot due to failing mingle."
+  },
+  "Physical Description": {
+    "Gender": "Male",
+    "Eye color": "Dark Brown",
+    "Hair color": "Black"
+  },
+  "Appearances": {
+    "First appearance": "001",
+    "Last appearance": "O X"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Player 279",
+  "name": "Unknown",
+  "aliases": "Player 279",
+  "relations": "Player 251 (ally and teammate in last round in Mingle)\nThanos (indirect killer)\nNam-gyu (indirect killer)",
+  "affiliation": "Team X",
+  "born": "In 1980's-1990's",
+  "Fate": {
+    "status": "Deceased",
+    "died": "3 November, Mingle",
+    "cause": "Kicked to the ground by Thanos during Mingle, before being shot by a soldier."
+  },
+  "Physical Description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "Appearances": {
+    "first": "001",
+    "last": "O X"
+  }
+}

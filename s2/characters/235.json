@@ -1,0 +1,44 @@
+{
+  "title": "Park Hee-yong",
+  "name": "Park Hee-yong",
+  "aliases": [
+    "Player 235",
+    "Bastard (by Nam-gyu)",
+    "Sacrifice man 1 (on the credits)"
+  ],
+  "family": [
+    "Unnamed wife",
+    "Unnamed son"
+  ],
+  "relations": [
+    "Player 296 † (teammate in Six-Legged Pentathlon)",
+    "Player 276 † (teammate in Six-Legged Pentathlon)",
+    "Nam-gyu † (enemy/killer)",
+    "Lee Myung-gi † (enemy/killer)"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team O",
+    "Blue Team"
+  ],
+  "occupation": "Factory worker (production line)",
+  "born": "May 8, 1985 (age 39)",
+  "fate": {
+    "status": "Deceased",
+    "died": [
+      "November 4, 2024",
+      "Hide and Seek"
+    ],
+    "cause": "Stabbed by Nam-gyu and Lee Myung-gi"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Black",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Park Jae-chul",
+    "first": "\"001\" (icon)",
+    "last": "\"The Starry Night\""
+  }
+}

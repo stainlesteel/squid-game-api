@@ -1,0 +1,21 @@
+{
+  "Player 178": {
+    "Name": "Unknown",
+    "Aliases": "Player 178",
+    "Affiliation": "33rd Squid Game",
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "Red Light, Green Light",
+      "Cause of death": "Detected moving and got shot"
+    },
+    "Physical Description": {
+      "Gender": "Male",
+      "Eye color": "Black",
+      "Hair color": "Black"
+    },
+    "Appearances": {
+      "Portrayed by": "An Unkown Extra",
+      "Only appearance": "Red Light, Green Light"
+    }
+  }
+}

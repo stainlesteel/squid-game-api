@@ -1,0 +1,48 @@
+{
+  "title": "Player 370",
+  "name": "Unknown",
+  "aliases": [
+    "Player 370"
+  ],
+  "relations": [
+    "Player 267 † - Best Friend, Ally and Teammate in Six-Legged Pentathlon",
+    "Player 181 † Friend, Ally and Teammate in Six-Legged Pentathlon",
+    "Player 451 † - Friend, Ally and Teammate in Six-Legged Pentathlon",
+    "Player 322 † - Friend, Ally and Teammate in Six-Legged Pentathlon",
+    "Player 152 † - Friend and Ally during Mingle",
+    "Player 376 † - Ally during Mingle"
+  ],
+  "affiliation": [
+    "Team O (Formerly)",
+    "Team X"
+  ],
+  "fate": {
+    "status": [
+      "Deceased"
+    ],
+    "died": [
+      "November 3-4, 2024 Special Game"
+    ],
+    "cause": [
+      "Stabbed with a fork by Player 024"
+    ]
+  },
+  "physical_description": {
+    "gender": [
+      "Female"
+    ],
+    "eyes": [
+      "Dark brown"
+    ],
+    "hair": [
+      "Black"
+    ]
+  },
+  "appearances": {
+    "actor": [
+      "Kim Gyeong-ok"
+    ],
+    "first": "001",
+    "last": "Friend or Foe"
+  }
+}

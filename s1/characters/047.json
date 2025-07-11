@@ -1,0 +1,25 @@
+{
+  "title": "Player 047",
+  "name": "Unknown",
+  "aliases": [
+    "Player 047"
+  ],
+  "affiliation": "33rd Squid Game",
+  "born": "June 2001 or earlier",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26-27, 2020",
+    "game": "Tug of War",
+    "cause_of_death": "Lost to an opposite team"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown extra",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Stick to the Team"
+  }
+}

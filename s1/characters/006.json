@@ -1,0 +1,44 @@
+{
+  "title": "Choi Woo-seong",
+  "name": "Choi Woo-seong",
+  "aliases": [
+    "Player 006"
+  ],
+  "family": [
+    {
+      "name": "Park Mi-hee",
+      "relation": "wife"
+    },
+    {
+      "name": "Choi Dong-guk",
+      "relation": "son"
+    }
+  ],
+  "affiliation": [
+    "33rd Squid Game"
+  ],
+  "occupation": "Liquor salesman",
+  "born": {
+    "date": "May 23, 1976",
+    "location": "Gangwon Province"
+  },
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26-27, 2020",
+    "death_location": "Special Game",
+    "cause_of_death": "Killed by an unknown player"
+  },
+  "physical_description": {
+    "gender": [
+      "Male",
+      "Female (erroneous)"
+    ],
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown extra",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Stick to the Team (mentioned)"
+  }
+}

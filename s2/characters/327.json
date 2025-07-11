@@ -1,0 +1,30 @@
+{
+  "title": "Player 327 (37th Squid Game)",
+  "properties": {
+    "Name": "Unknown",
+    "Aliases": "Player 327"
+  },
+  "sections": [
+    {
+      "title": "Fate",
+      "properties": {
+        "Status": "Deceased",
+        "Died": "Red light- green light"
+      }
+    },
+    {
+      "title": "Physical Description",
+      "properties": {
+        "Gender": "Male",
+        "Hair color": "Black"
+      }
+    },
+    {
+      "title": "Appearances",
+      "properties": {
+        "Portrayed by": "Yong Hun",
+        "Only appearance": "001"
+      }
+    }
+  ]
+}

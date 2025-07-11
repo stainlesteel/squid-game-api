@@ -1,0 +1,29 @@
+{
+  "title": "Player 234",
+  "Name": "Unknown",
+  "Aliases": "Player 234",
+  "Affiliation": [
+    "33rd Squid Game",
+    "Team Three"
+  ],
+  "Fate": {
+    "Status": "Deceased",
+    "Died": [
+      "June 28, 2020",
+      "Tug of War"
+    ],
+    "Cause of death": "Fell to her death with her team after losing to another team in Tug of War"
+  },
+  "Physical Description": {
+    "Gender": [
+      "Male",
+      "Female (erroneous)"
+    ],
+    "Eye color": "Brown",
+    "Hair color": "Black"
+  },
+  "Appearances": {
+    "First appearance": "Red Light, Green Light",
+    "Last appearance": "Stick to the Team"
+  }
+}

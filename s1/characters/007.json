@@ -1,0 +1,29 @@
+{
+  "title": "Player 007",
+  "name": "Unknown",
+  "aliases": [
+    "Player 007"
+  ],
+  "affiliation": [
+    "33rd Squid Game"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26-27, 2020",
+    "death_location": "Special Game",
+    "cause_of_death": "Killed by an unknown player"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Black",
+    "hair_color": [
+      "Black",
+      "Dark brown"
+    ]
+  },
+  "appearances": {
+    "portrayed_by": "Seol Soo-Yun",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "The Man with the Umbrella"
+  }
+}

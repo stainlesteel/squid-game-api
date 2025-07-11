@@ -1,0 +1,21 @@
+{
+  "title": "Player 208",
+  "name": "Unknown",
+  "aliases": "Player 208",
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 27, 2020 Tug of War",
+    "cause": "Lost to a opposite team"
+  },
+  "physical_description": {
+    "gender": "Male Female (erroneous)",
+    "eyes": "Brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "5 unknown extras",
+    "first": "Red Light, Green Light",
+    "last": "Stick to the Team"
+  }
+}

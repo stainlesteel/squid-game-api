@@ -1,0 +1,21 @@
+{
+  "title": "Player 243",
+  "name": "Unknown",
+  "aliases": "Player 243",
+  "affiliation": "Team O",
+  "born": "In 1960's-1970's",
+  "Fate": {
+    "status": "Deceased",
+    "died": "3 November, Round 4 Mingle",
+    "cause": "She was abandoned in the fourth round of Mingle."
+  },
+  "Physical Description": {
+    "gender": "Female",
+    "eyes": "Dark Brown",
+    "hair": "Black"
+  },
+  "Appearances": {
+    "first": "001",
+    "last": "O X"
+  }
+}

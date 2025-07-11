@@ -1,0 +1,26 @@
+{
+  "Player 035 (37th Squid Game)": {
+    "Name": "Unknown",
+    "Relationships": [
+      "Player 052",
+      "Player 176",
+      "Player 339",
+      "Player 405"
+    ],
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "November 3, 2024 Mingle",
+      "Cause of death": "Abandoned by her group in the second round of Mingle"
+    },
+    "Physical Description": {
+      "Gender": "Female",
+      "Eye color": "Dark Brown",
+      "Hair color": "Brown"
+    },
+    "Appearances": {
+      "Portrayed by": "Kim Su-jin",
+      "First appearance": "001",
+      "Last appearance": "O X"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Player 224",
+  "name": "Unknown",
+  "aliases": "Player 224",
+  "relationships": "Player 225 †  - Ally and Teammate in Six-Legged Pentathlon. Player 228 †  - Ally and Teammate in Six-Legged Pentathlon. Player 294 †  - Ally and Teammate in Six-Legged Pentathlon. Player 399 †  - Ally and Teammate in Six-Legged Pentathlon.",
+  "affiliation": "Team O",
+  "born": "In 1970's-1980's",
+  "fate": {
+    "status": "Deceased",
+    "died": "2 November, Six-Legged Pentathlon",
+    "cause_of_death": "Shot after she and her team failed to complete the mini-games in time"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Dark Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "first_appearance": "001",
+    "last_appearance": "Six Legs"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Player 152",
+  "name": "Unknown",
+  "aliases": "Player 152",
+  "affiliation": "37th Squid Game, Team X",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 3, 2024, Mingle",
+    "cause": "Shot by soldier after failing to enter room"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Im Hyun-ju",
+    "first": "001",
+    "last": "O X"
+  }
+}

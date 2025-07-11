@@ -1,0 +1,23 @@
+{
+  "title": "Player 245",
+  "name": "Unknown",
+  "aliases": "Player 245",
+  "relations": "Player 344 (37th Squid Game) (Friend) Player 404 (37th Squid Game) (Friend)",
+  "affiliation": "Team O (Formerly) Team X",
+  "born": "In 1970'-1980's",
+  "Fate": {
+    "status": "Deceased",
+    "died": "3 November, Mingle",
+    "cause": "Failed to find a free room."
+  },
+  "Physical Description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "Appearances": {
+    "actor": "Go Ji-hwan",
+    "first": "001",
+    "last": "O X"
+  }
+}

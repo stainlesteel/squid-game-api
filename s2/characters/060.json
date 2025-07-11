@@ -1,0 +1,28 @@
+{
+  "title": "Player 060",
+  "name": "Unknown",
+  "aliases": "Player 060",
+  "relationships": [
+    "Player 067 † - Ally and Teammate in Six-Legged Pentathlon.",
+    "Player 085 † - Ally and Teammate in Six-Legged Pentathlon.",
+    "Player 425 † - Ally and Teammate in Six-Legged Pentathlon.",
+    "Player 449 † - Ally and Teammate in Six-Legged Pentathlon."
+  ],
+  "affiliation": "Team X",
+  "born": "In 1980's",
+  "fate": {
+    "status": "Deceased",
+    "died": "Mingle",
+    "cause_of_death": "Shot with Player 218 for not finding a room in the final round of Mingle (presumably)"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Dark Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Chae Su-jin",
+    "first_appearance": "001",
+    "last_appearance": "O X"
+  }
+}

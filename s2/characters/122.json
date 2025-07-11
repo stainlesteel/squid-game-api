@@ -1,0 +1,21 @@
+{
+  "Player 122": {
+    "name": "Unknown",
+    "aliases": "Player 122",
+    "affiliation": "37th Squid Game",
+    "Fate": {
+      "status": "Deceased",
+      "died": "November 1, 2024 Red Light, Green Light",
+      "cause": "Shot after moving on Red Light"
+    },
+    "Physical Description": {
+      "gender": "Female",
+      "hair": "Black"
+    },
+    "Appearances": {
+      "actor": "Unknown extra",
+      "first": "001",
+      "last": "One More Game (error)"
+    }
+  }
+}

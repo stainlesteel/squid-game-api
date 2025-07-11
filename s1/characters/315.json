@@ -1,0 +1,32 @@
+{
+  "title": "Player 315 (33rd Squid Game)",
+  "data": {
+    "Name": "Unknown",
+    "Aliases": "Player 315",
+    "Affiliation": "33rd Squid Game"
+  },
+  "sections": [
+    {
+      "title": "Fate",
+      "data": {
+        "Status": "Deceased",
+        "Died": "Tug of War",
+        "Cause of death": "Lost against Seong Gi-hun's team and pulled out this platform"
+      }
+    },
+    {
+      "title": "Physical Description",
+      "data": {
+        "Gender": "Male",
+        "Eye color": "Brown",
+        "Hair color": "Black"
+      }
+    },
+    {
+      "title": "Appearances",
+      "data": {
+        "Only appearance": "Unknown"
+      }
+    }
+  ]
+}

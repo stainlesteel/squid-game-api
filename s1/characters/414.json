@@ -1,0 +1,28 @@
+{
+  "title": "Player 414",
+  "name": "Unknown",
+  "aliases": "Player 414",
+  "affiliation": "33rd Squid Game",
+  "born": "June 2001 or earlier",
+  "fate": {
+    "status": "Deceased",
+    "died": [
+      "June 28, 2020",
+      "Marbles"
+    ],
+    "cause": "Got shot in the chest 2 times"
+  },
+  "physical_description": {
+    "gender": [
+      "Male",
+      "Female (erroneous)"
+    ],
+    "eyes": "Black",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Unknown extra",
+    "first": "Red Light, Green Light",
+    "last": "Gganbu"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Player 260": {
+    "Name": "Unknown",
+    "Aliases": "Player 260",
+    "Affiliation": [
+      "Team O",
+      "Seekers"
+    ],
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "Jump Rope",
+      "Cause of death": "Fell after failing to jump off-screen"
+    },
+    "Physical Description": {
+      "Gender": "Male",
+      "Eye color": "Dark brown",
+      "Hair color": "Black"
+    },
+    "Appearances": {
+      "Portrayed by": "David Kim",
+      "First appearance": "001 (icon only)",
+      "Last appearance": "222"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Player 200",
+  "name": "N/A",
+  "aliases": [
+    "Player 200"
+  ],
+  "relations": [
+    "Player 042 † - Ally and Teammate in Six-Legged Pentathlon",
+    "Player 127 † - Ally and Teammate in Six-Legged Pentathlon",
+    "Player 213 † - Ally and Teammate in Six-Legged Pentathlon",
+    "Player 314 † - Ally and Teammate in Six-Legged Pentathlon"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team X"
+  ],
+  "occupation": "N/A",
+  "born": "In 1970's-1980's",
+  "fate": {
+    "status": "Deceased",
+    "died": "3 November, Mingle",
+    "cause": "She was abandoned in first round in Mingle with Player 298 and one more female player."
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eyes": "Brown eyes",
+    "hair": "Black straight hair"
+  },
+  "appearances": {
+    "actor": "N/A",
+    "first": "001",
+    "last": "O X"
+  }
+}

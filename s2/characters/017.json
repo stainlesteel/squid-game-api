@@ -1,0 +1,21 @@
+{
+  "title": "Player 017 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 017",
+  "affiliation": "37th Squid Game\nTeam X",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 3, 2024\nMingle",
+    "cause": "He didn't find enough players in the last rounds."
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Kim Yong-kyun",
+    "first": "001",
+    "last": "O X"
+  }
+}

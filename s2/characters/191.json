@@ -1,0 +1,29 @@
+{
+  "title": "Player 191",
+  "name": "Unknown",
+  "aliases": "Player 191",
+  "family": "N/A",
+  "affiliation": [
+    "37th Squid Game",
+    "Team X (Formerly)",
+    "Team O",
+    "Red Team"
+  ],
+  "occupation": "N/A",
+  "born": "In 1970's-1980's",
+  "Fate": {
+    "status": "Deceased",
+    "died": "November 4, 2024 Hide And Seek",
+    "cause": "Shot to death by guards for failing to kill a Blue Team member during Hide and Seek"
+  },
+  "Physical Description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "Appearances": {
+    "actor": "Jun Jong-woo",
+    "first_appearance": "001 (just icon)",
+    "last_appearance": "Friend or Foe"
+  }
+}

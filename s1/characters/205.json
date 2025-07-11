@@ -1,0 +1,21 @@
+{
+  "title": "Player 205",
+  "name": "Unknown",
+  "aliases": "Player 205",
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26-27, 2020 Special Game",
+    "cause": "Beaten up by a player"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Four unknown extras",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Stick to the Team"
+  }
+}

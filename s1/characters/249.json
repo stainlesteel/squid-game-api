@@ -1,0 +1,18 @@
+{
+  "title": "Player 249 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 249",
+  "fate": {
+    "status": "Deceased",
+    "died": "Special Game",
+    "cause": "Killed by an unknown player"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Black",
+    "hair": "Black"
+  },
+  "appearances": {
+    "first": "Unknown"
+  }
+}

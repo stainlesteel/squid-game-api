@@ -1,0 +1,23 @@
+{
+  "title": "Player 435",
+  "name": "Unknown",
+  "aliases": "Player 435",
+  "affiliation": "Squid Games",
+  "occupation": "Player of the 33rd Squid Game (formerly)",
+  "born": "June 2000 or earlier",
+  "fate": {
+    "status": "Deceased",
+    "died": "Special Round",
+    "cause": "Got hit by another player's bat"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown extra",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Stick to the Team"
+  }
+}

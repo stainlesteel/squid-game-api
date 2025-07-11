@@ -1,0 +1,26 @@
+{
+  "title": "Player 012 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 012",
+  "relations": [
+    "Player 134 Friend and ally",
+    "Player 111 Best friend and ally",
+    "Player 332 Best friend and ally"
+  ],
+  "affiliation": "Team \"X\"",
+  "occupation": "Team X",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 3, 2024; Mingle",
+    "cause": "Shot in the final round of Mingle due to not finding a room"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eyes": "Dark brown",
+    "hair": "Dark brown"
+  },
+  "appearances": {
+    "first_appearance": "001",
+    "last_appearance": "O X"
+  }
+}

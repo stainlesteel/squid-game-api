@@ -1,0 +1,20 @@
+{
+  "title": "Player 255 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 255",
+  "affiliation": "33rd Squid Game",
+  "Fate": {
+    "status": "Deceased",
+    "died": "\"Red Light, Green Light\"",
+    "cause": "Detected moving by Young-hee during a green light and was shot by a Soldier"
+  },
+  "Physical Description": {
+    "gender": "Male",
+    "eyes": "Black",
+    "hair": "Black"
+  },
+  "Appearances": {
+    "actor": "An Unknown Extra",
+    "Only appearance": "\"Red Light, Green Light\""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Voting",
+  "sections": [
+    {
+      "type": "table",
+      "headers": [
+        "Round 1"
+      ],
+      "rows": [
+        [
+          "⭘"
+        ]
+      ]
+    }
+  ]
+}

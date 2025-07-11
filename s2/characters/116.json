@@ -1,0 +1,27 @@
+{
+  "title": "Player 116",
+  "Name": "Unknown",
+  "Aliases": "Player 116",
+  "Relationships": "Player 134 - (enemy, killer)",
+  "Affiliation": [
+    "37th Squid Game",
+    "Team O",
+    "Player 131's Pentathlon team"
+  ],
+  "Born": "Unknown, possibly the 1980's-1990's",
+  "Fate": {
+    "Status": "Deceased",
+    "Died": "November 3, 2024 Special Game",
+    "Cause of death": "Killed by Player 134 whilst trying to attack other players."
+  },
+  "Physical Description": {
+    "Gender": "Male",
+    "Eye color": "Dark brown",
+    "Hair color": "Brown"
+  },
+  "Appearances": {
+    "Portrayed by": "Hyoung-yu",
+    "First appearance": "001",
+    "Last appearance": "Friend or Foe"
+  }
+}

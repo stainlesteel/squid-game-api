@@ -1,0 +1,20 @@
+{
+  "title": "Player 044",
+  "name": "Unknown",
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26-27, 2020",
+    "game": "Special Game"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown",
+    "first_appearance": "Unknown",
+    "last_appearance": "Stick to the Team"
+  }
+}

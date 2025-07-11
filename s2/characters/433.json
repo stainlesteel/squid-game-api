@@ -1,0 +1,19 @@
+{
+  "title": "Player 433 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 433",
+  "affiliation": "Team X",
+  "fate": {
+    "status": "Deceased",
+    "died": "Mingle"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "first": "001",
+    "last": "One More Game"
+  }
+}

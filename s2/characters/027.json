@@ -1,0 +1,20 @@
+{
+  "title": "Player 027",
+  "name": "Unknown",
+  "aliases": "Player 027",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 3, 2024 Mingle",
+    "cause": "She died in the fourth of Mingle"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Kim Song-hyun",
+    "first": "001",
+    "last": "O X"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Player 013",
+  "data": {
+    "name": "Unknown",
+    "aliases": "Player 013",
+    "relations": "Player 215 † - Ally and Teammate in fifth and final round in Mingle.",
+    "affiliation": "Team O",
+    "born": "November 2005 or earlier",
+    "fate": {
+      "status": "Deceased",
+      "died": "November 3, 2024 Mingle",
+      "cause": "Shot by a guard for not finding a room in the final round of Mingle."
+    },
+    "physicalDescription": {
+      "gender": "Female",
+      "eyes": "Dark brown",
+      "hair": "Dark brown"
+    },
+    "appearances": {
+      "actor": "Gong Se-young",
+      "first": "001",
+      "last": "O X"
+    }
+  }
+}

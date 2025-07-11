@@ -1,0 +1,24 @@
+{
+  "title": "Player 249 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 249",
+  "relations": [
+    "Player 073 (Indirect Victim)",
+    "Kim Young-mi (Indirect Victim)"
+  ],
+  "affiliation": "Team O",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 3, Mingle",
+    "cause": "Shot by a soldier after failing to find a room in the final Mingle round"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "hair": "Brown"
+  },
+  "appearances": {
+    "actor": "Lee Jae-seong",
+    "first": "001",
+    "last": "O X"
+  }
+}

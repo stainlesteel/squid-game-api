@@ -1,0 +1,29 @@
+{
+  "title": "Player 261",
+  "properties": {
+    "Name": "Unknown",
+    "Aliases": "Player 261",
+    "Affiliation": "33rd Squid Game"
+  },
+  "sections": [
+    {
+      "name": "Fate",
+      "properties": {
+        "Status": "Unknown"
+      }
+    },
+    {
+      "name": "Physical Description",
+      "properties": {
+        "Gender": "Male",
+        "Hair color": "Black"
+      }
+    },
+    {
+      "name": "Appearances",
+      "properties": {
+        "Only appearance": "Unknown"
+      }
+    }
+  ]
+}

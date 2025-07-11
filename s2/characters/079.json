@@ -1,0 +1,22 @@
+{
+  "title": "Player 079",
+  "data": {
+    "Name": "Unknown",
+    "Aliases": "Player 079",
+    "Affiliation": "37th Squid Game",
+    "Born": "In 1980's-1990's",
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "1 November, Red Light, Green Light",
+      "Cause of death": "He tried to escape from the arena in the first game after Kang Mi-na's death."
+    },
+    "Physical Description": {
+      "Gender": "Male",
+      "Eye color": "Dark Brown",
+      "Hair color": "Black"
+    },
+    "Appearances": {
+      "Only appearance": "001"
+    }
+  }
+}

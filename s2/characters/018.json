@@ -1,0 +1,20 @@
+{
+  "Player 018": {
+    "name": "Unknown",
+    "aliases": "Player 018",
+    "born": "1950's-1960's",
+    "fate": {
+      "status": "Deceased",
+      "died": "Red Light, Green Light",
+      "cause": "Shot by a soldier during the initial panic for running"
+    },
+    "physicalDescription": {
+      "gender": "Female",
+      "eyes": "Dark brown",
+      "hair": "Gray"
+    },
+    "appearances": {
+      "first": "001"
+    }
+  }
+}

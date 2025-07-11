@@ -1,0 +1,25 @@
+{
+  "title": "Player 018",
+  "name": "Unknown",
+  "aliases": [
+    "Player 018"
+  ],
+  "affiliation": [
+    "33rd Squid Game"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "Special Game",
+    "cause_of_death": "Killed by another player"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Brown"
+  },
+  "appearances": {
+    "portrayed_by": "An Unknown Extra",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Stick to the Team"
+  }
+}

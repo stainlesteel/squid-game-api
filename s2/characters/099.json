@@ -1,0 +1,23 @@
+{
+  "title": "Player 099",
+  "properties": {
+    "Name": "Unknown",
+    "Aliases": "Player 099",
+    "Affiliation": "Team O",
+    "Born": "1980's-1990's",
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "Mingle",
+      "Cause of death": "Killed after not finding a room in the final round of Mingle"
+    },
+    "Physical Description": {
+      "Gender": "Female",
+      "Eye color": "Dark brown",
+      "Hair color": "Brown"
+    },
+    "Appearances": {
+      "First appearance": "001",
+      "Last appearance": "O X"
+    }
+  }
+}

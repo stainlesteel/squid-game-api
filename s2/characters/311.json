@@ -1,0 +1,19 @@
+{
+  "title": "Player 311 (37th Squid Game)",
+  "data": {
+    "name": "Unknown",
+    "aliases": "Player 311",
+    "fate": {
+      "status": "Deceased",
+      "died": "Red Light, Green Light",
+      "cause": "Got shot while caught moving by Young-Hee"
+    },
+    "physical_description": {
+      "gender": "Male"
+    },
+    "appearances": {
+      "actor": "2 Unknown extras",
+      "first": "001 (error)"
+    }
+  }
+}

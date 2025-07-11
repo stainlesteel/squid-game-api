@@ -1,0 +1,23 @@
+{
+  "title": "Player 376",
+  "name": "Unknown",
+  "aliases": "Player 376",
+  "relations": "Player 370 † - Friend, Ally and Teammate in second round in Mingle. Player 152 † - Friend, Ally and Teammate in Second round in Mingle. Team X - enemies",
+  "affiliation": "Team O",
+  "born": "In 1960's-1970's",
+  "fate": {
+    "status": "Deceased",
+    "died": "3-4 November, during Special Game",
+    "cause": "Stomped by Player 080"
+  },
+  "physicalDescription": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black and Grey"
+  },
+  "appearances": {
+    "actor": "Lee Heung-yoon and an unknown extra",
+    "first": "001",
+    "last": "Friend or Foe"
+  }
+}

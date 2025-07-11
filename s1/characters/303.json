@@ -1,0 +1,35 @@
+{
+  "title": "Player 303",
+  "Name": "Unknown",
+  "Aliases": "Player 303",
+  "Relationships": [
+    "Kang Sae-byeok (Enemy)",
+    "Seong Gi-hun (Enemy)",
+    "Oh Il-nam (Enemy)",
+    "Ali Abdul (Enemy)",
+    "Cho Sang-woo (Enemy)",
+    "Jang Deok-su (Friend)",
+    "Player 278 (Friend)",
+    "Player 040 (Friend)",
+    "Byeong-gi (Friend)"
+  ],
+  "Affiliation": [
+    "33rd Squid Game",
+    "Team One"
+  ],
+  "Fate": {
+    "Status": "Deceased",
+    "Died": "June 28, 2020 (Marbles)",
+    "Cause of death": "Executed for cheating after swapping partners with Player 126"
+  },
+  "Physical Description": {
+    "Gender": "Male",
+    "Eye color": "Brown",
+    "Hair color": "Black"
+  },
+  "Appearances": {
+    "Portrayed by": "Kim Dong-won",
+    "First appearance": "The Man with the Umbrella",
+    "Last appearance": "Gganbu"
+  }
+}

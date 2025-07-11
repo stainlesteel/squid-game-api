@@ -1,0 +1,19 @@
+{
+  "title": "Player 338 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 338",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 1, 2024 Red Light, Green Light",
+    "cause": "Shot by a soldier after moving in red light"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Kang Chang-hwi",
+    "only_appearance": "001"
+  }
+}

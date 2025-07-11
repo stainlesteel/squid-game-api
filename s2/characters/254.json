@@ -1,0 +1,31 @@
+{
+  "title": "Player 254",
+  "name": "Unknown",
+  "aliases": "Player 254",
+  "affiliation": [
+    "37th Squid Game",
+    "Team O",
+    "Team 2"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": [
+      "November 2, 2024",
+      "Six-Legged Pentathlon"
+    ],
+    "cause": "Shot repeatedly by soldier"
+  },
+  "physical_description": {
+    "gender": [
+      "Female",
+      "Male (erroneous)"
+    ],
+    "eye_color": "Dark brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Park Bo-kyung",
+    "first_appearance": "001",
+    "last_appearance": "Six Legs"
+  }
+}

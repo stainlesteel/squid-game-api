@@ -1,0 +1,19 @@
+{
+  "id": "226",
+  "name": "Unknown",
+  "aliases": "Player 226",
+  "fate": {
+    "status": "Deceased",
+    "died": "Tug of war",
+    "causeOfDeath": "Lost to Team 6 and fell off the platform"
+  },
+  "physicalDescription": {
+    "gender": "Male",
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "appearances": {
+    "firstAppearance": "Red Light Green Light",
+    "lastAppearance": "Stick to the Team"
+  }
+}

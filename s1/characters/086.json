@@ -1,0 +1,23 @@
+{
+  "title": "Player 086",
+  "name": "Unknown",
+  "aliases": [
+    "Player 086"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 28, 2020, Marbles",
+    "cause_of_death": "Shot in the chest by a soldier"
+  },
+  "physical_description": {
+    "gender": "Male (erroneously Female)",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Lee Hwan-min, No In-Cheol (erroneous)",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Gganbu (corpse)"
+  }
+}

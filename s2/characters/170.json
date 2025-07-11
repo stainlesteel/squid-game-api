@@ -1,0 +1,30 @@
+{
+  "name": "Player 170",
+  "data": {
+    "Name": "Unknown"
+  },
+  "sections": [
+    {
+      "title": "Fate",
+      "data": {
+        "Status": "Deceased",
+        "Died": "November 1, 2024 Red Light, Green Light",
+        "Cause of death": "Shot by sniper after moving in Red Light, Green Light"
+      }
+    },
+    {
+      "title": "Physical Description",
+      "data": {
+        "Gender": "Male",
+        "Eye color": "Dark Brown",
+        "Hair color": "Black"
+      }
+    },
+    {
+      "title": "Appearances",
+      "data": {
+        "Only appearance": "001"
+      }
+    }
+  ]
+}

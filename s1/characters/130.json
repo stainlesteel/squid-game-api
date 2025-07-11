@@ -1,0 +1,44 @@
+{
+  "title": "Player 130",
+  "Name": "Unknown",
+  "Aliases": "Player 130",
+  "Relationships": {
+    "Tug of War teammates": [
+      "Player 017",
+      "Player 229",
+      "Player 453",
+      "Player 322",
+      "Player 096",
+      "Player 043",
+      "Player 028",
+      "Player 021",
+      "Player 413"
+    ],
+    "Marbles teammate": "Player 062",
+    "Attempted killers": [
+      "Player 413",
+      "Player 081",
+      "Player 183"
+    ]
+  },
+  "Affiliation": [
+    "33rd Squid Game",
+    "Do Jung-soo's team"
+  ],
+  "Fate": {
+    "Status": "Deceased",
+    "Died": "June 28, 2020",
+    "Location of Death": "Marbles",
+    "Cause of death": "Shot after losing to Player 062 in Marbles"
+  },
+  "Physical Description": {
+    "Gender": "Male",
+    "Eye color": "Black",
+    "Hair color": "Black"
+  },
+  "Appearances": {
+    "Portrayed by": "Roh In-cheol",
+    "First appearance": "Stick to the Team",
+    "Last appearance": "Gganbu"
+  }
+}

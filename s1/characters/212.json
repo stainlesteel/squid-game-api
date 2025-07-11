@@ -1,0 +1,56 @@
+{
+  "title": "Han Mi-nyeo",
+  "properties": {
+    "Name": "Han Mi-nyeo",
+    "Aliases": [
+      "Player 212",
+      "Number 11",
+      "Missus, Old Lady, (아주머니 Ajumeoni), Grandma (Seong Gi-hun)",
+      "The Weakest Link (Guards)",
+      "Crazy Bitch (Jang Deok-su)"
+    ],
+    "Family": "Unnamed child (possibly)",
+    "Relationships": [
+      "Jang Deok-su † (ex-lover turned archenemy/victim)",
+      "Seong Gi-hun † (ally/teammate)",
+      "Cho Sang-woo † (ally/teammate)",
+      "Player 276 † (ally/teammate)",
+      "Oh Il-nam † (Ally/Teammate)",
+      "Player 196 † (ally/teammate)",
+      "Player 244 † (ally/teammate)",
+      "Ji-yeong † (ally/teammate)",
+      "Ali Abdul † (ally/teammate)",
+      "Kang Sae-byeok † (ally/teammate)"
+    ],
+    "Affiliation": "33rd Squid Game"
+  },
+  "sections": [
+    {
+      "title": "Fate",
+      "properties": {
+        "Status": "Deceased",
+        "Died": [
+          "June 29, 2020",
+          "Glass Stepping Stones"
+        ],
+        "Cause of death": "Jumped off the glass bridge taking Jang Deok-su with her in a murder-suicide."
+      }
+    },
+    {
+      "title": "Physical Description",
+      "properties": {
+        "Gender": "Female",
+        "Eye color": "Brown",
+        "Hair color": "Dark brown"
+      }
+    },
+    {
+      "title": "Appearances",
+      "properties": {
+        "Portrayed by": "Kim Joo-ryoung",
+        "First appearance": "Red Light, Green Light",
+        "Last appearance": "VIPS"
+      }
+    }
+  ]
+}

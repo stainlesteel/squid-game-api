@@ -1,0 +1,30 @@
+{
+  "title": "Player 344",
+  "name": "Unknown",
+  "aliases": "Player 344",
+  "relations": [
+    "Player 404 † (teammate in Six-Legged Pentathlon)",
+    "Player 245 † (teammate in Six-Legged Pentathlon)",
+    "Player 039 (likely killer)"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team O",
+    "Blue Team"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "November 4, 2024 Hide and Seek",
+    "cause": "Stabbed to death by Player 039"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Dark brown"
+  },
+  "appearances": {
+    "actor": "Han Kang-ho",
+    "first": "001",
+    "last": "The Starry Night"
+  }
+}

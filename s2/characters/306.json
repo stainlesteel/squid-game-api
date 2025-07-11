@@ -1,0 +1,38 @@
+{
+  "title": "Player 306",
+  "name": "Unknown",
+  "aliases": [
+    "Player 306",
+    "Sin Do-nam"
+  ],
+  "relationships": [
+    "Seon-nyeo † (ally/leader; indirect killer)",
+    "Park Mi-hwa † (ally)",
+    "Player 009 † (ally)",
+    "Player 447 † (ally)",
+    "Player 220 † (ally in Mingle)",
+    "Lee Myung-gi † (enemy; attempted killer)",
+    "Nam-gyu † (enemy; attempted killer)"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team O",
+    "Hiders",
+    "Seon-nyeo's group"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "November 5, 2024\nJump Rope",
+    "cause of death": "Slipped and fell to death"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Lee Kyung-min",
+    "first_appearance": "001",
+    "last_appearance": "222"
+  }
+}

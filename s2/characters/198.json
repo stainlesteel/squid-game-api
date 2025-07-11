@@ -1,0 +1,34 @@
+{
+  "title": "Jang Do-yeong",
+  "name": "Jang Do-yeong",
+  "aliases": [
+    "Player 198",
+    "Fucking idiot (by Player 178)"
+  ],
+  "relations": [
+    "Player 016 † (teammate in Six-Legged Pentathlon)",
+    "Player 178 † (teammate in Six-Legged Pentathlon)",
+    "Player 416 † (teammate in Six-Legged Pentathlon)",
+    "Player 189 † (teammate in Six-Legged Pentathlon)",
+    "Kang No-eul (killer)"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team O",
+    "Team One"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "cause": "Shot by Kang No-eul"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Park Hyun-chul",
+    "first": "001",
+    "last": "Six Legs"
+  }
+}

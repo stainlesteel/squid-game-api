@@ -1,0 +1,21 @@
+{
+  "title": "Player 155",
+  "name": "Unknown",
+  "aliases": "Player 155",
+  "affiliation": "Team O",
+  "Fate": {
+    "status": "Deceased",
+    "died": "November 2 2024 Six-Legged Pentathlon",
+    "cause": "Shot by a soldier after losing Six-Legged Pentathlon"
+  },
+  "Physical Description": {
+    "gender": "Female",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "Appearances": {
+    "actor": "Kim Jae-min",
+    "first": "001",
+    "last": "Six Legs"
+  }
+}

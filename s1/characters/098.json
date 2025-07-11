@@ -1,0 +1,24 @@
+{
+  "title": "Player 098",
+  "name": "Unknown",
+  "aliases": [
+    "Player 098"
+  ],
+  "affiliation": "33rd Squid Game",
+  "born": "June 2001 or earlier",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 27, 2020, Sugar Honeycombs",
+    "cause_of_death": "Shot by a soldier after breaking his dalgona"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "No In-Cheol and 2 other extras",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Stick to the Team (error)"
+  }
+}

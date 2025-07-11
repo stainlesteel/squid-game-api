@@ -1,0 +1,35 @@
+{
+  "title": "Player 093",
+  "name": "Unknown",
+  "aliases": "Player 093",
+  "relationships": [
+    "Player 092 †",
+    "Player 180 †",
+    "Player 323 †",
+    "Player 357 †"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team O"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": [
+      "November 2, 2024",
+      "Six-Legged Pentathlon"
+    ]
+  },
+  "physical_description": {
+    "gender": [
+      "Female",
+      "Male"
+    ],
+    "eye_color": "Dark brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "2 unknown extras",
+    "first_appearance": "001",
+    "last_appearance": "One More Game"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Player 099",
+  "name": "Unknown",
+  "aliases": [
+    "Player 099"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26–27, Special Game",
+    "cause_of_death": "Possibly killed by a player"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Grey or black"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown extra",
+    "only_appearance": "Stick to the Team"
+  }
+}

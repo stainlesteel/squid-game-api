@@ -1,0 +1,21 @@
+{
+  "title": "Player 378 (33rd Squid Game)",
+  "data": {
+    "name": "Unknown",
+    "aliases": "Player 378",
+    "fate": {
+      "status": "Deceased",
+      "died": "Red Light, Green Light",
+      "cause_of_death": "Detected moving on a Red Light."
+    },
+    "physical_description": {
+      "gender": "Female",
+      "eye_color": "Black",
+      "hair_color": "Black"
+    },
+    "appearances": {
+      "portrayed_by": "An Unknown Extra",
+      "only_appearance": "Red Light, Green Light"
+    }
+  }
+}

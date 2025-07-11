@@ -1,0 +1,20 @@
+{
+  "title": "Player 005",
+  "name": "Unknown",
+  "aliases": "Player 005",
+  "relationships": "Seen talking to players 171 and another unknown male player.",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 1, 2024 Red Light, Green Light",
+    "cause_of_death": "Shot after moving during Red Light, Green Light."
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Dark brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown extra",
+    "only_appearance": "001"
+  }
+}

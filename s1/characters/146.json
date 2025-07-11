@@ -1,0 +1,23 @@
+{
+  "Player 146": {
+    "Name": "Unknown",
+    "Aliases": "Player 146",
+    "Relationships": "Player 150 (friend), Player 003 (friend), Player 332 (friend)",
+    "Affiliation": "33rd Squid Game",
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "Tug of War",
+      "Cause of death": "Pulled off platform in Tug of War"
+    },
+    "Physical Description": {
+      "Gender": "Male",
+      "Eye color": "Brown",
+      "Hair color": "Black"
+    },
+    "Appearances": {
+      "Portrayed by": "Unknown extra",
+      "First appearance": "Red Light, Green Light",
+      "Last appearance": "Stick to the Team"
+    }
+  }
+}

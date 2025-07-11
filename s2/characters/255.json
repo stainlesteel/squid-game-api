@@ -1,0 +1,27 @@
+{
+  "title": "Player 255 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 255",
+  "affiliation": [
+    "37th Squid Game",
+    "Team X"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": [
+      "November 2nd, 2024",
+      "Six-Legged Pentathlon"
+    ],
+    "cause_of_death": "Failed to complete the Mini - Games in the Six Legged Pentathlon, him and the rest of his team were shot."
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown extra",
+    "first_appearance": "001",
+    "last_appearance": "Six Legs"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Player 266",
+  "name": "Unknown",
+  "aliases": "Player 266",
+  "relationships": "Im Jeong-dae (ally)",
+  "affiliation": [
+    "37th Squid Game",
+    "Team O"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "Mingle",
+    "cause_of_death": "She probably couldn't find a room in the first or second round of mingle"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Dark brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "first_appearance": "001",
+    "last_appearance": "O X"
+  }
+}

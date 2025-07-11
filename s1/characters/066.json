@@ -1,0 +1,24 @@
+{
+  "title": "Player 066",
+  "name": "Unknown",
+  "aliases": [
+    "Player 066"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Alive"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": [
+      "Won Choon-gyu",
+      "Two unknown extras"
+    ],
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Hell"
+  }
+}

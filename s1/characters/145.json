@@ -1,0 +1,18 @@
+{
+  "Player 145": {
+    "Name": "Unknown",
+    "Aliases": "Player 145",
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "Red Light, Green Light",
+      "Cause of death": "Shot in Red Light, Green Light"
+    },
+    "Physical Description": {
+      "Gender": "Male",
+      "Hair color": "Black"
+    },
+    "Appearances": {
+      "Only appearance": "Red Light, Green Light (icon only)"
+    }
+  }
+}

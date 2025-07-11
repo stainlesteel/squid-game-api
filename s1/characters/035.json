@@ -1,0 +1,24 @@
+{
+  "title": "Player 035",
+  "name": "Unknown",
+  "aliases": [
+    "Player 035"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26, 2020",
+    "game": "Sugar Honeycombs",
+    "cause_of_death": "Failed to carve out his shape correctly"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown extra",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "The Man with the Umbrella"
+  }
+}

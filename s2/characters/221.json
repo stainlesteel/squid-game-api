@@ -1,0 +1,21 @@
+{
+  "title": "Player 221 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 221",
+  "relations": "Player 169 - Friend, Ally and Teammate in Six-Legged Pentathlon",
+  "affiliation": "Team O",
+  "fate": {
+    "status": "Deceased",
+    "died": "3 November, Mingle",
+    "cause_of_death": "Probably un first or second round in Mingle"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "first_appearance": "001",
+    "last_appearance": "O X"
+  }
+}

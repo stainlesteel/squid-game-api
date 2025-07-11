@@ -1,0 +1,21 @@
+{
+  "title": "Player 364 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 364",
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "Tug of War",
+    "cause_of_death": "Pulled of the Platform by an unknown team"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "An Unknown Extra",
+    "first_appearance": "\"Red Light, Green Light\"",
+    "last_appearance": "\"A Fair World\""
+  }
+}

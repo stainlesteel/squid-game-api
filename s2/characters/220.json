@@ -1,0 +1,22 @@
+{
+  "title": "Player 220",
+  "name": "Unknown",
+  "aliases": "Player 220",
+  "relationships": "Player 172 (friend) Park Yong-sik (situational ally)",
+  "affiliation": "Team X",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 3-4, 2024, during Special Game",
+    "cause_of_death": "Strangled or beaten to death by Player 024"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark brown",
+    "hair_color": "Dark brown"
+  },
+  "appearances": {
+    "portrayed_by": "Cho Kyu-jun",
+    "first_appearance": "001",
+    "last_appearance": "Friend or Foe"
+  }
+}

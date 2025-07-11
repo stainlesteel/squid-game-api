@@ -1,0 +1,21 @@
+{
+  "title": "Player 206",
+  "name": "Unknown",
+  "aliases": "Player 206",
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26-27, 2020 Special Game",
+    "cause": "Killed by a player"
+  },
+  "physical_description": {
+    "gender": "Female Male (erroneous)",
+    "eyes": "Brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "3 unknown extras",
+    "first": "Red Light, Green Light",
+    "last": "Stick to the Team"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Player 059 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": [
+    "Player 059"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "Tug of war",
+    "cause_of_death": "Defeated by the opposing team and fell to death"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Brown",
+    "hair_color": "Brown"
+  },
+  "appearances": {
+    "only_appearance": "Unknown"
+  }
+}

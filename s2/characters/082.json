@@ -1,0 +1,21 @@
+{
+  "title": "Player 082",
+  "name": "Unknown",
+  "aliases": "Player 082",
+  "relations": "None noted.",
+  "born": "1990s",
+  "fate": {
+    "status": "Deceased",
+    "died": "Red Light, Green Light",
+    "cause": "Shot due to running to the doors in internal scare, presumably."
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Black",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Jo Yun-seong",
+    "only_appearance": "001"
+  }
+}

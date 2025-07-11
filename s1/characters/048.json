@@ -1,0 +1,21 @@
+{
+  "title": "Player 048",
+  "name": "Player 048",
+  "born": "Before 2001",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 9-10, 2020",
+    "game": "Red Light, Green Light",
+    "cause_of_death": "Ran and got shot in the internal scare"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Unknown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown",
+    "first_appearance": "Red Light, Green Light (Icon)",
+    "last_appearance": "Stick to the Team (Icon)"
+  }
+}

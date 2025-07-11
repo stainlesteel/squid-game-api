@@ -1,0 +1,30 @@
+{
+  "title": "Player 177",
+  "Name": "Unknown",
+  "Aliases": "Player 177",
+  "Relationships": [
+    "Player 008 † - (ally)",
+    "Player 116 † - (ally)",
+    "Player 131 † - (ally)",
+    "Player 146 † - (best friend, strong ally)",
+    "Player 154 † - (ally)",
+    "Player 367 † - (friend)"
+  ],
+  "Affiliation": "Team O",
+  "Born": "In 1980's",
+  "Fate": {
+    "Status": "Deceased",
+    "Died": "November 3, 2024",
+    "Cause of death": "Shot by a soldier after failing to find a room in Mingle"
+  },
+  "Physical Description": {
+    "Gender": "Male",
+    "Eye color": "Dark Brown",
+    "Hair color": "Black"
+  },
+  "Appearances": {
+    "Portrayed by": "Kim Yoon-gi",
+    "First appearance": "001",
+    "Last appearance": "O X"
+  }
+}

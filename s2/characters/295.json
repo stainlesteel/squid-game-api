@@ -1,0 +1,28 @@
+{
+  "title": "Player 295",
+  "name": "Unknown",
+  "aliases": "Player 295",
+  "relations": [
+    "Player 091 † - Friend and Ally after Red Light, Green Light and during mealtime",
+    "Player 181 † - Friend and Ally after Red Light, Green Light and during mealtime."
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team O"
+  ],
+  "born": "In 1970's-1980's",
+  "Fate": {
+    "status": "Deceased",
+    "died": "2 November, Six-Legged Pentathlon",
+    "cause": "He and his team probably didn't complete the minigames in the required time in Six-Legged Pentathlon, or he was abandoned in the first round in Mingle"
+  },
+  "Physical Description": {
+    "gender": "Male",
+    "eyes": "Dark Brown",
+    "hair": "Black"
+  },
+  "Appearances": {
+    "first": "001",
+    "last": "One More Game"
+  }
+}

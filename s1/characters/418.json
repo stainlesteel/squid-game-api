@@ -1,0 +1,18 @@
+{
+  "title": "Player 418",
+  "name": "Unknown",
+  "aliases": "Player 418",
+  "fate": {
+    "status": "Deceased",
+    "died": "Sugar Honeycombs",
+    "cause": "Ran out of time"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "hair": "Gray"
+  },
+  "appearances": {
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "The Man with the Umbrella"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Kim In-hyeok": {
+    "aliases": "Player 455",
+    "affiliation": [
+      "Poongsan Commercial High School",
+      "33rd Squid Game"
+    ],
+    "born": "April 21, 1983",
+    "fate": {
+      "status": "Deceased",
+      "died": [
+        "June 9-10, 2020",
+        "Red Light, Green Light"
+      ],
+      "cause_of_death": "Shot in head by sniper while running to doors"
+    },
+    "physical_description": {
+      "gender": "Male",
+      "eye_color": "Black",
+      "hair_color": "Black"
+    },
+    "appearances": {
+      "portrayed_by": "Two unknown extras",
+      "first_appearance": "Red Light, Green Light",
+      "last_appearance": "A Fair World (photo)"
+    }
+  }
+}

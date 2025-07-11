@@ -1,0 +1,40 @@
+{
+  "title": "Park Pil-Sam (33rd Squid Game)",
+  "name": "Park Pil-sam (probably)",
+  "aliases": [
+    "Player 003"
+  ],
+  "relationships": [
+    {"name": "Player 034", "type": "friend"},
+    {"name": "Jang Seung-jong", "type": "friend"},
+    {"name": "Player 187", "type": "friend"},
+    {"name": "Player 146", "type": "friend"},
+    {"name": "Player 332", "type": "friend"},
+    {"name": "Player 131", "type": "killer"}
+  ],
+  "affiliation": "33rd Squid Game",
+  "occupation": null,
+  "born": null,
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26-27, 2020",
+    "death_location": "Special Game",
+    "cause_of_death": "Killed with a glass bottle by Player 131"
+  },
+  "physical_description": {
+    "gender": [
+      "Male",
+      "Female (erroneous)"
+    ],
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": [
+      "Dae Soo-hoo",
+      "three unknown extras"
+    ],
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "A Fair World"
+  }
+}

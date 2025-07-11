@@ -1,0 +1,33 @@
+{
+  "title": "Player 172 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 172",
+  "family": "Unnamed mother",
+  "relationships": [
+    "Player 220 † (friend)",
+    "Park Yong-sik † (forced teammate, enemy and attempted victim)",
+    "Kim Gi-min † (killer)"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team X (formerly)",
+    "Team O",
+    "Blue Team"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": [
+      "November 4, 2024",
+      "Hide and Seek"
+    ],
+    "cause_of_death": "Stabbed in the back and in the neck by Kim Gi-min"
+  },
+  "physical_description": {
+    "gender": "Male"
+  },
+  "appearances": {
+    "portrayed_by": "Jin Yong-wook",
+    "first_appearance": "O X",
+    "last_appearance": "The Starry Night"
+  }
+}

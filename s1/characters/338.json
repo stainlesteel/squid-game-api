@@ -1,0 +1,23 @@
+{
+  "Player 338": {
+    "Name": "Unknown",
+    "Born": "",
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "June 26, 2020 - Sugar Honeycombs",
+      "Cause of death": "Shot in head by guard after breaking her honeycomb"
+    },
+    "Physical Description": {
+      "Gender": [
+        "Female",
+        "Male"
+      ],
+      "Eye color": "Black",
+      "Hair color": "Black"
+    },
+    "Appearances": {
+      "First appearance": "Red Light, Green Light",
+      "Last appearance": "The Man with the Umbrella"
+    }
+  }
+}

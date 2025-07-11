@@ -1,0 +1,23 @@
+{
+  "title": "Player 081",
+  "name": "Unknown",
+  "aliases": [
+    "Player 081"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 28, 2020, Marbles",
+    "cause_of_death": "Shot after losing to Do Jung-soo"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Brown"
+  },
+  "appearances": {
+    "portrayed_by": "Five unknown extras.",
+    "first_appearance": "Hell",
+    "last_appearance": "Gganbu"
+  }
+}

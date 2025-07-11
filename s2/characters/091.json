@@ -1,0 +1,21 @@
+{
+  "title": "Player 091",
+  "name": "Unknown",
+  "aliases": "Player 091",
+  "affiliation": "37th Squid Game\nTeam O",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 2, 2024\nSix-Legged Pentathlon",
+    "cause": "Executed by soldiers after running out of time"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Park Ji-young",
+    "first": "001",
+    "last": "One More Game"
+  }
+}

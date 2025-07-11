@@ -1,0 +1,26 @@
+{
+  "title": "Player 253",
+  "name": "Unknown",
+  "aliases": "Player 253",
+  "relations": [
+    "Player 081 † - Friend, Ally and Teammate in Six-Legged Pentathlon",
+    "Player 195 † - Friend, Ally and Teammate in Six-Legged Pentathlon",
+    "Player 300 † - Friend, Ally and Teammate in Six-Legged Pentathlon",
+    "Player 372 † - Friend, Ally and Teammate in Six-Legged Pentathlon"
+  ],
+  "affiliation": "37th Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "3 November, Mingle",
+    "cause": "He was probably abandoned in round 2 or round 4 in Mingle."
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark Brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "first": "001",
+    "last": "O X"
+  }
+}

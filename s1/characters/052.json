@@ -1,0 +1,22 @@
+{
+  "title": "Player 052",
+  "name": "Unknown",
+  "aliases": [
+    "Player 052"
+  ],
+  "fate": {
+    "status": "Alive"
+  },
+  "physical_description": {
+    "gender": [
+      "Male",
+      "Female (erroneous)"
+    ],
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "An Unknown Extra",
+    "only_appearance": "Unknown"
+  }
+}

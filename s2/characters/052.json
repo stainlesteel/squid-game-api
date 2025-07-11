@@ -1,0 +1,19 @@
+{
+  "title": "Player 052 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 052",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 3, 2024 Mingle",
+    "cause": "She died in the final round with for not find a room."
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eyes": "Dark brown",
+    "hair": "Dark brown"
+  },
+  "appearances": {
+    "first": "\"001\"",
+    "last": "\"O X\""
+  }
+}

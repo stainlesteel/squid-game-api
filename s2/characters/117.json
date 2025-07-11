@@ -1,0 +1,32 @@
+{
+  "title": "Player 117 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 117",
+  "relations": [
+    "Player 113 † - Ally and Teammate in Six-Legged Pentathlon.",
+    "Player 152 † - Ally and Teammate in Six-Legged Pentathlon.",
+    "Player 337 † - Ally and Teammate in Six-Legged Pentathlon."
+  ],
+  "affiliation": [
+    "Player 113's team",
+    "Team X"
+  ],
+  "Fate": {
+    "status": "Deceased",
+    "died": [
+      "November 3, 2024",
+      "Mingle"
+    ],
+    "cause": "Didn't find any players or a room in the third round of Mingle"
+  },
+  "Physical Description": {
+    "gender": "Female",
+    "eyes": "Dark brown",
+    "hair": "Dark brown"
+  },
+  "Appearances": {
+    "actor": "2 unknown extras",
+    "first": "001",
+    "last": "O X"
+  }
+}

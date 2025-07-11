@@ -1,0 +1,18 @@
+{
+  "title": "Player 351 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 351",
+  "fate": {
+    "status": "Deceased",
+    "died": "Special Game"
+  },
+  "physicalDescription": {
+    "gender": "Male",
+    "eyeColor": "Black",
+    "hairColor": "Black"
+  },
+  "appearances": {
+    "portrayedBy": "An Unknown Exxtra",
+    "onlyAppearance": "\"Red Light, Green Light\""
+  }
+}

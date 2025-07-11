@@ -1,0 +1,43 @@
+{
+  "title": "Player 387 (33rd Squid Game)",
+  "data": {
+    "Name": "Unknown",
+    "Aliases": "\"Player 387\"",
+    "Family": "Unknown",
+    "Affiliation": "Unknown",
+    "Born": "Before/in 2001"
+  },
+  "sections": [
+    {
+      "title": "Fate",
+      "data": {
+        "Status": "Deceased",
+        "Died": "\"Red Light, Green Light\""
+      },
+      "sections": []
+    },
+    {
+      "title": "Physical Description",
+      "data": {
+        "Gender": "Male",
+        "Hair color": "Black"
+      },
+      "sections": []
+    },
+    {
+      "title": "Appearances",
+      "data": {
+        "Portrayed by": "Unknown"
+      },
+      "sections": [
+        {
+          "title": "Only appearance",
+          "data": {
+            "Only appearance": "\"Red Light, Green Light\" (Presumedly)"
+          },
+          "sections": []
+        }
+      ]
+    }
+  ]
+}

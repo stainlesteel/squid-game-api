@@ -1,0 +1,34 @@
+{
+  "title": "Player 232",
+  "name": "Unknown",
+  "aliases": "Player 232",
+  "relationships": [
+    "Player 163 † (friend)",
+    "Player 197 † (ally, friend)",
+    "Im Jeong-dae † (ally during Hide and Seek, indirect killer)",
+    "Player 349 † (killer)"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team O",
+    "Blue Team"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": [
+      "November 4, 2024",
+      "Hide and Seek"
+    ],
+    "cause_of_death": "Stabbed repeatedly by Player 349"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Kim Hee-sang",
+    "first_appearance": "One More Game",
+    "last_appearance": "The Starry Night"
+  }
+}

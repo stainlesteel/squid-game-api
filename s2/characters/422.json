@@ -1,0 +1,20 @@
+{
+  "title": "Player 422",
+  "Name": "Unknown",
+  "Aliases": "Player 422",
+  "Affiliation": "Team O",
+  "Fate": {
+    "Status": "Deceased",
+    "Died": "2 November, Six-Legged Pentathlon",
+    "Cause of death": "He and his team did not complete the minigames in the required time."
+  },
+  "Physical Description": {
+    "Gender": "Male",
+    "Eye color": "Dark brown",
+    "Hair color": "Black"
+  },
+  "Appearances": {
+    "First appearance": "\"001\"",
+    "Last appearance": "\"One More Game\""
+  }
+}

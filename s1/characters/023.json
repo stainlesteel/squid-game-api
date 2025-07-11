@@ -1,0 +1,22 @@
+{
+  "title": "Player 023",
+  "name": "Unknown",
+  "aliases": [
+    "Player 023"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "Sugar Honeycombs",
+    "cause_of_death": "Shot for breaking his Dalgona cookie"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown Extra",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "The Man with the Umbrella"
+  }
+}

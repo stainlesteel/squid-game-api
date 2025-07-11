@@ -1,0 +1,19 @@
+{
+  "title": "Player 412 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 412",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 2, 2024",
+    "cause": "Shot by a soldier after losing Six-Legged Pentathlon"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Park Jun-hyun",
+    "first": "001",
+    "last": "Six Legs"
+  }
+}

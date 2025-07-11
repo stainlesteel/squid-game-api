@@ -1,0 +1,33 @@
+{
+  "title": "Player 008 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 008",
+  "relationships": [
+    "Player 116 † - Friend, Ally and Teammate in Six-Legged Pentathlon",
+    "Player 131 † - Friend, Ally and Teammate in Six-Legged Pentathlon",
+    "Player 154 - Friend, Ally and Teammate in Six-Legged Pentathlon",
+    "Player 177 † - Friend, Ally and Teammate in Six-Legged Pentathlon",
+    "Player 147 † - Friend and Ally after Six-Legged Pentathlon"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team O (Formerly)",
+    "Team X"
+  ],
+  "born": "In 1970's",
+  "fate": {
+    "status": "Deceased",
+    "died": "3 November, third or fourth round of Mingle",
+    "cause": "He didn't find enough players or a room."
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Dark brown"
+  },
+  "appearances": {
+    "actor": "No In-chul",
+    "first": "\"001\"",
+    "last": "\"O X\""
+  }
+}

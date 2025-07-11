@@ -1,0 +1,32 @@
+{
+  "title": "Player 141",
+  "name": "N/A",
+  "aliases": "Player 141",
+  "family": "N/A",
+  "relationships": [
+    "Player 089 - Friend, Ally and Teammate in Six-Legged Pentathlon",
+    "Player 110 - Friend, Ally and Teammate in Six-Legged Pentathlon",
+    "Player 223 - Friend, Ally and Teammate in Six-Legged Pentathlon"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team X"
+  ],
+  "occupation": "N/A",
+  "born": "In 1970's-1980's",
+  "fate": {
+    "status": "Deceased",
+    "died": "2 November, Six-Legged Pentathlon",
+    "cause_of_death": "He and his team did not complete the minigames in time."
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "N/A",
+    "first_appearance": "001",
+    "last_appearance": "One More Game"
+  }
+}

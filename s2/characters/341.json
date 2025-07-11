@@ -1,0 +1,35 @@
+{
+  "title": "Player 341",
+  "Name": "Unknown",
+  "Aliases": "Player 341",
+  "Relationships": [
+    "Player 045",
+    "Player 286",
+    "Player 395",
+    "Player 254"
+  ],
+  "Affiliation": [
+    "37th Squid Game",
+    "Team X"
+  ],
+  "Fate": {
+    "Status": "Deceased",
+    "Died": [
+      "November 2, 2024",
+      "Six-Legged Pentathlon"
+    ],
+    "Cause of death": "Shot in chest then in head by soldier after failing to finish in time"
+  },
+  "Physical Description": {
+    "Gender": "Male",
+    "Eye color": "Brown",
+    "Hair color": "Black"
+  },
+  "Appearances": {
+    "Portrayed by": "Kim Ji-oh",
+    "Episodes": {
+      "First appearance": "001",
+      "Last appearance": "Six Legs"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Player 063",
+  "name": "Unknown",
+  "aliases": [
+    "Player 063"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "June 27, 2020",
+    "game": "Tug of War",
+    "cause_of_death": "Fell to death with Team Five"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Park Kim-ho",
+    "only_appearance": "Unknown"
+  }
+}

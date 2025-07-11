@@ -1,0 +1,19 @@
+{
+  "title": "Player 053",
+  "name": "Unknown",
+  "fate": {
+    "status": "Deceased",
+    "died": "Sugar Honeycombs",
+    "cause_of_death": "Breaking his Honeycomb."
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "An Unknown Extra",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "The Man with the Umbrella"
+  }
+}

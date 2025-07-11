@@ -1,0 +1,23 @@
+{
+  "title": "Player 057",
+  "name": "Unknown",
+  "aliases": [
+    "Player 057"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "Sugar Honeycombs",
+    "cause_of_death": "He broke his dalgona and got shot"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Five unknown extras",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Stick to the Team"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Player 454",
+  "Name": "Unknown",
+  "Aliases": "Player 454",
+  "Affiliation": [
+    "37th Squid Game",
+    "Team O"
+  ],
+  "Fate": {
+    "Status": "Deceased",
+    "Died": [
+      "November 2, 2024",
+      "Six-Legged Pentathlon"
+    ],
+    "Cause of death": "Shot by soldier after running out of time"
+  },
+  "Physical Description": {
+    "Gender": "Female",
+    "Eye color": "Dark brown",
+    "Hair color": "Brown"
+  },
+  "Appearances": {
+    "Portrayed by": [
+      "Jeong Eun-kyung",
+      "Unknown extra"
+    ],
+    "First appearance": "001",
+    "Last appearance": "Six Legs"
+  }
+}

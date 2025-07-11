@@ -1,0 +1,35 @@
+{
+  "title": "Player 192",
+  "Name": "Unknown",
+  "Relationships": [
+    "Player 440 † (former ally, victim)",
+    "Player 442 † (ally, indirect victim)",
+    "Player 324 † (enemy)",
+    "Player 206 † (enemy)",
+    "Player 072 † (enemy)"
+  ],
+  "Affiliation": [
+    "37th Squid Game",
+    "Team O",
+    "Im Jeong-dae's team",
+    "Seekers"
+  ],
+  "Fate": {
+    "Status": "Deceased",
+    "Died": [
+      "November 5, 2024",
+      "Jump Rope"
+    ],
+    "Cause of death": "Lost balance and fell to death dragging Player 442 with him"
+  },
+  "Physical Description": {
+    "Gender": "Male",
+    "Eye color": "Dark brown",
+    "Hair color": "Black"
+  },
+  "Appearances": {
+    "Portrayed by": "Jang Tae-min",
+    "First appearance": "\"001\" (icon)",
+    "Last appearance": "\"222\""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Player 284 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 284",
+  "relations": "Seen nodding with Player 385",
+  "affiliation": "Team X",
+  "born": "About 1975-1985",
+  "fate": {
+    "status": "Deceased",
+    "died": "Six-Legged Pentathlon",
+    "cause": "Shoted by a soldier after failing the six-legged pentathlon"
+  },
+  "physicalDescription": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "An unknown extra",
+    "first": "001"
+  }
+}

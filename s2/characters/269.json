@@ -1,0 +1,25 @@
+{
+  "title": "Player 269",
+  "name": "Unknown",
+  "aliases": "Player 269",
+  "family": "N/A",
+  "relations": "N/A",
+  "affiliation": "37th Squid Game\nTeam O",
+  "occupation": "N/A",
+  "born": "In 1970's",
+  "Fate": {
+    "status": "Deceased",
+    "died": "3 november, 2024\nMingle, Round 1",
+    "cause": "Didn't find any players or a room available in the first round of mingle"
+  },
+  "Physical Description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "Appearances": {
+    "actor": "Unknown extra",
+    "first": "001",
+    "last": "O X"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Player 070",
+  "name": "Unknown",
+  "aliases": [
+    "Player 070"
+  ],
+  "family": [
+    "Player 069 † (husband)"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 28, 2020",
+    "game": "Marbles",
+    "cause_of_death": "Lost to Player 069 and shot by soldier"
+  },
+  "physical_description": {
+    "gender": "Female"
+  },
+  "appearances": {
+    "portrayed_by": "Lee Ji-ha",
+    "first_appearance": "Stick to the Team",
+    "last_appearance": "VIPS (mentioned)"
+  }
+}

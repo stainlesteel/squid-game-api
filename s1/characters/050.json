@@ -1,0 +1,20 @@
+{
+  "title": "Player 050",
+  "name": "Unknown",
+  "aliases": [
+    "Player 050"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "June 9-10, 2020",
+    "game": "Red Light, Green Light"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "only_appearance": "Red Light, Green Light"
+  }
+}

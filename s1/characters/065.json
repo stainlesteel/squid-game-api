@@ -1,0 +1,21 @@
+{
+  "title": "Player 065",
+  "name": "Unknown",
+  "aliases": [
+    "Player 065"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "Sugar Honeycombs",
+    "cause_of_death": "Broke his dalgona and shot"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "The Man with the Umbrella"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Player 212",
+  "name": "Unknown",
+  "aliases": "Player 212",
+  "relations": [
+    "Player 089 † - Ally and Teammate in Six-Legged Pentathlon",
+    "Player 110 † - Ally and Teammate in Six-Legged Pentathlon",
+    "Player 141 † - Ally and Teammate in Six-Legged Pentathlon",
+    "Player 223 † - Ally and Teammate in Six-Legged Pentathlon"
+  ],
+  "affiliation": "37th Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 2, 2024 Six-Legged Pentathlon",
+    "cause_of_death": "Shot by soldier after running out of time"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Kim Hyun-jin Lim Tae-hoon (death scene)",
+    "first_appearance": "001",
+    "last_appearance": "One More Game"
+  }
+}

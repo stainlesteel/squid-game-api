@@ -1,0 +1,23 @@
+{
+  "title": "Player 025",
+  "data": {
+    "Name": "Unknown",
+    "Aliases": "Player 025",
+    "Affiliation": "Team O",
+    "Born": "In 1980's-1990's",
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "2 November, Six-Legged Pentathlon"
+    },
+    "Physical Description": {
+      "Gender": "Male",
+      "Eye color": "Dark brown",
+      "Hair color": "Black"
+    },
+    "Appearances": {
+      "Portrayed by": "Jin Se-won\nEun-jun (icon and dormitory scene)",
+      "First appearance": "\"001\"",
+      "Last appearance": "\"O X\""
+    }
+  }
+}

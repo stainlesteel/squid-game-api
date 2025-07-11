@@ -1,0 +1,23 @@
+{
+  "title": "Player 009",
+  "name": "Unknown",
+  "aliases": [
+    "Player 009"
+  ],
+  "affiliation": [
+    "33rd Squid Game"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "June 8-9, 2020",
+    "death_location": "Red Light, Green Light",
+    "cause_of_death": "Shot in chest by sniper after running to doors"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "only_appearance": "Red Light, Green Light"
+  }
+}

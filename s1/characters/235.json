@@ -1,0 +1,27 @@
+{
+  "title": "Player 235",
+  "Name": "Unknown",
+  "Aliases": "Player 235",
+  "Affiliation": "33rd Squid Game",
+  "Fate": {
+    "Status": "Deceased",
+    "Died": [
+      "June 26-27, 2020",
+      "Special Game"
+    ],
+    "Cause of death": "Killed by an unknown player"
+  },
+  "Physical Description": {
+    "Gender": "Female",
+    "Eye color": "Black",
+    "Hair color": "Black"
+  },
+  "Appearances": {
+    "Portrayed by": [
+      "Chu Hyun-Jung",
+      "Two Unknown extras"
+    ],
+    "First appearance": "Red Light, Green Light",
+    "Last appearance": "Stick to the Team"
+  }
+}

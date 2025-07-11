@@ -1,0 +1,29 @@
+{
+  "title": "Player 450",
+  "name": "Unknown",
+  "aliases": "Player 450",
+  "relationships": [
+    "Player 227 (friend)",
+    "Player 312 (friend)",
+    "Player 403 (friend)"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "Special Game",
+    "cause_of_death": "Killed by an unknown player"
+  },
+  "physical_description": {
+    "gender": [
+      "Male",
+      "Female (erroneous)"
+    ],
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown extra",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Stick to the Team (error)"
+  }
+}

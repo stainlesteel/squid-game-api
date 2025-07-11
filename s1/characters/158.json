@@ -1,0 +1,20 @@
+{
+  "Player 158": {
+    "Name": "Unknown",
+    "Aliases": "Player 158",
+    "Relationships": "Player 308 (ally)",
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "June 28, 2020 (Marbles)",
+      "Cause of death": "Shot after losing to Player 308 in Marbles"
+    },
+    "Physical Description": {
+      "Gender": "Male",
+      "Hair color": "Black"
+    },
+    "Appearances": {
+      "First appearance": "Red Light, Green Light (icon)",
+      "Last appearance": "Gganbu"
+    }
+  }
+}

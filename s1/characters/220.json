@@ -1,0 +1,23 @@
+{
+  "title": "Player 220 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 220",
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 9-10, 2020\nRed Light, Green Light",
+    "cause_of_death": "Failed to stop moving and was shot"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown extra",
+    "episode_appearances": {
+      "first_appearance": "Red Light, Green Light",
+      "last_appearance": "Hell (error)"
+    }
+  }
+}

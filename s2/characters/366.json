@@ -1,0 +1,23 @@
+{
+  "title": "Player 366",
+  "data": {
+    "Name": "Unknown",
+    "Aliases": "Player 366",
+    "Relationships": "Player 315 (Ally during The Special Game) Player 143 (enemy, possible victim)",
+    "Affiliation": "Team O",
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "During Special Game",
+      "Cause of death": "Killed by an unknown X Player"
+    },
+    "Physical Description": {
+      "Gender": "Male",
+      "Eye color": "Black",
+      "Hair color": "Grey"
+    },
+    "Appearances": {
+      "First appearance": "001",
+      "Last appearance": "Friend or Foe"
+    }
+  }
+}

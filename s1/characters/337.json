@@ -1,0 +1,22 @@
+{
+  "Player 337": {
+    "name": "Unknown",
+    "aliases": "Player 337",
+    "affiliation": "33rd Squid Game",
+    "fate": {
+      "status": "Deceased",
+      "died": "June 26, 2020",
+      "cause": "Shot after breaking his dalgona"
+    },
+    "physical_description": {
+      "gender": "Male",
+      "eyes": "Brown",
+      "hair": "Black"
+    },
+    "appearances": {
+      "actor": "Three unknown extras",
+      "first_appearance": "Red Light, Green Light",
+      "last_appearance": "The Man with the Umbrella"
+    }
+  }
+}

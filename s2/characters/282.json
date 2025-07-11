@@ -1,0 +1,25 @@
+{
+  "title": "Player 282",
+  "properties": {
+    "name": "Unknown",
+    "aliases": "Player 282",
+    "affiliation": "37th Squid Game",
+    "occupation": "Unknown"
+  },
+  "sections": {
+    "Fate": {
+      "status": "Deceased",
+      "died": "1 November, Red Light, Green Light",
+      "cause": "Ran to the doors during Red light, Green light"
+    },
+    "Physical Description": {
+      "gender": "Male",
+      "eyes": "Brown",
+      "hair": "Black"
+    },
+    "Appearances": {
+      "portrayed_by": "An unknown extra.",
+      "only_appearance": "001"
+    }
+  }
+}

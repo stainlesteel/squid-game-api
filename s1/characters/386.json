@@ -1,0 +1,22 @@
+{
+  "title": "Player 386 (33rd Squid Game)",
+  "data": {
+    "name": "Unknown",
+    "aliases": "Player 386",
+    "affiliation": "33rd Squid Game",
+    "fate": {
+      "status": "Deceased",
+      "died": "June 9-10, 2020\nRed Light, Green Light",
+      "cause": "Panicked or moved"
+    },
+    "physical_description": {
+      "gender": "Male",
+      "eyes": "Black",
+      "hair": "Black"
+    },
+    "appearances": {
+      "actor": "An unknown extra",
+      "first": "Red Light, Green Light"
+    }
+  }
+}

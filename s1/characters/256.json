@@ -1,0 +1,19 @@
+{
+  "title": "Player 256 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 256",
+  "fate": {
+    "status": "Deceased",
+    "died": "Red Light, Green Light",
+    "cause": "Ran out of time and got Shot"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Black",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "An Unknown Extra",
+    "first": "Red Light, Green Light"
+  }
+}

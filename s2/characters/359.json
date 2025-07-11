@@ -1,0 +1,35 @@
+{
+  "title": "Player 359",
+  "Name": "Unknown",
+  "Aliases": "Player 359",
+  "Relationships": [
+    "Lee Seung-won (enemy)",
+    "Kang Dae-ho (attempted victim/enemy/killer)",
+    "Player 105 (ally)",
+    "Player 209 (ally)",
+    "Player 158 (potential victim)"
+  ],
+  "Affiliation": [
+    "37th Squid Game",
+    "Team X",
+    "Red Team"
+  ],
+  "Fate": {
+    "Status": "Deceased",
+    "Died": [
+      "November 4, 2024",
+      "Hide and Seek"
+    ],
+    "Cause of death": "Kicked and thrown down the stairs by Kang Dae-ho."
+  },
+  "Physical Description": {
+    "Gender": "Male",
+    "Eye color": "Black",
+    "Hair color": "Black"
+  },
+  "Appearances": {
+    "Portrayed by": "Seo Je-il",
+    "First appearance": "001 (icon)",
+    "Last appearance": "The Starry Night"
+  }
+}

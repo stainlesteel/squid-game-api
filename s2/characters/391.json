@@ -1,0 +1,20 @@
+{
+  "Player 391 (37th Squid Game)": {
+    "name": "Unknown",
+    "aliases": "Player 391",
+    "fate": {
+      "status": "Deceased",
+      "died": "Red Light, Green Light",
+      "cause": "Ran towards the door during the Red Light, Green Light panic, resulting in her getting shot"
+    },
+    "physical_description": {
+      "gender": "Female",
+      "eye_color": "Dark brown",
+      "hair_color": "Black"
+    },
+    "appearances": {
+      "portrayed_by": "Jeong In",
+      "only_appearance": "001"
+    }
+  }
+}

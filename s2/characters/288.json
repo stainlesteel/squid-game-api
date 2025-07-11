@@ -1,0 +1,27 @@
+{
+  "title": "Player 288",
+  "name": "Unknown",
+  "aliases": "Player 288",
+  "relations": [
+    "Player 109 - Ally and Teammate in Six-Legged Pentathlon",
+    "Player 151 - Ally and Teammate in Six-Legged Pentathlon",
+    "Player 166 - Ally and Teammate in Six-Legged Pentathlon",
+    "Player 261 - Ally and Teammate in Six-Legged Pentathlon"
+  ],
+  "affiliation": "Team O",
+  "born": "1960's-1970's",
+  "fate": {
+    "status": "Deceased",
+    "died": "3 November, Mingle",
+    "cause": "He probably died in the first or second round."
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Blond and Grey"
+  },
+  "appearances": {
+    "first": "001",
+    "last": "O X"
+  }
+}

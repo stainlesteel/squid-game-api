@@ -1,0 +1,31 @@
+{
+  "title": "Player 299 (33rd Squid Game)",
+  "details": {
+    "Name": "Unknown"
+  },
+  "sections": [
+    {
+      "title": "Fate",
+      "data": {
+        "Status": "Deceased",
+        "Died": "Red Light Green Light",
+        "Cause of death": "Detected moving while running towards the door."
+      }
+    },
+    {
+      "title": "Physical Description",
+      "data": {
+        "Gender": "Unknown",
+        "Eye color": "Unknown",
+        "Hair color": "Unknown"
+      }
+    },
+    {
+      "title": "Appearances",
+      "data": {
+        "Portrayed by": "An Unknown Extra",
+        "Only appearance": "Unknown"
+      }
+    }
+  ]
+}

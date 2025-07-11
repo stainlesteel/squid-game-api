@@ -1,0 +1,20 @@
+{
+  "title": "Player 036",
+  "name": "Unknown",
+  "aliases": "Player 036",
+  "affiliation": "37th Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 1, 2024 Red Light, Green Light",
+    "cause": "Shot by sniper during Red Light, Green Light"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark Brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Yoon Hyo-sik",
+    "first": "\"001\""
+  }
+}

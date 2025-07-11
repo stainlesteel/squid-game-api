@@ -1,0 +1,21 @@
+{
+  "title": "Player 030",
+  "name": "Unknown",
+  "aliases": "Player 030",
+  "affiliation": "37th Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "2nd November, Six-Legged Pentathlon",
+    "cause_of_death": "Ran out of time."
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown extra.",
+    "first_appearance": "001",
+    "last_appearance": "Six Legs (icon)"
+  }
+}

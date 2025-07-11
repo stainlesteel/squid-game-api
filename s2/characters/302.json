@@ -1,0 +1,20 @@
+{
+  "title": "Player 302 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 302",
+  "affiliation": "Team X, 37th Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "Six-Legged Pentathlon",
+    "cause_of_death": "Killed after failing to complete all 5 minigames in Six-Legged Pentathlon"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "first_appearance": "001",
+    "last_appearance": "One More Game"
+  }
+}

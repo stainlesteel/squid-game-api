@@ -1,0 +1,18 @@
+{
+  "title": "Player 064 (37th Squid Game)",
+  "name": "Unknown",
+  "affiliation": "Team O",
+  "fate": {
+    "status": "Deceased",
+    "died": "Six legged Pentathlon"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "first": "001",
+    "last": "One More Game"
+  }
+}

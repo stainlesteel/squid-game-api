@@ -1,0 +1,19 @@
+{
+  "title": "Player 033",
+  "name": "Unknown",
+  "aliases": "Player 033",
+  "born": "1970's-1980's",
+  "fate": {
+    "status": "Deceased",
+    "died": "Red Light, Green Light (37th Squid Game)",
+    "cause_of_death": "Moving at a Red Light"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "only_appearance": "001"
+  }
+}

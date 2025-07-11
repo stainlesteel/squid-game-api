@@ -1,0 +1,28 @@
+{
+  "title": "Player 443",
+  "Name": "Unknown",
+  "Aliases": "Player 443",
+  "Affiliation": [
+    "37th Squid Game",
+    "Team O",
+    "Red Team"
+  ],
+  "Fate": {
+    "Status": "Deceased",
+    "Died": [
+      "November 4, 2024",
+      "Hide and Seek"
+    ],
+    "Cause of death": "Shot by soldier for not killing a player in time"
+  },
+  "Physical Description": {
+    "Gender": "Male",
+    "Eye color": "Dark brown",
+    "Hair color": "Black and gray"
+  },
+  "Appearances": {
+    "Portrayed by": "Lee Bong-ha",
+    "First appearance": "\"001\" (icon)",
+    "Last appearance": "The Starry Night"
+  }
+}

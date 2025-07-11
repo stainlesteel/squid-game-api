@@ -1,0 +1,23 @@
+{
+  "title": "Player 410",
+  "name": "Unknown",
+  "aliases": "Player 410",
+  "relationships": "Player 277:Penthatlon team friend",
+  "affiliation": "37th Squid Game Team O (formerly) Team X",
+  "born": "Unknown Extra Actor 1:In 1980's Unknown Extra Actor 2:In 1970's",
+  "fate": {
+    "status": "Deceased",
+    "died": "3 November, Mingle",
+    "cause": "Probably didn't find enough players in some round"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Two unknown extras",
+    "first": "001",
+    "last": "O X"
+  }
+}

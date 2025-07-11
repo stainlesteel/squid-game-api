@@ -1,0 +1,26 @@
+{
+  "title": "Player 048",
+  "name": "Unknown",
+  "relationships": [
+    "Player 024 (close ally)",
+    "Player 028 (teammate in Mingle)"
+  ],
+  "affiliation": [
+    "Team O",
+    "Red Team"
+  ],
+  "born": "Mid-Late 1960s",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 4, 2024",
+    "cause": "Shot to death by guards for failing to kill a Blue Team member during Hide and Seek"
+  },
+  "physical_description": {
+    "gender": "Male"
+  },
+  "appearances": {
+    "actor": "Kim Byeong-gi",
+    "first_appearance": "001",
+    "last_appearance": "Friend or Foe"
+  }
+}

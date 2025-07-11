@@ -1,0 +1,24 @@
+{
+  "title": "Player 037",
+  "name": "Unknown",
+  "aliases": [
+    "Player 037"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 27, 2020",
+    "game": "Tug of War",
+    "cause_of_death": "Pulled off platform by Team One and fell to death"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Brown",
+    "hair_color": "Black with yellow streaks at the end"
+  },
+  "appearances": {
+    "portrayed_by": "Four unknown extras",
+    "first_appearance": "Red Light, Green Light (error)",
+    "last_appearance": "Stick to the Team"
+  }
+}

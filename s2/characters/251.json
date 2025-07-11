@@ -1,0 +1,22 @@
+{
+  "title": "Player 251",
+  "name": "Unknown",
+  "aliases": "Player 251",
+  "relationships": "Player 279 - Ally and Teammate in last round in Mingle. Nam-gyu (indirect killer) Thanos (indirect killer)",
+  "affiliation": "Team O",
+  "born": "In 1980's-1990's",
+  "fate": {
+    "status": "Deceased",
+    "died": "3 November, Mingle",
+    "cause_of_death": "Shot after getting thrown by Nam-gyu out of a door, and then being held the door on by Thanos during Mingle in the final round."
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Dark Brown",
+    "hair_color": "Black with a long braid"
+  },
+  "appearances": {
+    "first_appearance": "001",
+    "last_appearance": "O X"
+  }
+}

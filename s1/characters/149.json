@@ -1,0 +1,21 @@
+{
+  "Player 149": {
+    "Name": "Unknown",
+    "Aliases": "Player 149",
+    "Affiliation": "33rd Squid Game",
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "Red Light Green Light",
+      "Cause of death": "Couldn't cross the finish line in time"
+    },
+    "Physical Description": {
+      "Gender": "Male",
+      "Eye color": "Brown",
+      "Hair color": "Black"
+    },
+    "Appearances": {
+      "Portrayed by": "Unknown",
+      "Only appearance": "Red Light, Green Light"
+    }
+  }
+}

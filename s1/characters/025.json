@@ -1,0 +1,23 @@
+{
+  "title": "Player 025",
+  "name": "Unknown",
+  "born": "June 2001 or earlier",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 27, 2020",
+    "cause_of_death": "Killed by a Player"
+  },
+  "physical_description": {
+    "gender": [
+      "Female",
+      "Male (erroneous)"
+    ],
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "4 unknown extras.",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Stick to the Team (icon only)"
+  }
+}

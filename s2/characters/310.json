@@ -1,0 +1,33 @@
+{
+  "title": "Player 310",
+  "data": {
+    "Name": "Unknown",
+    "Aliases": "Player 310",
+    "Relationships": [
+      "Player 119 † - Best Friend and Ally before Red Light, Green Light",
+      "Player 116 † - Best Friend and Ally after Mingle",
+      "Player 448 † - Friend, Ally in Hide and Seek"
+    ],
+    "Affiliation": [
+      "Squid Games",
+      "Team O",
+      "Blue Team"
+    ],
+    "Born": "In 1990's",
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "Hide and Seek",
+      "Cause of death": "Stabbed by Player 260"
+    },
+    "Physical Description": {
+      "Gender": "Female",
+      "Eye color": "Dark brown",
+      "Hair color": "Black"
+    },
+    "Appearances": {
+      "Portrayed by": "Yu Ji-hye",
+      "First appearance": "001",
+      "Last appearance": "The Starry Night"
+    }
+  }
+}

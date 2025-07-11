@@ -1,0 +1,27 @@
+{
+  "title": "Player 337",
+  "name": "Unknown",
+  "aliases": "Player 337",
+  "affiliation": [
+    "37th Squid Game",
+    "Team X"
+  ],
+  "Fate": {
+    "status": "Deceased",
+    "died": [
+      "November 3–4, 2024",
+      "Mingle"
+    ],
+    "cause": "Shot by soldier after failing to enter room in round 4 or 5"
+  },
+  "Physical Description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "Appearances": {
+    "actor": "Unknown",
+    "first": "001",
+    "last": "O X"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Player 151 (37th Squid Game)",
+  "properties": {
+    "Name": "Unknown",
+    "Aliases": "Player 151",
+    "Affiliation": "37th Squid GameTeam O"
+  },
+  "sections": {
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "3 November,Mingle",
+      "Cause of death": "Shot by an soldier after failing to find a room in time in the second round of Mingle"
+    },
+    "Physical Description": {
+      "Gender": "Male",
+      "Eye color": "Dark brown",
+      "Hair color": "Black"
+    },
+    "Appearances": {
+      "Portrayed by": "Kim Il-dooUnknown extra",
+      "Timeline": {
+        "First appearance": "001",
+        "Last appearance": "O X"
+      }
+    }
+  }
+}

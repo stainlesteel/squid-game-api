@@ -1,0 +1,20 @@
+{
+  "title": "Player 041",
+  "name": "Unknown",
+  "aliases": [
+    "Player 041"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "Sugar Honeycombs",
+    "cause_of_death": "Either he broke his dalgona or he couldn't carve his dalgona in time"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "only_appearance": "Unknown"
+  }
+}

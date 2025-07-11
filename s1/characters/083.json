@@ -1,0 +1,26 @@
+{
+  "title": "Player 083",
+  "name": "Unknown",
+  "aliases": [
+    "Player 083"
+  ],
+  "affiliation": [
+    "33rd Squid Game",
+    "Jang Deok-su's gang"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "June 28, 2020, Marbles",
+    "cause_of_death": "Either cheated or ran out of time with Player 032"
+  },
+  "physical_description": {
+    "gender": "Male (erroneously Female)",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Jang Hyun-jin",
+    "first_appearance": "Red Light, Green Light (erroneous)",
+    "last_appearance": "Gganbu"
+  }
+}

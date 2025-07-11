@@ -1,0 +1,28 @@
+{
+  "title": "Player 010",
+  "name": "Unknown",
+  "aliases": "Player 010",
+  "affiliation": [
+    "Team O",
+    "37th Squid Game"
+  ],
+  "born": "1950's-1960's",
+  "fate": {
+    "status": "Deceased",
+    "died": [
+      "November 2, 2024",
+      "Six-Legged Pentathlon"
+    ],
+    "cause_of_death": "Shot after he and his team failed to complete the mini-games in time"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark brown",
+    "hair_color": "Gray"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown extra",
+    "first_appearance": "001",
+    "last_appearance": "Six Legs"
+  }
+}

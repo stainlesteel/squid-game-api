@@ -1,0 +1,22 @@
+{
+  "title": "Player 430 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 430",
+  "relationships": "Player 111 (37th Squid Game) (bff)",
+  "affiliation": "Team O",
+  "fate": {
+    "status": "Deceased",
+    "died": "3 November, Mingle",
+    "cause_of_death": "Killed in the third round of Mingle as her name was announced in the Eliminated players"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Dark brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Song Eun-ji",
+    "first_appearance": "001",
+    "last_appearance": "O X"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Player 394",
+  "data": {
+    "Name": "Unknown",
+    "Aliases": "Player 394",
+    "Relationships": [
+      "Player 192 (ally)",
+      "Player 443 (ally)",
+      "Lee Seung-won (former ally, killer)"
+    ],
+    "Affiliation": [
+      "37th Squid Game",
+      "Team O",
+      "Im Jeong-dae's team (formerly)",
+      "Blue Team"
+    ]
+  },
+  "Fate": {
+    "Status": "Deceased",
+    "Died": [
+      "November 4, 2024",
+      "Hide and Seek"
+    ],
+    "Cause of death": "Stabbed to death by Lee Seung-won"
+  },
+  "Physical Description": {
+    "Gender": "Female",
+    "Eye color": "Black",
+    "Hair color": "Black"
+  },
+  "Appearances": {
+    "Portrayed by": "Oh Tae-eun",
+    "First appearance": "001 (icon)",
+    "Last appearance": "The Starry Night"
+  }
+}

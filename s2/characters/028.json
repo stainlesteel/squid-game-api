@@ -1,0 +1,31 @@
+{
+  "title": "Player 028",
+  "name": "Unknown",
+  "aliases": "Player 028",
+  "relations": [
+    "Player 013 - Ally and Teammate in Six-Legged Pentathlon.",
+    "Player 134 - Ally and Teammate in Six-Legged Pentathlon",
+    "Player 175 - Ally and Teammate in Six-Legged Pentathlon",
+    "Player 361 - Ally and Teammate in Six-Legged Pentathlon",
+    "Player 060 - Victim"
+  ],
+  "affiliation": [
+    "Team O",
+    "Red Team"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "Hide and Seek",
+    "cause": "Shot to death by guards for failing to kill a Blue Team member during Hide and Seek"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Ryu Jeong",
+    "first": "001",
+    "last": "Friend or Foe"
+  }
+}

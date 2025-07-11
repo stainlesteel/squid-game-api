@@ -1,0 +1,21 @@
+{
+  "title": "Player 027 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": [
+    "Player 027"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "Tug of War",
+    "cause_of_death": "Pulled off by Team 1"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "only_appearance": "Unknown"
+  }
+}

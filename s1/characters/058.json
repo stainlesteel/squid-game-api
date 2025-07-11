@@ -1,0 +1,24 @@
+{
+  "title": "Player 058",
+  "name": "Unknown",
+  "aliases": [
+    "Player 058"
+  ],
+  "relationships": [
+    "Player 184 (friend)"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "Tug of War",
+    "cause_of_death": "Fell off the platform after losing to Team 1"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "only_appearance": "Unknown"
+  }
+}

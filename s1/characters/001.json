@@ -1,0 +1,53 @@
+{
+  "title": "Oh Il-nam",
+  "name": "Oh Il-nam",
+  "aliases": [
+    "Player 001",
+    "The Host",
+    "Old Man; Sir",
+    "Gganbu",
+    "Old Sir",
+    "Old Major",
+    "Sir",
+    "Chairman Oh",
+    "Grandpa"
+  ],
+  "family": [
+    "Unnamed son",
+    "Unnamed wife"
+  ],
+  "relationships": [
+    {"name": "Seong Gi-hun", "type": "former close friend", "status": "deceased"},
+    {"name": "Hwang In-ho", "type": "employee"},
+    {"name": "Pink Guards", "type": "employees"},
+    {"name": "VIPs", "type": "clients"}
+  ],
+  "affiliation": [
+    "Squid Games",
+    "Team Four",
+    "The VIPs"
+  ],
+  "occupation": [
+    "Host (Squid Games)",
+    "Rich business tycoon",
+    "Loan shark",
+    "VIP",
+    "Business Founder"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "12:00 AM, December 25, 2021",
+    "death_location": "7th floor, Sky Building, South Korea",
+    "cause_of_death": "Brain tumor"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Gray"
+  },
+  "appearances": {
+    "portrayed_by": "O Yeong-su",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "⭘△☐ (statue)"
+  }
+}

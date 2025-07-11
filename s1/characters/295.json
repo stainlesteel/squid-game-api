@@ -1,0 +1,17 @@
+{
+  "title": "Player 295",
+  "name": "Unknown",
+  "aliases": "Player 295",
+  "fate": {
+    "status": "Alive"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Black",
+    "hair_color": "Dark brown"
+  },
+  "appearances": {
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Hell"
+  }
+}

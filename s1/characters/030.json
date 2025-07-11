@@ -1,0 +1,20 @@
+{
+  "title": "Player 030 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": [
+    "Player 030"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "Sugar Honeycombs"
+  },
+  "physical_description": {
+    "gender": [
+      "Male",
+      "Female (erroneous)"
+    ]
+  },
+  "appearances": {
+    "only_appearance": "Unknown"
+  }
+}

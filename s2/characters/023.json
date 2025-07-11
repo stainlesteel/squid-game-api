@@ -1,0 +1,31 @@
+{
+  "title": "Player 023 (37th Squid Game)",
+  "Name": "Unknown",
+  "Aliases": "Player 023",
+  "Relationships": [
+    "Im Jeong-dae - friend and teammate",
+    "Kim Yeong-sam - friend and teammate",
+    "Player 428 - friend and teammate",
+    "Player 285 - friend and teammate"
+  ],
+  "Affiliation": [
+    "Team X (error)",
+    "Team O",
+    "Im Jeong-dae's team"
+  ],
+  "Fate": {
+    "Status": "Deceased",
+    "Died": "November 3rd, Mingle",
+    "Cause of death": "Shot after losing the final round of Mingle"
+  },
+  "Physical Description": {
+    "Gender": "Male",
+    "Eye color": "Dark brown",
+    "Hair color": "Black"
+  },
+  "Appearances": {
+    "Portrayed by": "Kim Joon-hwan",
+    "First appearance": "\"001\"",
+    "Last appearance": "\"O X\""
+  }
+}

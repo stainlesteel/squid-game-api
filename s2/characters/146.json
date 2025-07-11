@@ -1,0 +1,26 @@
+{
+  "title": "Player 146",
+  "name": "Unknown",
+  "aliases": "Player 146",
+  "relationships": [
+    "Player 177 (friend)",
+    "Player 313 (ally, friend)",
+    "Player 050 (ally, friend)"
+  ],
+  "affiliation": "Team X",
+  "fate": {
+    "status": "Deceased",
+    "died": "During Mingle",
+    "cause_of_death": "Shot for failing to find a room in time"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark brown",
+    "hair_color": "Brown"
+  },
+  "appearances": {
+    "portrayed_by": "An Byeong-rok",
+    "first_appearance": "001",
+    "last_appearance": "O X"
+  }
+}

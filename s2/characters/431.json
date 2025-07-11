@@ -1,0 +1,26 @@
+{
+  "title": "Player 431",
+  "name": "Unknown",
+  "aliases": "Player 431",
+  "relations": [
+    "Player 297 (ally and teammate)",
+    "Player 182 (enemy, killer)",
+    "Player 366 (enemy)"
+  ],
+  "affiliation": "Team X",
+  "Fate": {
+    "status": "Deceased",
+    "died": "3-4 November, during Special Game",
+    "cause": "Killed by Player 182"
+  },
+  "Physical Description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "Appearances": {
+    "portrayed by": "N/A",
+    "first appearance": "001",
+    "last appearance": "Friend or Foe"
+  }
+}

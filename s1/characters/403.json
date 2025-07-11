@@ -1,0 +1,20 @@
+{
+  "title": "Player 403 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 403",
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 27th, 2020, Tug of War",
+    "cause": "Lost to the other team and fell off the platform"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "first": "\"Red Light, Green Light\" (Error)",
+    "last": "\"Stick to the Team\""
+  }
+}

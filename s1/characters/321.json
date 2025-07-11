@@ -1,0 +1,21 @@
+{
+  "title": "Player 321",
+  "data": {
+    "Name": "Unknown",
+    "Aliases": "Player 321",
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "June 26–27, 2020\nSpecial Game",
+      "Cause of death": "Got killed by a player and died"
+    },
+    "Physical Description": {
+      "Gender": "Female, Male (error)",
+      "Eye color": "Black",
+      "Hair color": "Brown"
+    },
+    "Appearances": {
+      "First appearance": "Red Light, Green Light",
+      "Last appearance": "Stick to the Team"
+    }
+  }
+}

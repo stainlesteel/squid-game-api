@@ -1,0 +1,27 @@
+{
+  "title": "Player 021",
+  "name": "Unknown",
+  "aliases": [
+    "Player 021",
+    "Number 04"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 29, 2020",
+    "cause_of_death": "Stepped on a wrong glass tile and fell to his death"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": [
+      "Moon Byung-Joo",
+      "Two Unknown Extras"
+    ],
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "VIPS"
+  }
+}

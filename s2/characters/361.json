@@ -1,0 +1,21 @@
+{
+  "title": "Player 361 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 361",
+  "affiliation": "Team O",
+  "fate": {
+    "status": "Deceased",
+    "died": "3 November, Mingle",
+    "cause": "She died in the last round of Mingle"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eyes": "Dark brown",
+    "hair": "Brown"
+  },
+  "appearances": {
+    "actor": "Park Seung-kyung",
+    "first": "001",
+    "last": "O X"
+  }
+}

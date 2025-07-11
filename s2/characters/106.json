@@ -1,0 +1,24 @@
+{
+  "title": "Player 106",
+  "name": "Unknown",
+  "aliases": "Player 106",
+  "affiliation": "37th Squid Game",
+  "born": "In 1980's",
+  "fate": {
+    "status": "Deceased",
+    "died": "Red Light, Green Light (37th Squid Game)",
+    "cause": "Panicked during the initial chaos and shot by guard."
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": [
+      "Unknown extra actress - Canonically",
+      "Son So-young - replacement."
+    ],
+    "first": "001"
+  }
+}

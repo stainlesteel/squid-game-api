@@ -1,0 +1,21 @@
+{
+  "title": "Player 126",
+  "name": "Unknown",
+  "aliases": "Player 126",
+  "affiliation": "Team X (Formerly) Team O",
+  "born": "1970's-1980's",
+  "Fate": {
+    "status": "Deceased",
+    "died": "3 November, Mingle",
+    "cause": "She didn't find a free room in a Mingle round"
+  },
+  "Physical Description": {
+    "gender": "Female",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "Appearances": {
+    "first": "\"001\"",
+    "last": "\"O X\""
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Player 053 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 053",
+  "born": "1960s-1970s",
+  "fate": {
+    "status": "Deceased",
+    "died": "Red light, green light",
+    "cause_of_death": "Shot by a sniper after he moved during a red light during Red Light Green Light"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "only_appearance": "001"
+  }
+}

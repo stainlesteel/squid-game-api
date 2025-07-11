@@ -1,0 +1,19 @@
+{
+  "title": "Player 133",
+  "name": "Unknown",
+  "aliases": "Player 133",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 1, 2024 Red Light, Green Light",
+    "cause": "Shot by sniper after moving in Red Light, Green Light Aditionally her injured/dead body was trampled"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eyes": "Dark Brown",
+    "hair": "Brown"
+  },
+  "appearances": {
+    "actor": "Lee Min-hee",
+    "first": "\"001\""
+  }
+}

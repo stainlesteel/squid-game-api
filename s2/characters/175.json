@@ -1,0 +1,26 @@
+{
+  "title": "Player 175",
+  "name": "Unknown",
+  "aliases": "Player 175",
+  "relationships": [
+    "Player 010 - Best Friend, Ally and Teammate in Six-Legged Pentathlon.",
+    "Player 060 - Friend, Ally and Teammate in Six-Legged Pentathlon.",
+    "Player 224 - Friend, Ally and Teammate in Six-Legged Pentathlon."
+  ],
+  "affiliation": "Team O",
+  "born": "In 1950's-1960's",
+  "fate": {
+    "status": "Deceased",
+    "died": "Mingle"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark brown",
+    "hair_color": "Black and Grey"
+  },
+  "appearances": {
+    "portrayed_by": "Kim Young-ho",
+    "first_appearance": "001",
+    "last_appearance": "O X"
+  }
+}

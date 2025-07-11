@@ -1,0 +1,23 @@
+{
+  "title": "Player 072",
+  "name": "Unknown",
+  "aliases": [
+    "Player 072"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "Special Game (June 26-27, 2020)",
+    "cause_of_death": "Killed by another player in special game"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown extra",
+    "first_appearance": "Hell",
+    "last_appearance": "Stick to the Team"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Kim Young-mi",
+  "name": "Kim Young-mi",
+  "aliases": [
+    "Player 095",
+    "Miss",
+    "Young lady"
+  ],
+  "relations": [
+    "Cho Hyun-ju",
+    "Jang Geum-ja",
+    "Park Yong-sik",
+    "Seon-nyeo",
+    "Seong Gi-hun",
+    "Park Jung-bae",
+    "Kang Dae-ho",
+    "Oh Young-il",
+    "Kim Jun-hee",
+    "Park Gyeong-seok",
+    "Player 051",
+    "Player 073",
+    "Player 249",
+    "Lee Myung-gi"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team X",
+    "Cho Hyun-ju's team",
+    "Seong Gi-hun's team"
+  ],
+  "Fate": {
+    "status": "Deceased",
+    "died": [
+      "November 3, 2024",
+      "Mingle"
+    ],
+    "cause": "Shot in back by soldier after failing to enter room"
+  },
+  "Physical Description": {
+    "gender": "Female",
+    "eyes": "Brown",
+    "hair": "Dark brown"
+  },
+  "Appearances": {
+    "portrayedBy": "Kim Si-eun",
+    "firstAppearance": "001",
+    "lastAppearance": "O X"
+  }
+}

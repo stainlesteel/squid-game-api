@@ -1,0 +1,27 @@
+{
+  "title": "Player 264",
+  "name": "Unknown",
+  "aliases": "Player 264",
+  "affiliation": [
+    "37th Squid Game",
+    "Team O"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": [
+      "November 2, 2024",
+      "Six-Legged Pentathlon"
+    ],
+    "cause": "Shot by soldier for not finishing in time"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Park Jae-seong",
+    "first": "001",
+    "last": "One More Game"
+  }
+}

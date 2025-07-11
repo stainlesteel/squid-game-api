@@ -1,0 +1,31 @@
+{
+  "title": "Player 020 (37th Squid Game)",
+  "data": {
+    "Name": "Unknown"
+  },
+  "sections": [
+    {
+      "title": "Fate",
+      "data": {
+        "Status": "Deceased",
+        "Died": "November 1, 2024\nRed Light, Green Light",
+        "Cause of death": "Shot in back by a sniper during Green Light, Red Light."
+      }
+    },
+    {
+      "title": "Physical Description",
+      "data": {
+        "Gender": "Male",
+        "Eye color": "Brown",
+        "Hair color": "Black"
+      }
+    },
+    {
+      "title": "Appearances",
+      "data": {
+        "Portrayed by": "Go Seong",
+        "Only appearance": "001"
+      }
+    }
+  ]
+}

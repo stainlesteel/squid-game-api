@@ -1,0 +1,21 @@
+{
+  "title": "Player 090",
+  "data": {
+    "Name": "Unknown",
+    "Aliases": "Player 090"
+  },
+  "sections": {
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "November 1, 2024 Red Light, Green Light"
+    },
+    "Physical Description": {
+      "Gender": "Male",
+      "Eye color": "Black",
+      "Hair color": "Black"
+    },
+    "Appearances": {
+      "Only appearance": "001"
+    }
+  }
+}

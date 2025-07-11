@@ -1,0 +1,23 @@
+{
+  "title": "Player 360",
+  "name": "Unknown",
+  "aliases": "Player 360 Number 12",
+  "relations": "Player 089 (marbles partner) Player 115 (faulty marbles partner)",
+  "affiliation": "33rd Squid Game Team One",
+  "born": "June 25, 1970",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 29, 2020 Glass Stepping Stones",
+    "cause": "Stepped on wrong glass tile and fell to his death"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Black",
+    "hair": "Brown"
+  },
+  "appearances": {
+    "actor": "Son Won-kyung",
+    "first": "\"Red Light, Green Light\"",
+    "last": "\"VIPS\""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "player_name": "Player 324",
+  "name": "Unknown",
+  "aliases": "Player 324",
+  "relationships": [
+    "Player 192 (37th Squid Game)",
+    "Player 442 (37th Squid Game)"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "November 3-4, 2024, Stairs, The Island",
+    "cause_of_death": "Committed suicide by shooting himself in head after he was shot in the shoulder"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Hong Seung-gyun",
+    "first_appearance": "Six Legs",
+    "last_appearance": "Keys and Knives (corpse)"
+  }
+}

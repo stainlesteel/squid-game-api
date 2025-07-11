@@ -1,0 +1,19 @@
+{
+  "title": "Player 130",
+  "Name": "Unknown",
+  "Aliases": "Player 130",
+  "Fate": {
+    "Status": "Deceased",
+    "Died": "Six-Legged Pentathlon",
+    "Cause of death": "Unknown"
+  },
+  "Physical Description": {
+    "Gender": "Male",
+    "Eye color": "Dark Brown",
+    "Hair color": "Black"
+  },
+  "Appearances": {
+    "First appearance": "001",
+    "Last appearance": "One More Game"
+  }
+}

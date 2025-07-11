@@ -1,0 +1,21 @@
+{
+  "title": "Player 320 (33rd Squid Game)",
+  "details": {
+    "name": "Unknown",
+    "aliases": "Player 320",
+    "affiliation": "33rd Squid Game"
+  },
+  "fate": {
+    "status": "Deceased",
+    "died": "Red Light, Green Light/33rd Squid Game",
+    "cause": "Moved at the Red Light"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "first": "Red Light, Green Light"
+  }
+}

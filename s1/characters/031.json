@@ -1,0 +1,26 @@
+{
+  "title": "Player 031",
+  "name": "Unknown",
+  "aliases": [
+    "Player 031"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "Special Game",
+    "cause_of_death": "Killed by an unknown player"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": [
+      "Unknown Extra",
+      "No Il-cheol (error)"
+    ],
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Stick to the Team"
+  }
+}

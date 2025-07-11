@@ -1,0 +1,27 @@
+{
+  "title": "Player 259",
+  "name": "Unknown",
+  "aliases": "Player 259",
+  "relations": [
+    "Player 129 † (ally)",
+    "Player 163 † (ally)",
+    "Player 069 † (ally)"
+  ],
+  "affiliation": "Team X",
+  "born": "In 1980's",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 3-4, 2024, Special Game",
+    "cause": "Killed by an unknown O player."
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eyes": "Dark brown",
+    "hair": "Dark brown"
+  },
+  "appearances": {
+    "actor": "Lee Mi-ok",
+    "first": "001",
+    "last": "Friend or Foe"
+  }
+}

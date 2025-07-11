@@ -1,0 +1,27 @@
+{
+  "title": "Player 101 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 101",
+  "relationships": [
+    "Player 111",
+    "Player 365 - Friend and ally",
+    "Player 215 - Friend and ally",
+    "Player 445 - Friend and ally"
+  ],
+  "affiliation": "Team X",
+  "fate": {
+    "status": "Deceased",
+    "died": "3 November, Mingle",
+    "cause_of_death": "He was eliminated in the second round as his group was split up."
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Lee Ki-yong",
+    "first_appearance": "001",
+    "last_appearance": "O X"
+  }
+}

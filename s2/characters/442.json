@@ -1,0 +1,30 @@
+{
+  "title": "Player 442",
+  "name": "Unknown",
+  "aliases": "Player 442",
+  "relations": [
+    "Player 192 † (ally, indirect killer)",
+    "Kim Yeong-sam † (friend)"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team O",
+    "Im Jeong-dae's team",
+    "Seekers"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "November 5, 2024, Jump Rope",
+    "cause": "Dragged off bridge by Player 192 and fell to death"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Seo Ho-chul",
+    "first": "\"001\" (icon)",
+    "last": "\"222\""
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Player 214",
+  "name": "Unknown",
+  "aliases": "Player 214",
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26-27, 2020 Special Game",
+    "cause": "Stabbed to death by unknown player"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Black",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Unknown extra",
+    "first": "\"Red Light, Green Light\" (icon)",
+    "last": "\"Stick to the Team\""
+  }
+}

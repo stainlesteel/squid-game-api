@@ -1,0 +1,19 @@
+{
+  "title": "Player 342 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 342",
+  "Fate": {
+    "status": "Deceased",
+    "died": "Red Light, Green Light",
+    "cause": "Detected Moving while in a Red Light"
+  },
+  "Physical Description": {
+    "gender": "Female",
+    "eyes": "Black",
+    "hair": "Black"
+  },
+  "Appearances": {
+    "actor": "An Unknown Extra",
+    "first": "\"Red Light, Green Light\""
+  }
+}

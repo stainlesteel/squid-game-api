@@ -1,0 +1,19 @@
+{
+  "title": "Player 286 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 286",
+  "fate": {
+    "status": "Deceased",
+    "died": "Red Light Green Light",
+    "causeOfDeath": "Detected Moving while running towards the door,"
+  },
+  "physicalDescription": {
+    "gender": "Male",
+    "eyeColor": "Black",
+    "hairColor": "Black"
+  },
+  "appearances": {
+    "portrayedBy": "An Unknown Extra",
+    "onlyAppearance": "Unknown"
+  }
+}

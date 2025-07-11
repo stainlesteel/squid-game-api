@@ -1,0 +1,31 @@
+{
+  "Player 158": {
+    "name": "Unknown",
+    "relations": [
+      "Player 102 (enemy, attacker)",
+      "Player 359 (potential killer)"
+    ],
+    "affiliation": [
+      "37th Squid Game",
+      "Team O"
+    ],
+    "Fate": {
+      "status": "Deceased",
+      "died": [
+        "November 3-4, 2024",
+        "Special Game"
+      ],
+      "cause": "Killed by either Player 359 or Player 102"
+    },
+    "Physical Description": {
+      "gender": "Male",
+      "eyes": "Dark Brown",
+      "hair": "Black"
+    },
+    "Appearances": {
+      "actor": "Kim Geun-hyuk",
+      "first": "001",
+      "last": "Friend or Foe"
+    }
+  }
+}

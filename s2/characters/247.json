@@ -1,0 +1,32 @@
+{
+  "title": "An Dong-uk",
+  "data": {
+    "name": "An Dong-uk",
+    "aliases": "Player 247",
+    "family": [
+      "Unnamed wife",
+      "Unnamed daughter",
+      "Unnamed son"
+    ],
+    "affiliation": [
+      "Seoul Sungjin Highschool (March, 1993-February, 1996)",
+      "Seoul National University (March, 1996-February, 2000)"
+    ],
+    "occupation": "Office worker",
+    "born": "December 30, 1977 (age 46)"
+  },
+  "sections": {
+    "Fate": {
+      "status": "Deceased",
+      "died": "November 3rd 2024, Mingle",
+      "cause": "Died in the 3rd round of Mingle for not finding a room in time or not finding a room with the right amount of players."
+    },
+    "Physical Description": {
+      "gender": "Male"
+    },
+    "Appearances": {
+      "first": "\"001\"",
+      "last": "\"⭘△☐\" (pictured)"
+    }
+  }
+}

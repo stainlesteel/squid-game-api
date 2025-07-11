@@ -1,0 +1,35 @@
+{
+  "title": "Player 011",
+  "name": "Unknown",
+  "aliases": "Player 011",
+  "relations": [
+    "Player 028 - Ally during Mingle and indirect murderer",
+    "Player 104 † - Friend, Ally and Teammate in Six-Legged Pentathlon",
+    "Player 128 - Bestie and Ally",
+    "Player 138 † - Best Friend, Ally and Teammate in Six-Legged Pentathlon",
+    "Player 169 - Best friend, Ally and Teammate in Six-Legged Pentathlon",
+    "Player 195 - Best friend and Ally",
+    "Player 314 † - Probably Friend, Ally in third round in Mingle",
+    "Player 320 † - Friend, Ally and Teammate in Six-Legged Pentathlon"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team X"
+  ],
+  "born": "In 1970's-1980's",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 3, Mingle",
+    "cause of death": "Abandoned and later shot after failing to find a room"
+  },
+  "physical description": {
+    "gender": "Female",
+    "eye color": "Dark brown",
+    "hair color": "Dark brown"
+  },
+  "appearances": {
+    "portrayed by": "Ahn Mi-jin",
+    "first appearance": "\"001\"",
+    "last appearance": "\"O X\""
+  }
+}

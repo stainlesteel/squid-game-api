@@ -1,0 +1,30 @@
+{
+  "title": "Player 134 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 134",
+  "relations": [
+    "Player 332 † (ally)",
+    "Player 111 † (ally)",
+    "Player 012 † (ally)"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team X",
+    "Blue Team"
+  ],
+  "Fate": {
+    "status": "Deceased",
+    "died": "Hide and Seek",
+    "cause": "Killed by an unknown red team player"
+  },
+  "Physical Description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "Appearances": {
+    "actor": "Shin Sae-am",
+    "first": "001",
+    "last": "Friend or Foe"
+  }
+}

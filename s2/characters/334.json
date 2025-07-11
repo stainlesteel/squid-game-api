@@ -1,0 +1,32 @@
+{
+  "title": "Player 334",
+  "name": "Unknown",
+  "aliases": "Player 334",
+  "relationships": [
+    "Player 097 † (ally and teammate in Six-Legged Pentathlon)",
+    "Player 352 † (ally and teammate in Six-Legged Pentathlon)",
+    "Player 407 † (ally and teammate in Six-Legged Pentathlon)",
+    "Player 418 † (ally and teammate in Six-Legged Pentathlon)",
+    "Player 435 † (killer)"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team O",
+    "Blue Team"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "November 4, 2024 Hide and Seek",
+    "cause": "Stabbed to death by Player 435"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eyes": "Dark brown",
+    "hair": "Dark brown"
+  },
+  "appearances": {
+    "actor": "Yoo Nam-jeong",
+    "first": "001",
+    "last": "The Starry Night"
+  }
+}

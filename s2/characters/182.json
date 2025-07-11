@@ -1,0 +1,32 @@
+{
+  "title": "Player 182",
+  "name": "Unknown",
+  "aliases": "Player 182",
+  "relationships": [
+    "Player 102(enemy/killer)",
+    "Player 431(victim)"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team X (formerly)",
+    "Team O"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": [
+      "November 3-4, 2024",
+      "Special Game"
+    ],
+    "cause_of_death": "Stabbed and thrown off bed by Player 102"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown",
+    "first_appearance": "\"001\" (icon)",
+    "last_appearance": "\"Friend or Foe\""
+  }
+}

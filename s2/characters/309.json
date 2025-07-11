@@ -1,0 +1,21 @@
+{
+  "Player 309": {
+    "Name": "Unknown",
+    "Affiliation": "Team X",
+    "Born": "1980's",
+    "Fate": {
+      "Status": "Deceased",
+      "Died": "3 November, Mingle",
+      "Cause of death": "Probably don't found players or didn't get in a room in time in round 5"
+    },
+    "Physical Description": {
+      "Gender": "Male",
+      "Eye color": "Dark Brown",
+      "Hair color": "Black"
+    },
+    "Appearances": {
+      "First appearance": "001",
+      "Last appearance": "O X"
+    }
+  }
+}

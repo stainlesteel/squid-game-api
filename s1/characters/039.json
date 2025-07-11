@@ -1,0 +1,24 @@
+{
+  "title": "Player 039",
+  "name": "Unknown",
+  "aliases": [
+    "Player 039"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "died": "Special Game",
+    "cause_of_death": "Killed by another player"
+  },
+  "physical_description": {
+    "gender": [
+      "Male",
+      "Female (error)"
+    ],
+    "eye_color": "Brown",
+    "hair_color": "Brown"
+  },
+  "appearances": {
+    "portrayed_by": "Unknown extra",
+    "only_appearance": "Red Light, Green Light"
+  }
+}

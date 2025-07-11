@@ -1,0 +1,31 @@
+{
+  "title": "Player 111 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 111",
+  "relations": [
+    "Player 134 (friend)",
+    "Player 352 (friend)",
+    "Player 365 (ally)",
+    "Player 101 (ally)",
+    "Player 215 (ally)",
+    "Player 445 (ally)",
+    "Player 080 (situational ally)",
+    "Player 131 (situational ally)"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team X"
+  ],
+  "status": "Deceased",
+  "died": [
+    "November 3rd, 2024",
+    "Mingle"
+  ],
+  "cause": "Shot alongside Player 261 after failing to secure a room in the final round of Mingle.",
+  "gender": "Female",
+  "eyes": "Dark brown",
+  "hair": "Dark brown",
+  "actor": "Kim Do-yeon",
+  "first": "“001”",
+  "last": "“O X”"
+}

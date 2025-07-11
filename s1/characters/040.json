@@ -1,0 +1,41 @@
+{
+  "title": "Player 040",
+  "name": "Unknown",
+  "aliases": [
+    "Player 040"
+  ],
+  "relationships": {
+    "enemies": [
+      "Kang Sae-byeok",
+      "Seong Gi-hun",
+      "Oh Il-nam (indirect killer; unknowingly)",
+      "Ali Abdul",
+      "Cho Sang-woo"
+    ],
+    "friends": [
+      "Jang Deok-su",
+      "Player 278",
+      "Player 303",
+      "Byeong-gi"
+    ]
+  },
+  "affiliation": [
+    "33rd Squid Game",
+    "Team One"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "June 28, 2020",
+    "game": "Marbles",
+    "cause_of_death": "Cheating with Player 303 and shot in head by soldier"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown"
+  },
+  "appearances": {
+    "portrayed_by": "Yoon Young-kyun",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Gganbu"
+  }
+}

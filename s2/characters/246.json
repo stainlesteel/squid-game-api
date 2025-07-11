@@ -1,0 +1,53 @@
+{
+  "name": "Park Gyeong-seok",
+  "aliases": [
+    "Player 246",
+    "Prince Charming (by Kim Young-mi)",
+    "Knight In Shining Armor (by Kim Young-mi)",
+    "Number 016 (disguise)"
+  ],
+  "family": [
+    "Lee Eun-seong † (wife)",
+    "Park Na-yeon (daughter)"
+  ],
+  "relations": [
+    "Kang No-eul (close friend and protector)",
+    "Cho Hyun-ju † (close friend)",
+    "Hwang Jun-ho (ally/protector)",
+    "Kim (ally/protector)",
+    "The Officer † (indirect enemy)",
+    "Kim Young-mi † (friend)",
+    "Jang Geum-ja † (friend)",
+    "Park Yong-sik † (friend)",
+    "Seong Gi-hun † (friend)",
+    "Player 197 (37th Squid Game) † (ally/teammate)",
+    "Player 009 (37th Squid Game) † (teammate in the Six-Legged Pentathlon)",
+    "Sim Jae-seok † (ally/teammate)",
+    "Player 140 (37th Squid Game) † (ally/teammate)"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team X",
+    "Cho Hyun-ju's team (ally)",
+    "Seong Gi-hun's team",
+    "Revolt team"
+  ],
+  "occupation": [
+    "Artist",
+    "Squid Game soldier (disguised)"
+  ],
+  "born": "October 7, 1981 (age 43)",
+  "fate": {
+    "status": "Alive"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Dark brown"
+  },
+  "appearances": {
+    "portrayed_by": "Lee Jin-wook",
+    "first_appearance": "Halloween Party",
+    "last_appearance": "Humans Are…"
+  }
+}

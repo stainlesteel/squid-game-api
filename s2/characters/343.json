@@ -1,0 +1,33 @@
+{
+  "title": "Sim Jae-seok",
+  "name": "Sim Jae-seok",
+  "aliases": "Player 343",
+  "relations": [
+    "Park Gyeong-seok (ally)",
+    "Player 009 † (ally)",
+    "Player 140 † (ally)",
+    "Player 197 † (ally)",
+    "Player 285 † (ally; possibly friend)",
+    "Hwang In-ho (enemy; killer)",
+    "Park Jung-bae † (indirect enemy)"
+  ],
+  "affiliation": "37th Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": [
+      "November 3, 2024",
+      "Mingle"
+    ],
+    "cause": "Neck snapped by Hwang In-ho"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Kang Hyun-joong",
+    "first": "\"001\"",
+    "last": "\"O X\""
+  }
+}

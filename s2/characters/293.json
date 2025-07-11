@@ -1,0 +1,28 @@
+{
+  "title": "Player 293",
+  "name": "Unknown",
+  "aliases": "Player 293",
+  "relations": [
+    "Player 004 (friend)",
+    "Thanos (idol)"
+  ],
+  "affiliation": "Thanos's fans",
+  "fate": {
+    "status": "Deceased",
+    "died": [
+      "November 1, 2024",
+      "Red Light, Green Light"
+    ],
+    "cause": "Shot in chest by sniper"
+  },
+  "physical_description": {
+    "gender": "Male"
+  },
+  "appearances": {
+    "portrayed_by": [
+      "Lee Yoo-seop",
+      "Park Geon-hee (chaos scene)"
+    ],
+    "only_appearance": "001"
+  }
+}

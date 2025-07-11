@@ -1,0 +1,53 @@
+{
+  "title": "Cho Sang-woo",
+  "name": "Cho Sang-woo",
+  "aliases": [
+    "Player 218",
+    "Number 14 (VIPS)",
+    "The Pride of Ssangmun-dong (Seong Gi-hun)",
+    "Skilled Corporal (Seong Gi-hun)",
+    "Famous Prodigy (Seong Gi-hun)",
+    "The Genius Cho Sang-woo of SNU (Seong Gi-hun)",
+    "Sir (Sajangnim) (Ali Abdul)",
+    "(Hyung) (Ali Abdul)",
+    "(Oppa) (Han Mi-nyeo)"
+  ],
+  "family": "Unnamed mother",
+  "relations": [
+    "Seong Gi-hun † (childhood best friend, briefly enemy)",
+    "Ali Abdul † (friend, indirect victim)",
+    "Kang Sae-byeok † (former ally, victim)",
+    "Jang Deok-su † (enemy)",
+    "Han Mi-nyeo † (ally)",
+    "Do Jung-soo † (former ally, victim)",
+    "Oh Il-nam † (ally)"
+  ],
+  "affiliation": [
+    "Seoul National University",
+    "Joy Investments (formerly)",
+    "33rd Squid Game"
+  ],
+  "occupation": "Investment banker (formerly)",
+  "born": "1975 (age 46)\nSsangmun-dong, Dobong-gu, Seoul, South Korea",
+  "fate": {
+    "status": "Deceased",
+    "died": [
+      "June 30, 2020",
+      "Squid Game"
+    ],
+    "cause": "Committed suicide by stabbing himself in neck"
+  },
+  "physicalDescription": {
+    "gender": "Male",
+    "eyes": "Brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": [
+      "Park Hae-soo (adult)",
+      "Park Si-won (child)"
+    ],
+    "firstAppearance": "Red Light, Green Light",
+    "lastAppearance": "Bread and Lottery (visions)"
+  }
+}

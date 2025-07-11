@@ -1,0 +1,31 @@
+{
+  "title": "Player 350 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 350",
+  "relationships": [
+    "Player 105 † (Ally after mingle)",
+    "Player 113 † (Ally after mingle)",
+    "Kim Yun-tae † (Enemy, killer)"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team X",
+    "Blue Team"
+  ],
+  "born": "1979's-1985's",
+  "fate": {
+    "status": "Deceased",
+    "died": "Hide and Seek",
+    "cause_of_death": "Stabbed to death by Kim Yun-tae off-screen"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Kim Soo-hyun",
+    "first_appearance": "001",
+    "last_appearance": "The Starry Night"
+  }
+}

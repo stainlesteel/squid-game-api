@@ -1,0 +1,27 @@
+{
+  "title": "Player 408 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 408",
+  "affiliation": "33rd Squid Game",
+  "Fate": {
+    "status": "Deceased",
+    "died": [
+      "June 27, 2020",
+      "Tug of War"
+    ],
+    "cause": "Pulled off platform by Team One and fell to death"
+  },
+  "Physical Description": {
+    "gender": [
+      "Female",
+      "Male(erroneous)"
+    ],
+    "eyes": "Black",
+    "hair": "Black"
+  },
+  "Appearances": {
+    "actor": "2 unknown extra's",
+    "first": "Red Light, Green Light",
+    "last": "Stick to the Team"
+  }
+}

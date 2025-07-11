@@ -1,0 +1,19 @@
+{
+  "title": "Player 135",
+  "Name": "Unknown",
+  "Aliases": "Player 135",
+  "Fate": {
+    "Status": "Deceased",
+    "Died": "Sugar Honeycombs",
+    "Cause of death": "Broke his dalgona"
+  },
+  "Physical Description": {
+    "Gender": "Male",
+    "Eye color": "Brown",
+    "Hair color": "Black"
+  },
+  "Appearances": {
+    "First appearance": "Red Light, Green Light",
+    "Last appearance": "The Man with the Umbrella"
+  }
+}

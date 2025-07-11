@@ -1,0 +1,28 @@
+{
+  "title": "Player 062",
+  "name": "Unknown",
+  "aliases": [
+    "Player 062"
+  ],
+  "affiliation": "33rd Squid Game",
+  "occupation": "High school math teacher",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 29, 2020",
+    "game": "Glass Stepping Stones",
+    "cause_of_death": "Ran on wrong glass tile and fell to his death"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Dark brown"
+  },
+  "appearances": {
+    "portrayed_by": [
+      "Lee Doo-seok",
+      "Chun kyung-chae (erroneous)"
+    ],
+    "first_appearance": "Gganbu",
+    "last_appearance": "VIPS"
+  }
+}

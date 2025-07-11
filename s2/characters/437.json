@@ -1,0 +1,20 @@
+{
+  "title": "Player 437 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 437",
+  "fate": {
+    "status": "Deceased",
+    "died": "Six Legged Pentathlon",
+    "cause": "He and his team did not complete the minigames in the required time."
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Kang Hee-se",
+    "first": "001",
+    "last": "One More Game"
+  }
+}

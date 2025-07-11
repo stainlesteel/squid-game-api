@@ -1,0 +1,34 @@
+{
+  "title": "Player 207 (33rd Squid Game)",
+  "data": {
+    "Name": "Unknown",
+    "Aliases": "Player 207",
+    "Affiliation": "33rd Squid Game"
+  },
+  "sections": [
+    {
+      "title": "Fate",
+      "data": {
+        "Status": "Deceased",
+        "Died": "Sugar Honeycombs",
+        "Cause of death": "Broke his dalgona"
+      }
+    },
+    {
+      "title": "Physical Description",
+      "data": {
+        "Gender": "Male",
+        "Eye color": "Brown",
+        "Hair color": "Gray"
+      }
+    },
+    {
+      "title": "Appearances",
+      "data": {
+        "Portrayed by": "Unknown Extra",
+        "First appearance": "Red Light, Green Light",
+        "Last appearance": "The Man with the Umbrella"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Player 014",
+  "name": "Unknown",
+  "aliases": [
+    "Player 014"
+  ],
+  "relationships": [
+    {
+      "name": "Player 006",
+      "type": "friend"
+    }
+  ],
+  "affiliation": [
+    "33rd Squid Game"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "Special Game",
+    "cause_of_death": "Killed by a player"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Stick to the Team"
+  }
+}

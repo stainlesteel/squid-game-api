@@ -1,0 +1,20 @@
+{
+  "title": "Player 036",
+  "name": "Unknown",
+  "aliases": [
+    "Player 036"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "Special Game",
+    "cause_of_death": "Killed by an unknown Player"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "only_appearance": "Unknown"
+  }
+}

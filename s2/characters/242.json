@@ -1,0 +1,21 @@
+{
+  "title": "Player 242 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 242",
+  "affiliation": "37th Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "Six-Legged Pentathlon",
+    "cause": "Failed to complete all 5 Minigames and was eliminated"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eyes": "Black",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Unknown extra",
+    "first": "001",
+    "last": "Six Legs"
+  }
+}

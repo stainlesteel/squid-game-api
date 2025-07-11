@@ -1,0 +1,31 @@
+{
+  "title": "Player 285",
+  "name": "Unknown",
+  "aliases": "Player 285",
+  "relationships": [
+    "Sim Jae-seok",
+    "Hwang In-ho",
+    "Park Jung-bae",
+    "Im Jeong-dae",
+    "Kim Yeong-sam",
+    "Player 023",
+    "Player 428"
+  ],
+  "affiliation": [
+    "Team O",
+    "Im Jeong-dae's team"
+  ],
+  "Fate": {
+    "status": "Deceased",
+    "died": "November 3, 2024, Mingle",
+    "cause of death": "Thrown out of the room by Hwang In-ho and shot by a soldier during Mingle"
+  },
+  "Physical Description": {
+    "gender": "Male"
+  },
+  "Appearances": {
+    "portrayed by": "Jo Kyung-hyun",
+    "first appearance": "001",
+    "last appearance": "O X"
+  }
+}

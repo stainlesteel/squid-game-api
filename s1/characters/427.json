@@ -1,0 +1,33 @@
+{
+  "title": "Player 427",
+  "data": {
+    "name": "Unknown",
+    "aliases": "Player 427",
+    "affiliation": "33rd Squid Game"
+  },
+  "sections": [
+    {
+      "title": "Fate",
+      "data": {
+        "status": "Deceased",
+        "died": "June 9-10, 2020\nRed Light, Green Light",
+        "cause": "Either panicked or moved on a red light"
+      }
+    },
+    {
+      "title": "Physical Description",
+      "data": {
+        "gender": "Female",
+        "eyes": "Black",
+        "hair": "Black"
+      }
+    },
+    {
+      "title": "Appearances",
+      "data": {
+        "actor": "An Unknown Extra",
+        "first": "\"Red Light, Green Light\""
+      }
+    }
+  ]
+}

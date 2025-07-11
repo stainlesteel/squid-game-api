@@ -1,0 +1,32 @@
+{
+  "title": "Player 308",
+  "name": "Unknown",
+  "aliases": [
+    "Player 308",
+    "Number 02"
+  ],
+  "relationships": "Player 158 (ally)",
+  "affiliation": "33rd Squid Game",
+  "sections": {
+    "fate": {
+      "status": "Deceased",
+      "died": [
+        "June 29, 2020",
+        "Glass Stepping Stones"
+      ],
+      "cause_of_death": "Stepped on a wrong glass tile and fell to death"
+    },
+    "physical_description": {
+      "gender": "Female",
+      "eye_color": "Black",
+      "hair_color": "Brown"
+    },
+    "appearances": {
+      "portrayed_by": "Hwang Youn-hee",
+      "episode_appearances": {
+        "first_appearance": "Red Light, Green Light (Icon)",
+        "last_appearance": "VIPS"
+      }
+    }
+  }
+}

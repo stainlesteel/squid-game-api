@@ -1,0 +1,66 @@
+{
+  "title": "Player 402",
+  "data": [
+    {
+      "label": "Name",
+      "value": "Unknown"
+    },
+    {
+      "label": "Aliases",
+      "value": "Player 402"
+    },
+    {
+      "label": "Affiliation",
+      "value": "33rd Squid Game"
+    },
+    {
+      "section_title": "Fate",
+      "items": [
+        {
+          "label": "Status",
+          "value": "Deceased"
+        },
+        {
+          "label": "Died",
+          "value": "Special Game"
+        },
+        {
+          "label": "Cause of death",
+          "value": "Killed by an unknown player"
+        }
+      ]
+    },
+    {
+      "section_title": "Physical Description",
+      "items": [
+        {
+          "label": "Gender",
+          "value": "Male\nFemale (erroneous)"
+        },
+        {
+          "label": "Eye color",
+          "value": "Brown"
+        },
+        {
+          "label": "Hair color",
+          "value": "Black"
+        }
+      ]
+    },
+    {
+      "section_title": "Appearances",
+      "items": [
+        {
+          "label": "Portrayed by",
+          "value": "3 unknown extras"
+        },
+        {
+          "table": {
+            "First appearance": "Red Light, Green Light",
+            "Last appearance": "Stick to the Team (error)"
+          }
+        }
+      ]
+    }
+  ]
+}

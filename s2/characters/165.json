@@ -1,0 +1,20 @@
+{
+  "title": "Player 165",
+  "name": "Unknown",
+  "aliases": "Player 165",
+  "relationships": "Player 384 (indirect victim), Kim Nam-du (indirect victim)",
+  "affiliation": "37th Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 1, 2024, Red Light, Green Light",
+    "cause": "Shot in head by sniper after moving during Red Light"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "first": "001"
+  }
+}

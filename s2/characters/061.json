@@ -1,0 +1,20 @@
+{
+  "title": "Player 061",
+  "name": "Unknown",
+  "aliases": "Player 061",
+  "affiliation": "Team O",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 2, 2024 Six-Legged Pentathlon"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Black",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Unknown Extra",
+    "first": "001",
+    "last": "Six Legs"
+  }
+}

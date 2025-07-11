@@ -1,0 +1,20 @@
+{
+  "title": "Player 451",
+  "name": "Unknown",
+  "aliases": "Player 451",
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "Special Game",
+    "cause": "Killed by another player"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Dark brown"
+  },
+  "appearances": {
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Stick to the Team"
+  }
+}

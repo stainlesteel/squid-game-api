@@ -1,0 +1,24 @@
+{
+  "Player 209": {
+    "name": "Unknown",
+    "aliases": "Player 209",
+    "affiliation": "37th Squid Game, Team X, Seekers, 21st place",
+    "occupation": "Unknown",
+    "born": "1980's",
+    "fate": {
+      "status": "Deceased",
+      "died": "Jump Rope",
+      "cause_of_death": "Got flung by the rope during the Jump Rope game"
+    },
+    "physical_description": {
+      "gender": "Male",
+      "eye_color": "Dark Brown",
+      "hair_color": "Black"
+    },
+    "appearances": {
+      "portrayed_by": "Lee Won-chul",
+      "first_appearance": "001",
+      "last_appearance": "222"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Player 428",
+  "name": "Unknown",
+  "aliases": "Player 428",
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "Sugar Honeycombs",
+    "cause_of_death": "Broke his dalgona"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "first_appearance": "\"Red Light, Green Light\"",
+    "last_appearance": "\"The Man With The Umbrella\""
+  }
+}

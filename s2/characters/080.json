@@ -1,0 +1,43 @@
+{
+  "title": "Player 080",
+  "name": "Unknown",
+  "aliases": "Player 080",
+  "relationships": [
+    "Player 320 † - (close ally)",
+    "Player 259 † (close ally)",
+    "Player 297 † (close ally)",
+    "Player 105 † (close ally)",
+    "Player 339 † (teammate)",
+    "Player 347 † (teammate)",
+    "Player 359 † (teammate)",
+    "Player 393 † (teammate)",
+    "Player 111 † (situational ally)",
+    "Player 131 † (situational ally)",
+    "Player 113 † (situational ally)",
+    "Player 418 † (enemy)",
+    "Player 348 † (enemy)",
+    "Player 358 † (enemy/possible victim)",
+    "Player 376 † (possible victim)"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team X",
+    "Red Team"
+  ],
+  "born": "In 1980’s-1990’s",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 4, 2024\nHide and Seek",
+    "cause_of_death": "Shot to death by guards for failing to kill a Blue Team member during Hide and Seek"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Jang Dae-hyun",
+    "first_appearance": "Bread and Lottery",
+    "last_appearance": "The Starry Night"
+  }
+}

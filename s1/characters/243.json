@@ -1,0 +1,19 @@
+{
+  "title": "Player 243 (33rd Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 243",
+  "fate": {
+    "status": "Deceased",
+    "died": "Tug of war",
+    "cause": "Pulled of The Platform"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Black",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "An Unknown Extra",
+    "first": "Stick to the Team"
+  }
+}

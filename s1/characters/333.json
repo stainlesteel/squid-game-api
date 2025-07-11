@@ -1,0 +1,19 @@
+{
+  "title": "Player 333",
+  "name": "Unknown",
+  "aliases": "Player 333",
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Alive"
+  },
+  "physical_description": {
+    "gender": "Male, Female (erroneous)",
+    "eyes": "Brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Three unknown extras",
+    "first": "Red Light, Green Light",
+    "last": "Hell"
+  }
+}

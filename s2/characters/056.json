@@ -1,0 +1,27 @@
+{
+  "title": "Player 056 (37th Squid Game)",
+  "name": "Unknown",
+  "aliases": "Player 056",
+  "relations": [
+    "Player 067 † (victim)",
+    "Player 197 (killer)",
+    "Player 102 (enemy)",
+    "Player 084 (ally)",
+    "Player 394 (ally)"
+  ],
+  "affiliation": "Team O",
+  "occupation": "37th Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "Special Game",
+    "cause": "Strangled to death with a jacket and thrown down the stairs by Player 197"
+  },
+  "physical_description": {
+    "gender": "Male"
+  },
+  "appearances": {
+    "actor": "Shin Min-ho",
+    "first": "001",
+    "last": "Friend or Foe"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Player 097",
+  "name": "Unknown",
+  "aliases": [
+    "33rd Squid Game"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "Red Light, Green Light",
+    "cause_of_death": "Ran towards the doors in red light"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "Stick to the Team (error; icon)"
+  }
+}

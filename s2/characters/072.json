@@ -1,0 +1,29 @@
+{
+  "title": "Player 072",
+  "name": "Unknown",
+  "aliases": "Player 072",
+  "relations": "Player 206 †-close friend and ally",
+  "affiliation": [
+    "37th Squid Game",
+    "Team X",
+    "Revolt team"
+  ],
+  "Fate": {
+    "status": "Deceased",
+    "died": [
+      "November 3-4, 2024",
+      "Stairs, The Island"
+    ],
+    "cause": "Shot in chest by guards during failed Revolt"
+  },
+  "Physical Description": {
+    "gender": "Male",
+    "eyes": "Dark brown",
+    "hair": "Black"
+  },
+  "Appearances": {
+    "actor": "Han Dong-won",
+    "first": "\"001\" (icon)",
+    "last": "\"Keys and Knives\" (corpse)"
+  }
+}

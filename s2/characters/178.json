@@ -1,0 +1,28 @@
+{
+    "title": "Player 178",
+    "name": "Unknown",
+    "aliases": "Player 178",
+    "affiliation": [
+        "37th Squid Game",
+        "Team X",
+        "Team 1"
+    ],
+    "fate": {
+        "status": "Deceased",
+        "died": [
+            "November 2, 2024",
+            "Six-Legged Pentathlon"
+        ],
+        "cause_of_death": "Shot by a soldier in the chest after losing the Six-Legged Pentathlon"
+    },
+    "physical_description": {
+        "gender": "Male",
+        "eye_color": "Dark Brown",
+        "hair_color": "Black"
+    },
+    "appearances": {
+        "portrayed_by": "Kim Hyun",
+        "first_appearance": "001",
+        "last_appearance": "Six Legs"
+    }
+}

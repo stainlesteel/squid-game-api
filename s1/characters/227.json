@@ -1,0 +1,22 @@
+{
+  "title": "Player 227",
+  "name": "Unknown",
+  "aliases": "Player 227",
+  "relations": "Player 312, Player 450",
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "Sugar Honeycombs",
+    "cause": "Broke his dalgona"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Unknown extra",
+    "first": "Red Light, Green Light",
+    "last": "Stick to the Team (error)"
+  }
+}

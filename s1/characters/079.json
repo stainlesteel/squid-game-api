@@ -1,0 +1,23 @@
+{
+  "title": "Player 079",
+  "name": "Unknown",
+  "aliases": [
+    "Player 079"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26, 2020, Sugar Honeycombs",
+    "cause_of_death": "Shot after breaking his piece of shape"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Four unknown extras",
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "The Man with the Umbrella"
+  }
+}

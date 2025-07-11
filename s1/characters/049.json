@@ -1,0 +1,22 @@
+{
+  "title": "Player 049",
+  "name": "Unknown",
+  "aliases": [
+    "Player 049"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26-27, 2020",
+    "game": "Special Game",
+    "cause_of_death": "Killed by an unknown player"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "first_appearance": "Red Light, Green Light (icon)",
+    "last_appearance": "Stick to the Team (icon)"
+  }
+}

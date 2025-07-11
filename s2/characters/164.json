@@ -1,0 +1,33 @@
+{
+  "title": "Player 164",
+  "name": "Unknown",
+  "aliases": "Player 164",
+  "relations": [
+    "Player 119 - Ally and Teammate in Six-Legged Pentathlon",
+    "Player 179 † - Ally and Teammate in Six-Legged Pentathlon",
+    "Player 187 † - Ally and Teammate in Six-Legged Pentathlon",
+    "Player 346 † - Ally and Teammate in Six-Legged Pentathlon",
+    "Player 368 † - Ally during Mingle"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Team X (Formerly)",
+    "Team O"
+  ],
+  "born": "In 1980's",
+  "fate": {
+    "status": "Deceased",
+    "died": "3 November, Mingle",
+    "cause": "She failed to find a room in the fifth round of mingle with 368"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eyes": "Dark Brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Jang Myeong-hyun",
+    "first": "001",
+    "last": "O X"
+  }
+}

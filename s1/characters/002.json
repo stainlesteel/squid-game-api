@@ -1,0 +1,37 @@
+{
+  "title": "Mun Jang-ho",
+  "name": "Mun Jang-ho",
+  "aliases": [
+    "Player 002"
+  ],
+  "family": [
+    {"name": "Mun Dae-hee", "relation": "father"}
+  ],
+  "affiliation": [
+    "33rd Squid Game"
+  ],
+  "occupation": "Marine Engineer",
+  "born": {
+    "date": "July 14, 1966 (age 55)",
+    "location": "Incheon"
+  },
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26, 2020",
+    "death_location": "Marbles",
+    "cause_of_death": "Shot in the head during Marbles"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Black",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": [
+      "Kim Tae-yong (possibly)",
+      "An Unknown Extra"
+    ],
+    "first_appearance": "Red Light, Green Light (error)",
+    "last_appearance": "Gganbu (error)"
+  }
+}

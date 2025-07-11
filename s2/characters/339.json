@@ -1,0 +1,29 @@
+{
+  "title": "Player 339",
+  "name": "Unknown",
+  "aliases": "Player 339",
+  "relationships": [
+    "Player 340 † (friend)",
+    "Player 080 (ally)",
+    "Player 347 † (ally)",
+    "Player 359 (ally)",
+    "Player 393 † (ally)"
+  ],
+  "affiliation": "Team O",
+  "born": "2005 or earlier",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 3rd, 2024 Mingle",
+    "cause_of_death": "Shot to death after failed find a room in time with Player 340"
+  },
+  "physical_description": {
+    "gender": "Female",
+    "eye_color": "Dark brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Jo Ha-rin Unknown Actress (during the dormintory)",
+    "first_appearance": "001",
+    "last_appearance": "O X"
+  }
+}

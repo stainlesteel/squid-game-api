@@ -1,0 +1,21 @@
+{
+  "title": "Player 201",
+  "name": "Unknown",
+  "aliases": "Player 201",
+  "affiliation": "Team X (Formerly) Team O",
+  "born": "In 1970's-1980's",
+  "Fate": {
+    "status": "Deceased",
+    "died": "3 November, Mingle",
+    "cause": "He died in round 4, probably didn't find enough players or did not find a free room."
+  },
+  "Physical Description": {
+    "gender": "Male",
+    "eyes": "Dark Brown",
+    "hair": "Black"
+  },
+  "Appearances": {
+    "first": "001",
+    "last": "O X"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Player 086",
+  "name": "Unknown",
+  "aliases": "Player 086",
+  "relationships": "Player 365 † - Best Friend and Ally after Red Light, Green Light\nPlayer 193 † - Friend, Ally and Teammate in Six-Legged Pentathlon",
+  "affiliation": "Team X",
+  "born": "In 1970's",
+  "fate": {
+    "status": "Deceased",
+    "died": "2 November, Six-Legged Pentathlon",
+    "causeOfDeath": "Shot by a soldier after failing to complete the Six Legged Pentathlon off-screen."
+  },
+  "physicalDescription": {
+    "gender": "Female",
+    "eyeColor": "Dark brown",
+    "hairColor": "Dark brown"
+  },
+  "appearances": {
+    "portrayedBy": "Bae Gyu-ra",
+    "firstAppearance": "001",
+    "lastAppearance": "One More Game"
+  }
+}

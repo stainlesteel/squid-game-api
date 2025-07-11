@@ -1,0 +1,39 @@
+{
+  "name": "Kim Yeong-sam",
+  "aliases": [
+    "Player 226",
+    "Dipshit",
+    "Dumbass",
+    "Young man"
+  ],
+  "relationships": [
+    "Im Jeong-dae",
+    "Kim Gi-min",
+    "Nam-gyu",
+    "Player 023 (37th Squid Game)",
+    "Player 285 (37th Squid Game)",
+    "Player 428 (37th Squid Game)",
+    "Kang Dae-ho",
+    "Park Jung-bae",
+    "Cho Hyun-ju",
+    "Seong Gi-hun"
+  ],
+  "affiliation": [
+    "37th Squid Game",
+    "Im Jeong-dae's team",
+    "Red Team"
+  ],
+  "fate": {
+    "status": "Deceased"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark brown",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "Lee Sung-woo",
+    "first_appearance": "001",
+    "last_appearance": "Friend or Foe"
+  }
+}

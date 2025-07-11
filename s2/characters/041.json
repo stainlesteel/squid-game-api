@@ -1,0 +1,17 @@
+{
+  "title": "Player 041",
+  "name": "Unknown",
+  "aliases": "Player 041",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 3, 2024, Mingle",
+    "cause": "Dead in any round"
+  },
+  "physical_description": {
+    "gender": "Male"
+  },
+  "appearances": {
+    "first": "001",
+    "last": "One More Game"
+  }
+}

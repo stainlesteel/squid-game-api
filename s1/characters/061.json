@@ -1,0 +1,26 @@
+{
+  "title": "Player 061",
+  "name": "Unknown",
+  "aliases": [
+    "Player 061"
+  ],
+  "affiliation": "33rd Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "June 26, 2020",
+    "game": "Sugar Honeycombs",
+    "cause_of_death": "Shot in chest by soldier after breaking dalgona"
+  },
+  "physical_description": {
+    "gender": [
+      "Female",
+      "Male (erroneous)"
+    ],
+    "eye_color": "Brown",
+    "hair_color": "Brown"
+  },
+  "appearances": {
+    "first_appearance": "Red Light, Green Light",
+    "last_appearance": "The Man with the Umbrella"
+  }
+}

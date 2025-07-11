@@ -1,0 +1,32 @@
+{
+  "Player 176": {
+    "name": "Unknown",
+    "aliases": "Player 176",
+    "relationships": [
+      "Player 035 (teammate)",
+      "Player 052 (teammate)",
+      "Player 339 (teammate)",
+      "Player 405 (teammate)"
+    ],
+    "affiliation": [
+      "37th Squid Game",
+      "Team X"
+    ],
+    "born": "In 1990's",
+    "fate": {
+      "status": "Deceased",
+      "died": "3 November, Mingle",
+      "cause_of_death": "He was probably abandoned in the fourth round of Mingle."
+    },
+    "physical_description": {
+      "gender": "Male",
+      "eye_color": "Dark Brown",
+      "hair_color": "Short black hair"
+    },
+    "appearances": {
+      "portrayed_by": "Woo Gyeong-san",
+      "first_appearance": "001",
+      "last_appearance": "O X"
+    }
+  }
+}

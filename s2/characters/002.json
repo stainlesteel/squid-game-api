@@ -1,0 +1,19 @@
+{
+  "title": "Player 002",
+  "name": "Unknown",
+  "aliases": "Player 002",
+  "affiliation": "37th Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 1, 2024, Red Light, Green Light"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eyes": "Dark Brown",
+    "hair": "Black"
+  },
+  "appearances": {
+    "actor": "Lee Ki-yong",
+    "first": "001"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Player 071",
+  "name": "Unknown",
+  "aliases": [
+    "Player 071"
+  ],
+  "fate": {
+    "status": "Deceased",
+    "died": "Red Light, Green Light",
+    "cause_of_death": "Panicking and ran towards the doors."
+  },
+  "physical_description": {
+    "gender": "Female",
+    "hair_color": "Black"
+  },
+  "appearances": {
+    "portrayed_by": "An Unknown Extra",
+    "only_appearance": "Red Light, Green Light"
+  }
+}

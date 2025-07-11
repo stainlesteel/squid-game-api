@@ -1,0 +1,19 @@
+{
+  "title": "Player 003",
+  "name": "Unknown",
+  "aliases": "Player 003",
+  "affiliation": "37th Squid Game",
+  "fate": {
+    "status": "Deceased",
+    "died": "November 1, 2024 Red Light Green Light",
+    "cause_of_death": "Shot in head after moving"
+  },
+  "physical_description": {
+    "gender": "Male",
+    "eye_color": "Dark Brown",
+    "hair_color": "Light brown"
+  },
+  "appearances": {
+    "only_appearance": "001"
+  }
+}
