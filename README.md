@@ -1,7 +1,7 @@
 # squid-game-api
 an API containing JSON content about Squid Game.
 ## Seasons 
-   - Season 1
+   - [Season 1](https://github.com/stainlesteel/squid-game-api/s1)
    - Season 2
 ### Why no season 3?
 Season 3 is just the second half of Season 2. As such, all contents of season 3 are added into season 2, including the episodes. 
