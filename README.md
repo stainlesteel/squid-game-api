@@ -21,7 +21,7 @@ Here are the instructions to run on any GNU-based Linux or BSD system, as well a
 ## Docker
 Coming soon..
 # Apps using the API
-## Basic Frontend (Github Pages)
+## Basic Instance (Github Pages)
 There is a Github Pages link you can use for an extremely basic frontend that just prints JSON.
 To use it, select a season (/s1) or (/s2), 
 add /characters or /episodes or /episodes-s3 (for /s2), and then add the name of the .JSON.
