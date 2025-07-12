@@ -1,18 +1,18 @@
 {
-  "title": "Bread and Lottery",
+  "title": "001",
   "episode_details": {
     "Season": "2",
-    "Episode": "1",
-    "Overall": "10"
+    "Episode": "3",
+    "Overall": "12"
   },
   "episode_information": {
-    "Duration": "65 minutes",
+    "Duration": "61 minutes",
     "Air Date": "December 26, 2024",
     "Writer": "Hwang Dong-hyuk",
     "Director": "Hwang Dong-hyuk"
   },
   "episode_guide": {
-    "Previous": "One Lucky Day",
-    "Next": "Halloween Party"
+    "Previous": "Halloween Party",
+    "Next": "Six Legs"
   }
 }
