@@ -1,0 +1,8 @@
+services:
+  sg-api:
+    build: . 
+    container_name: Squid-Game
+    restart: unless-stopped
+    ports:
+       - 2456:2456
+    command: uvicorn main:app --host 0.0.0.0 --port 2456 --reload

@@ -19,7 +19,14 @@ Here are the instructions to run on any GNU-based Linux or BSD system, as well a
 4. Have these python dependenices installed (via pip3): fastapi, uvicorn 
 5. `uvicorn main:app --reload --port 2456 # or whatever other port`
 ## Docker
-Coming soon..
+Docker files are provided for both the API and the discord bot, as well as a yml for Docker Compose.
+To run with compose, copy the docker files and the app files and then run:
+
+```
+sudo docker compose up -d --build
+```
+
+In the docker-compose.yml, you can modify either the WEBUI port (for API instance) or Discord API token (Discord Bot).
 # Apps using the API
 ## Basic Instance (Github Pages)
 There is a Github Pages link you can use for an extremely basic frontend that just prints JSON.
@@ -27,7 +34,11 @@ To use it, select a season (/s1) or (/s2),
 add /characters or /episodes or /episodes-s3 (for /s2), and then add the name of the .JSON.
 For characters, it's the person number (i.e. 001.json).
 For episodes, it's the episode name with under-dashes (One_Last_Game.json).
+## Discord fetcher bot
+There is a simple discord bot built in Py-Cord (Python).
+This bot fetches characters/episodes from the github pages instance and cannot be changed.
+In apps/dcd-bot, you can view the .py file, as well as docker files to self-host the bot. I cannot host the bot myself.
+To host, you need to create a app on Discord Developers Portal, and get the bot API key, and for adding it to a server, it needs bot, and application.commands permissions in the 'OAuth2' section.
 # Contribute
 There are some issues that should be fixed below:
 1. Some JSON files have /n or other typos made by AI. I won't go through all of these (912) files but if you found an error, you can open an issue so I can fix it or open a PR so I can approve it.
-2. You could also provide a Dockerfile for docker.

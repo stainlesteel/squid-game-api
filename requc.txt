@@ -1,0 +1,5 @@
+dotenv==0.9.9
+fastapi==0.115.14
+py-cord==2.6.1
+requests==2.32.4
+uvicorn==0.35.0
