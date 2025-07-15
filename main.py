@@ -7,7 +7,7 @@ app = FastAPI() # initalize fastapi
 
 app.mount("/s1/characters", StaticFiles(directory="s1/characters"))
 app.mount("/s2/characters", StaticFiles(directory="s2/characters"))
-app.mount("/s3/characters", StaticFiles(directory="s3/characters"))
+app.mount("/s3/characters", StaticFiles(directory="s2/characters"))
 app.mount("/s1/episodes", StaticFiles(directory="s1/episodes"))
 app.mount("/s2/episodes", StaticFiles(directory="s2/episodes"))
 app.mount("/s3/episodes", StaticFiles(directory="s2/episodes-s3"))
