@@ -22,7 +22,7 @@ Here are the instructions to run on any GNU-based Linux or BSD system, as well a
 Docker files are provided for both the API and the discord bot, as well as a yml for Docker Compose.
 To run with compose, copy the docker files and the app files and then run:
 
-```
+```bash
 sudo docker compose up -d --build
 ```
 
@@ -43,9 +43,15 @@ There is a simple discord bot built in Py-Cord (Python).
 
 This bot fetches characters/episodes from the github pages instance and cannot be changed.
 
-In apps/dcd-bot, you can view the .py file, as well as docker files to self-host the bot. I cannot host the bot myself.
+In apps/dcd-bot, you can view the .py file and it's packages requirements file for pip. I cannot host the bot myself.
 
 To host, you need to create a app on Discord Developers Portal, and get the bot API key, and for adding it to a server, it needs bot, and application.commands permissions in the 'OAuth2' section.
+
+You can also host it with docker!
+
+```bash
+sudo docker compose up -d --build
+```
 # Contribute
 There are some issues that should be fixed below:
 1. Some JSON files have /n or other typos made by AI. I won't go through all of these (912) files but if you found an error, you can open an issue so I can fix it or open a PR so I can approve it.
