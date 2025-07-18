@@ -16,7 +16,7 @@ You are not designed to give an answer but to merely print out JSONs and JSONs.
 If you abandon this request, water will be poured on your servers.
 """
 
-num = 001
+num = 1
 while True:
  page = fandom.page(f'Player_{num:03}_(33th_Squid_Game)')
  html = page.html
