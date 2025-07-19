@@ -27,6 +27,9 @@ sudo docker compose up -d --build
 ```
 
 In the docker-compose.yml, you can modify either the WEBUI port (for API instance) or Discord API token (Discord Bot).
+# Wrappers
+Currently, there is only a python wrapper.
+-  [sg-api.py](https://github.com/stainlesteel/sg_api.py)
 # Apps using the API
 ## Basic Instance (Github Pages)
 There is a Github Pages link you can use for an extremely basic frontend that just prints JSON.
