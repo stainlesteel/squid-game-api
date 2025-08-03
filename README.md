@@ -19,14 +19,13 @@ Here are the instructions to run on any GNU-based Linux or BSD system, as well a
 4. Have these python dependenices installed (via pip3): fastapi, uvicorn 
 5. `uvicorn main:app --reload --port 2456 # or whatever other port`
 ## Docker
-Docker files are provided for both the API and the discord bot, as well as a yml for Docker Compose.
-To run with compose, copy the docker files and the app files and then run:
-
+You can use the Docker Hub image.
 ```bash
-sudo docker compose up -d --build
+docker pull stainlesteel/squid-game-api:latest
 ```
 
-In the docker-compose.yml, you can modify either the WEBUI port (for API instance) or Discord API token (Discord Bot).
+```
+```
 # Wrappers
 Currently, there is only a python wrapper.
 -  [sg-api.py](https://github.com/stainlesteel/sg_api.py)
