@@ -23,9 +23,6 @@ You can use the Docker Hub image.
 ```bash
 docker pull stainlesteel/squid-game-api:latest
 ```
-
-```
-```
 # Wrappers
 Currently, there is only a python wrapper.
 -  [sg-api.py](https://github.com/stainlesteel/sg_api.py)
